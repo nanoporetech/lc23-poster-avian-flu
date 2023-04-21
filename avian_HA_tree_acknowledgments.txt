@@ -1,0 +1,1084 @@
+We gratefully acknowledge the authors, originating and submitting laboratories of the sequences from GISAID’s EpiFlu™ Database on which this research is based. The list is detailed below.
+All submitters of data may be contacted directly via www.gisaid.org
+strain	author	submitting_lab
+A/pheasant/Scotland/000348/2021	?	Animal And Plant Health Agency (apha)
+A/Canadagoose/England/385250/2021	?	Animal And Plant Health Agency (apha)
+A/muteswan/England/053054/2021	?	Animal And Plant Health Agency (apha)
+A/chicken/England/011981/2022	?	Animal And Plant Health Agency (apha)
+A/Muscovyduck/England/074477/2021	?	Animal And Plant Health Agency (apha)
+A/domesticduck/England/058612/2021	?	Animal And Plant Health Agency (apha)
+A/turkey/England/055251/2021	?	Animal And Plant Health Agency (apha)
+A/chicken/England/012967/2022	?	Animal And Plant Health Agency (apha)
+A/turkey/England/112259/2022	?	Animal And Plant Health Agency (apha)
+A/chicken/Wales/116603/2022	?	Animal And Plant Health Agency (apha)
+A/Greylaggoose/England/054503/2021	?	Animal And Plant Health Agency (apha)
+A/chicken/England/057314/2021	?	Animal And Plant Health Agency (apha)
+A/turkey/England/056764/2021	?	Animal And Plant Health Agency (apha)
+A/muteswan/England/117298/2022	?	Animal And Plant Health Agency (apha)
+A/chicken/England/123975/2022	?	Animal And Plant Health Agency (apha)
+A/chicken/England/022451/2023	?	Animal And Plant Health Agency (apha)
+A/muteswan/England/122962/2023	?	Animal And Plant Health Agency (apha)
+A/commonbuzzard/England/122650/2023	?	Animal And Plant Health Agency (apha)
+A/Chicken/Scotland/015627/2023	?	Animal And Plant Health Agency (apha)
+A/chicken/Scotland/026217/2023	?	Animal And Plant Health Agency (apha)
+A/Chicken/Scotland/017391/2023	?	Animal And Plant Health Agency (apha)
+A/chicken/Wales/023780/2023	?	Animal And Plant Health Agency (apha)
+A/Domesticduck/Wales/020076/2023	?	Animal And Plant Health Agency (apha)
+A/GreylagGoose/England/175256/2022	?	Animal And Plant Health Agency (apha)
+A/Bushdog/England/037680/2022	?	Animal And Plant Health Agency (apha)
+A/greylaggoose/England/321390/2023	?	Animal And Plant Health Agency (apha)
+A/greylaggoose/England/123200/2023	?	Animal And Plant Health Agency (apha)
+A/chicken/Nepal/T9-BH/2011	?	Animal And Plant Health Agency (apha)
+A/chicken/Nepal/PT-17/2012	?	Animal And Plant Health Agency (apha)
+A/chicken/Nepal/PT-16/2012	?	Animal And Plant Health Agency (apha)
+A/chicken/Nepal/T-260/2013	?	Animal And Plant Health Agency (apha)
+A/chicken/Nepal/T-299/2013	?	Animal And Plant Health Agency (apha)
+A/chicken/Nepal/T-273/2013	?	Animal And Plant Health Agency (apha)
+A/chicken/Nepal/T-301/2013	?	Animal And Plant Health Agency (apha)
+A/chicken/Nepal/T-279/2013	?	Animal And Plant Health Agency (apha)
+A/chicken/Nepal/T-272/2013	?	Animal And Plant Health Agency (apha)
+A/chicken/Nepal/T-278/2013	?	Animal And Plant Health Agency (apha)
+A/chicken/Nepal/PT-1/2012	?	Animal And Plant Health Agency (apha)
+A/chicken/Nepal/T-359/2014	?	Animal And Plant Health Agency (apha)
+A/mynah/Austria-quarantine/13063485-025/2013	?	Animal And Plant Health Agency (apha)
+A/mynah/Austria-quarantine/13063485-026/2013	?	Animal And Plant Health Agency (apha)
+A/mynah/Austria-quarantine/13064792-010/2013	?	Animal And Plant Health Agency (apha)
+A/quail/Korea/H526/2021	?	Animal And Plant Quarantine Agency (apqa)
+A/mandarinduck/Korea/WA585/2021	?	Animal And Plant Quarantine Agency (apqa)
+A/chicken/Lao/NL1500466/2015	?	Animal And Plant Quarantine Agency (s 2158)
+A/duck/Lao/NL1501256/2017	?	Animal And Plant Quarantine Agency (s 2158)
+A/chicken/Lao/NL1501255/2017	?	Animal And Plant Quarantine Agency (s 2158)
+A/chicken/Lao/NL1500548/2016	?	Animal And Plant Quarantine Agency (s 2158)
+A/chicken/Lao/NL1502337/2017	?	Animal And Plant Quarantine Agency (s 2158)
+A/chicken/Lao/NL1501199/2017	?	Animal And Plant Quarantine Agency (s 2158)
+A/quail/Lao/NL1501146/2017	?	Animal And Plant Quarantine Agency (s 2158)
+A/duck/Lao/NL1503024/2017	?	Animal And Plant Quarantine Agency (s 2158)
+A/duck/Lao/NL1504599/2018	?	Animal And Plant Quarantine Agency (s 2158)
+A/chicken/Lao/NL1810600/2018	?	Animal And Plant Quarantine Agency (s 2158)
+A/chicken/Lao/NL1810601/2018	?	Animal And Plant Quarantine Agency (s 2158)
+A/chicken/Lao/NL1810602/2018	?	Animal And Plant Quarantine Agency (s 2158)
+A/chicken/Cambodia/10/2018	?	Animal And Plant Quarantine Agency (s 2158)
+A/chicken/Cambodia/11/2018	?	Animal And Plant Quarantine Agency (s 2158)
+A/chicken/Cambodia/02/2018	?	Animal And Plant Quarantine Agency (s 2158)
+A/chicken/Cambodia/03/2018	?	Animal And Plant Quarantine Agency (s 2158)
+A/chicken/Cambodia/09/2018	?	Animal And Plant Quarantine Agency (s 2158)
+A/chicken/Cambodia/01/2018	?	Animal And Plant Quarantine Agency (s 2158)
+A/chicken/Cambodia/12/2018	?	Animal And Plant Quarantine Agency (s 2158)
+A/chicken/Cambodia/14/2019	?	Animal And Plant Quarantine Agency (s 2158)
+A/chicken/Cambodia/13/2019	?	Animal And Plant Quarantine Agency (s 2158)
+A/pelican/France/21P013720/2021	?	Anses Agence Nationale De Securite Sanitaire De L’alimentation
+A/swan/France/21P012384/2021	?	Anses Agence Nationale De Securite Sanitaire De L’alimentation
+A/egret/France/21P013418/2021	?	Anses Agence Nationale De Securite Sanitaire De L’alimentation
+A/goose/France/21P014207/2021	?	Anses Agence Nationale De Securite Sanitaire De L’alimentation
+A/chicken/France/21P013076/2021	?	Anses Agence Nationale De Securite Sanitaire De L’alimentation
+A/goose/France/21P013228/2021	?	Anses Agence Nationale De Securite Sanitaire De L’alimentation
+A/mallard/France/22P019377/2022	?	Anses Agence Nationale De Securite Sanitaire De L’alimentation
+A/fox/France/23P002844/2023	?	Anses Agence Nationale De Securite Sanitaire De L’alimentation
+A/vulture/France/22P018210/2022	?	Anses Agence Nationale De Securite Sanitaire De L’alimentation
+A/turkey/France/22P024731/2022	?	Anses Agence Nationale De Securite Sanitaire De L’alimentation
+A/duck/France/22P024591/2022	?	Anses Agence Nationale De Securite Sanitaire De L’alimentation
+A/duck/France/22P025078/2022	?	Anses Agence Nationale De Securite Sanitaire De L’alimentation
+A/duck/France/22P025647/2022	?	Anses Agence Nationale De Securite Sanitaire De L’alimentation
+A/duck/France/22P025252/2022	?	Anses Agence Nationale De Securite Sanitaire De L’alimentation
+A/duck/France/22P025498/2022	?	Anses Agence Nationale De Securite Sanitaire De L’alimentation
+A/cat/France/22P026544/2022	?	Anses Agence Nationale De Securite Sanitaire De L’alimentation
+A/bear/France/23P002848/2022	?	Anses Agence Nationale De Securite Sanitaire De L’alimentation
+A/Environment/EastJava/LBM-LM13/2012	?	Bbalitvet
+A/duck/Vietnam/NCVD-375/2009	?	Centers For Disease Control And Prevention
+A/chicken/Vietnam/NCVD-292/2009	?	Centers For Disease Control And Prevention
+A/poultry/Vietnam/NCVD-416/2010	?	Centers For Disease Control And Prevention
+A/chicken/Vietnam/NCVD-406/2010	?	Centers For Disease Control And Prevention
+A/chicken/Vietnam/NCVD-405/2010	?	Centers For Disease Control And Prevention
+A/muscovyduck/Vietnam/NCVD-66/2007	?	Centers For Disease Control And Prevention
+A/chicken/Vietnam/NCVD-106/2007	?	Centers For Disease Control And Prevention
+A/muscovyduck/Vietnam/NCVD-155/2008	?	Centers For Disease Control And Prevention
+A/duck/Vietnam/NCVD-140/2008	?	Centers For Disease Control And Prevention
+A/chicken/Vietnam/NCVD-109/2007	?	Centers For Disease Control And Prevention
+A/chicken/Vietnam/NCVD-080/2008	?	Centers For Disease Control And Prevention
+A/chicken/Bangladesh/11RS-1984-30/2011	?	Centers For Disease Control And Prevention
+A/chicken/Vietnam/NCVD-282/2009	?	Centers For Disease Control And Prevention
+A/chicken/Vietnam/NCVD-395/2010	?	Centers For Disease Control And Prevention
+A/muscovyduck/Vietnam/NCVD-403/2010	?	Centers For Disease Control And Prevention
+A/muscovyduck/Vietnam/NCVD-393/2009	?	Centers For Disease Control And Prevention
+A/AmericanWigeon/SouthCarolina/22000345001/2021	?	Centers For Disease Control And Prevention
+A/duck/Vietnam/NCVD-885/2010	?	Centers For Disease Control And Prevention
+A/duck/Vietnam/NCVD-673/2011	?	Centers For Disease Control And Prevention
+A/duck/Vietnam/NCVD-945/2011	?	Centers For Disease Control And Prevention
+A/duck/Vietnam/NCVD-671/2011	?	Centers For Disease Control And Prevention
+A/chicken/Vietnam/NCVD-1059/2011	?	Centers For Disease Control And Prevention
+A/chicken/Vietnam/NCVD-686/2011	?	Centers For Disease Control And Prevention
+A/duck/Vietnam/NCVD-931/2011	?	Centers For Disease Control And Prevention
+A/muscovyduck/Vietnam/NCVD-1256/2012	?	Centers For Disease Control And Prevention
+A/duck/Vietnam/NCVD-1234/2012	?	Centers For Disease Control And Prevention
+A/chicken/Vietnam/NCVD-399/2010	?	Centers For Disease Control And Prevention
+A/poultry/Bangladesh/91392/2013	?	Centers For Disease Control And Prevention
+A/duck/Vietnam/NCVD-1930/2012	?	Centers For Disease Control And Prevention
+A/duck/Vietnam/NCVD-1875/2012	?	Centers For Disease Control And Prevention
+A/duck/Vietnam/NCVD-1905/2012	?	Centers For Disease Control And Prevention
+A/Lao/2121/2020	?	Centers For Disease Control And Prevention
+A/goose/Ghana/17/2015	?	Crick Worldwide Influenza Centre
+A/EurasianWigeon/Netherlands/4/2020	?	Erasmus Medical Center
+A/EurasianWigeon/Netherlands/5/2020	?	Erasmus Medical Center
+A/EurasianWigeon/Netherlands/1/2020	?	Erasmus Medical Center
+A/Mallard/Netherlands/13/2021	?	Erasmus Medical Center
+A/Mallard/Netherlands/15/2021	?	Erasmus Medical Center
+A/Blackheadedgull/Netherlands/1/2022	?	Erasmus Medical Center
+A/Mallard/Netherlands/7/2021	?	Erasmus Medical Center
+A/Mallard/Netherlands/8/2021	?	Erasmus Medical Center
+A/Mallard/Netherlands/5/2021	?	Erasmus Medical Center
+A/BarnacleGoose/Netherlands/7/2021	?	Erasmus Medical Center
+A/CommonTern/Netherlands/22/2022	?	Erasmus Medical Center
+A/SandwichTern/Netherlands/13/2022	?	Erasmus Medical Center
+A/SandwichTern/Netherlands/15/2022	?	Erasmus Medical Center
+A/CommonTern/Netherlands/27/2022	?	Erasmus Medical Center
+A/EuropeanHerringGull/Netherlands/8/2022	?	Erasmus Medical Center
+A/EuropeanHerringGull/Netherlands/9/2022	?	Erasmus Medical Center
+A/EuropeanHerringGull/Netherlands/7/2022	?	Erasmus Medical Center
+A/Blackheadedgull/Netherlands/14/2023	?	Erasmus Medical Center
+A/Blackheadedgull/Netherlands/10/2023	?	Erasmus Medical Center
+A/Blackheadedgull/Netherlands/11/2023	?	Erasmus Medical Center
+A/Blackheadedgull/Netherlands/2/2023	?	Erasmus Medical Center
+A/Europeanherringgull/Netherlands/2/2023	?	Erasmus Medical Center
+A/Peregrinefalcon/Netherlands/1/2023	?	Erasmus Medical Center
+A/Europeanherringgull/Netherlands/1/2023	?	Erasmus Medical Center
+A/Blackheadedgull/Netherlands/13/2023	?	Erasmus Medical Center
+A/HerringGull/1/2021	?	Erasmus Medical Center
+A/Peregrinefalcon/Netherlands/5/2023	?	Erasmus Medical Center
+A/EurasianSpoonbill/Netherlands/1A/2022	?	Erasmus Medical Center
+A/CommonTern/Netherlands/3/2022	?	Erasmus Medical Center
+A/Peregrinefalcon/Netherlands/2/2023	?	Erasmus Medical Center
+A/Falcon/Dubai/AR3430-2293/2014	?	Friedrich Loeffler Institut
+A/SeaGull/Dubai/AR3443-25041/2014	?	Friedrich Loeffler Institut
+A/Quail/Dubai/AR3445-25043/2014	?	Friedrich Loeffler Institut
+A/Stonecurlew/Dubai/AR3444-25042/2014	?	Friedrich Loeffler Institut
+A/environment/Hangzhou/109-2/2013	?	Hangzhou Center For Disease Control And Prevention
+A/chicken/Myanmar/CS-14/2017	?	Import From Public Domain
+A/chicken/Myanmar/OP-11/2017	?	Import From Public Domain
+A/chicken/Myanmar/OP-12/2017	?	Import From Public Domain
+A/chicken/Myanmar/CS-13/2017	?	Import From Public Domain
+A/Muscovy_duck/Vietnam/HU10-1705/2018	?	Import From Public Domain
+A/duck/Vietnam/HU10-1815/2018	?	Import From Public Domain
+A/chicken/Vietnam/HU10-1044/2018	?	Import From Public Domain
+A/chicken/Vietnam/HU10-1051/2018	?	Import From Public Domain
+A/Muscovy_duck/Vietnam/HU10-1139/2018	?	Import From Public Domain
+A/goose/Vietnam/HU10-1140/2018	?	Import From Public Domain
+A/Muscovy_duck/Vietnam/HU10-1703/2018	?	Import From Public Domain
+A/duck/Vietnam/HU10-1759/2018	?	Import From Public Domain
+A/duck/Vietnam/HU10-1756/2018	?	Import From Public Domain
+A/duck/Vietnam/HU10-1757/2018	?	Import From Public Domain
+A/chicken/Cambodia/Z57W9M3/2015	?	Institut Pasteur Du Cambodia
+A/environment/Cambodia/Z12CW7M3/2015	?	Institut Pasteur Du Cambodia
+A/duck/Cambodia/Z13W7M3/2015	?	Institut Pasteur Du Cambodia
+A/duck/Cambodia/a24W9M1/2016	?	Institut Pasteur Du Cambodia
+A/duck/Cambodia/a23W9M1/2016	?	Institut Pasteur Du Cambodia
+A/chicken/Cambodia/a27W9M1/2016	?	Institut Pasteur Du Cambodia
+A/duck/Cambodia/Z86W11M1/2015	?	Institut Pasteur Du Cambodia
+A/chicken/Cambodia/a17W9M1/2016	?	Institut Pasteur Du Cambodia
+A/chicken/Cambodia/Z800W46M3/2015	?	Institut Pasteur Du Cambodia
+A/chicken/Cambodia/Z907W52M1/2015	?	Institut Pasteur Du Cambodia
+A/chicken/Jiangsu/1222TCCX035-P/2014	?	"Institute Of Microbiology, Chinese Academy Of Sciences"
+A/duck/Hunan/1207YYGK100-P/2013	?	"Institute Of Microbiology, Chinese Academy Of Sciences"
+A/chicken/Jilin/0412MHK002-O/2015	?	"Institute Of Microbiology, Chinese Academy Of Sciences"
+A/Black-neckedGrebe/InnerMongolia/Lung3/2015	?	"Institute Of Microbiology, Chinese Academy Of Sciences"
+A/muteswan/SwitzerlandTicino/221214/2022	?	Institute Of Virology And Immunology (ivi)
+A/blackswan/SwitzerlandZurich/230131/2023	?	Institute Of Virology And Immunology (ivi)
+A/gull/SwitzerlandLuzern/230119/2023	?	Institute Of Virology And Immunology (ivi)
+A/heron/SwitzerlandBasel/230080/2023	?	Institute Of Virology And Immunology (ivi)
+A/peacock/SwitzerlandZurich/221192/2022	?	Institute Of Virology And Immunology (ivi)
+A/chicken/Niger/17RS167-1/2017	?	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/Niger/17RS167-3/2017	?	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/buzzard/Italy/23VIR4402/2023	?	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/blackheadedgull/Italy/23VIR11064/2023	?	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/blackheadedgull/Italy/23VIR11084/2023	?	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/blackheadedgull/Italy/23VIR10994/2023	?	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/blackheadedgull/Italy/23VIR11024/2023	?	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/duck/Iran/17RS65412/2017	?	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/Ghana/16VIR4304-5/2016	?	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/duck/Togo/16VIR6560-10/2016	?	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/Togo/16VIR6560-6/2016	?	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/BurkinaFaso/15VIR1774-35/2015	?	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/Ghana/16VIR4304-13/2016	?	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/Ghana/16VIR4304-9/2016	?	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/Ghana/16VIR4304-1/2016	?	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/Ghana/16VIR4304-42/2016	?	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/guinea_fowl/Ghana/16VIR4304-25/2016	?	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/duck/Ghana/16VIR4304-21/2016	?	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/Ghana/16VIR4304-29/2016	?	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/Togo/17RS1021-7/2017	?	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/Togo/17RS1021-1/2017	?	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/CoteDIvoire/17RS804-65/2016	?	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/CoteDIvoire/17RS804-73/2016	?	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/duck/CoteDIvoire/17RS804-79/2016	?	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/Lebanon/16VIR2783-20/2016	?	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/Niger/16VIR2650-1/2016	?	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/Niger/16VIR2650-7/2016	?	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/Nigeria/17RS737-44/2017	?	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/Nigeria/17RS737-45/2017	?	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/Nigeria/17RS737-47/2017	?	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/Nigeria/17RS737-46/2017	?	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/Nigeria/17RS737-48/2017	?	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/Niger/16VIR5239-2/2016	?	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/Cameroon/17RS1661-10/2017	?	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/Cameroon/17RS1661-8/2017	?	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/Niger/17RS167-11/2017	?	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/Niger/17RS167-7/2017	?	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/duck/Niger/17RS32-8/2016	?	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/duck/Niger/17RS32-4/2016	?	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/duck/Niger/17RS32-7/2016	?	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/Spotbilledduck/Korea/K22920/2022	?	Konkuk University
+A/Spotbilledduck/Korea/K228562/2022	?	Konkuk University
+A/Spotbilledduck/Korea/K228621/2022	?	Konkuk University
+A/duck/Vietnam/NCVD1584/2012NIBRG-301	?	National Institute For Biological Standards And Control (nibsc)
+A/chicken/Kagoshima/21A6T/2021	?	National Institute Of Animal Health
+A/chicken/Japan/AnimalQuarantine-HE79/2015	?	National Institute Of Animal Health
+A/Nepal/19FL1997/2019	?	National Institute Of Infectious Diseases (niid)
+A/Northerngannet/Sweden/SVA220525SZ0402FB001671O/2022	?	National Veterinary Institute
+A/northerngannet/Sweden/SVA220623SZ0232FB001984N/2022	?	National Veterinary Institute
+A/northerngannet/Sweden/SVA220623SZ0232FB001982O/2022	?	National Veterinary Institute
+A/Gallusgallus/Belgium/113870002/2022	?	"Sciensano, Department Of Animal Infectious Diseases"
+A/goose/Bangladesh/2558/2019	?	St. Jude Children's Research Hospital
+A/duck/Bangladesh/3230/2019	?	St. Jude Children's Research Hospital
+A/chicken/Tyumen/4779V/2021	?	State Research Center Of Virology And Biotechnology (vector)
+A/chicken/Tyumen/8197V/2021	?	State Research Center Of Virology And Biotechnology (vector)
+A/chicken/Kirov/631V/2021	?	State Research Center Of Virology And Biotechnology (vector)
+A/chicken/Magadan/23559V/2022	?	State Research Center Of Virology And Biotechnology (vector)
+A/chicken/RostovonDon/1593V/2021	?	State Research Center Of Virology And Biotechnology (vector)
+A/chicken/RostovonDon/1596V/2021	?	State Research Center Of Virology And Biotechnology (vector)
+A/chicken/Orenburg/461V/2021	?	State Research Center Of Virology And Biotechnology (vector)
+A/turkey/Tyumen/152V/2021	?	State Research Center Of Virology And Biotechnology (vector)
+A/turkey/Tyumen/156V/2021	?	State Research Center Of Virology And Biotechnology (vector)
+A/chicken/Tyumen/4795V/2021	?	State Research Center Of Virology And Biotechnology (vector)
+A/chicken/Kursk/23015V/2022	?	State Research Center Of Virology And Biotechnology (vector)
+A/chicken/Kursk/2305V/2022	?	State Research Center Of Virology And Biotechnology (vector)
+A/chicken/Kursk/2304V/2022	?	State Research Center Of Virology And Biotechnology (vector)
+A/turkey/Stavropol/21112V/2022	?	State Research Center Of Virology And Biotechnology (vector)
+A/turkey/Stavropol/2117V/2022	?	State Research Center Of Virology And Biotechnology (vector)
+A/turkey/Stavropol/21118V/2022	?	State Research Center Of Virology And Biotechnology (vector)
+A/turkey/Stavropol/2111V/2022	?	State Research Center Of Virology And Biotechnology (vector)
+A/turkey/Stavropol/2114V/2022	?	State Research Center Of Virology And Biotechnology (vector)
+A/turkey/Stavropol/21115V/2022	?	State Research Center Of Virology And Biotechnology (vector)
+A/chicken/LongAn/1428VTC/2019	?	State Research Center Of Virology And Biotechnology (vector)
+A/chicken/LongAn/1427VTC/2019	?	State Research Center Of Virology And Biotechnology (vector)
+A/duck/CzechRepublic/185202/2021	?	State Veterinary Institute Prague
+A/greyheron/CzechRepublic/236081K/2021	?	State Veterinary Institute Prague
+A/barnaclegoose/Denmark/17572101/20210301	?	Statens Serum Institute
+A/Guizhou/2/2013	?	Who Chinese National Influenza Center
+A/Guizhou/1/2013	?	Who Chinese National Influenza Center
+A/domesticgoose/Poland/H397N/2022	"Świętoń E., Śmietanka K."	"National Veterinary Research Institut Poland, Piwet Pib"
+A/chicken/CzechRepublic/872orig/2023	"Alexander,Nagy;Lenka,Cern?kova;Martina,Stara"	State Veterinary Institute Prague
+A/chicken/CzechRepublic/2968/2022	"Alexander,Nagy;Lenka,Cernikova;Martina,Stara"	State Veterinary Institute Prague
+A/chicken/CzechRepublic/80281/2022	"Alexander,Nagy;Lenka,Cernikova;Martina,Stara"	State Veterinary Institute Prague
+A/chicken/CzechRepublic/11orig/2023	"Alexander,Nagy;Lenka,Cernikova;Martina,Stara"	State Veterinary Institute Prague
+A/greyheron/CzechRepublic/23608/2021	"Alexander,Nagy;Lenka,Cernikova;Martina,Stara"	State Veterinary Institute Prague
+A/muteswan/CzechRepublic/257022/2021	"Alexander,Nagy;Lenka,Cernikova;Martina,Stara"	State Veterinary Institute Prague
+A/pheasant/CzechRepublic/258272/2021	"Alexander,Nagy;Lenka,Cernikova;Martina,Stara"	State Veterinary Institute Prague
+A/pheasant/CzechRepublic/258273/2021	"Alexander,Nagy;Lenka,Cernikova;Martina,Stara"	State Veterinary Institute Prague
+A/goose/CzechRepublic/226082/2021	"Alexander,Nagy;Lenka,Cernikova;Martina,Stara"	State Veterinary Institute Prague
+A/goose/CzechRepublic/22750/2021	"Alexander,Nagy;Lenka,Cernikova;Martina,Stara"	State Veterinary Institute Prague
+A/chicken/CzechRepublic/611/2021	"Alexander,Nagy;Lenka,Cernikova;Martina,Stara"	State Veterinary Institute Prague
+A/chicken/CzechRepublic/1690/2023	"Alexander,Nagy;Lenka,Cernikova;Martina,Stara"	State Veterinary Institute Prague
+A/chicken/CzechRepublic/1690orig/2023	"Alexander,Nagy;Lenka,Cernikova;Martina,Stara"	State Veterinary Institute Prague
+A/domesticgoose/CzechRepublic/2753/2023	"Alexander,Nagy;Lenka,Cernikova;Martina,Stara"	State Veterinary Institute Prague
+A/domesticduck/CzechRepublic/636orig/2023	"Alexander,Nagy;Lenka,Cernikova;Martina,Stara"	State Veterinary Institute Prague
+A/chicken/CzechRepublic/180hall3Aorig/2023	"Alexander,Nagy;Lenka,Cernikova;Martina,Stara"	State Veterinary Institute Prague
+A/chicken/CzechRepublic/27504/2023	"Alexander,Nagy;Lenka,Cernikova;Martina,Stara"	State Veterinary Institute Prague
+A/greylaggoose/CzechRepublic/94orig/2023	"Alexander,Nagy;Lenka,Cernikova;Martina,Stara"	State Veterinary Institute Prague
+A/chicken/CzechRepublic/238692orig/2022	"Alexander,Nagy;Lenka,Cernikova;Martina,Stara"	State Veterinary Institute Prague
+A/chicken/CzechRepublic/229103/2022	"Alexander,Nagy;Lenka,Cernikova;Martina,Stara"	State Veterinary Institute Prague
+A/chicken/CzechRepublic/229692/2022	"Alexander,Nagy;Lenka,Cernikova;Martina,Stara"	State Veterinary Institute Prague
+A/chicken/CzechRepublic/229691/2022	"Alexander,Nagy;Lenka,Cernikova;Martina,Stara"	State Veterinary Institute Prague
+A/environment/CzechRepublic/12209hall8/2023	"Alexander,Nagy;Lenka,Cernikova;Martina,Stara"	State Veterinary Institute Prague
+A/chicken/CzechRepublic/229682/2022	"Alexander,Nagy;Lenka,Cernikova;Martina,Stara"	State Veterinary Institute Prague
+A/chicken/CzechRepublic/185orig/2023	"Alexander,Nagy;Lenka,Cernikova;Martina,Stara"	State Veterinary Institute Prague
+A/goose/CzechRepublic/25322179/2021	"Alexander,Nagy;Martina,Stara;Lenka,Cernikova"	State Veterinary Institute Prague
+A/duck/CzechRepublic/913/2022	"Alexander,Nagy;Martina,Stara;Lenka,Cernikova"	State Veterinary Institute Prague
+A/chicken/Ecuador/NICINSPIAGROCALIDADFBC4/2022	"Alfredo,Bruno; Domenica,deMora; Maritza,Olmedo; Jimmy,Garces; Diego,Morales; Maria,Vaca; Euclides,DelaTorre; Lidia,Burbano; Johanna,Salas; Cristian,Imbacuan; Jose,Chanatasig; Margoth,Barrionuevo; Maria,CristinaGalante; Ruben,Armas"	Instituto Nacional De Investigacion En Salud Publica (inspi)
+A/chicken/Ecuador/NICINSPIAGROCALIDADFBC2/2022	"Alfredo,Bruno; Domenica,deMora; Maritza,Olmedo; Jimmy,Garces; Diego,Morales; Maria,Vaca; Euclides,DelaTorre; Lidia,Burbano; Johanna,Salas; Cristian,Imbacuan; Jose,Chanatasig; Margoth,Barrionuevo; Maria,CristinaGalante; Ruben,Armas"	Instituto Nacional De Investigacion En Salud Publica (inspi)
+A/turkey/EastJava/Av154/2013	"AM,Nastri; AL,Poetranto; ED,Poetranto; SPA,Wahyuningsih; W,Darmanto; EF,Puruhito; L,Wulandari; G,Soegiarto; YK,Shimizu; Y,Mori; K,Shimizu"	Kobe University Graduate School Of Medicine
+A/turkey/EastJava/Av157/2013	"AM,Nastri; AL,Poetranto; ED,Poetranto; SPA,Wahyuningsih; W,Darmanto; EF,Puruhito; L,Wulandari; G,Soegiarto; YK,Shimizu; Y,Mori; K,Shimizu"	Kobe University Graduate School Of Medicine
+A/chicken/EastJava/Av185/2014	"AM,Nastri; AL,Poetranto; ED,Poetranto; SPA,Wahyuningsih; W,Darmanto; EF,Puruhito; L,Wulandari; G,Soegiarto; YK,Shimizu; Y,Mori; K,Shimizu"	Kobe University Graduate School Of Medicine
+A/chicken/EastJava/Av235/2014	"AM,Nastri; AL,Poetranto; ED,Poetranto; SPA,Wahyuningsih; W,Darmanto; EF,Puruhito; L,Wulandari; G,Soegiarto; YK,Shimizu; Y,Mori; K,Shimizu"	Kobe University Graduate School Of Medicine
+A/duck/EastJava/Av259/2014	"AM,Nastri; AL,Poetranto; ED,Poetranto; SPA,Wahyuningsih; W,Darmanto; EF,Puruhito; L,Wulandari; G,Soegiarto; YK,Shimizu; Y,Mori; K,Shimizu"	Kobe University Graduate School Of Medicine
+A/chicken/EastJava/Av165/2014	"AM,Nastri; AL,Poetranto; ED,Poetranto; SPA,Wahyuningsih; W,Darmanto; EF,Puruhito; L,Wulandari; G,Soegiarto; YK,Shimizu; Y,Mori; K,Shimizu"	Kobe University Graduate School Of Medicine
+A/layinghen/Moldova/68222VIR6382/2022	"Arseniev, S.; Groza, O.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/layinghen/Moldova/68122VIR6381/2022	"Arseniev, S.; Groza, O.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/Greatcormorant/Luxembourg/21243185/2021	"Aurélie Sausy, Chantal Snoeck"	Luxembourg Institute Of Health
+A/Canadagoose/Luxembourg/21237199/2021	"Aurélie Sausy, Chantal Snoeck"	Luxembourg Institute Of Health
+A/Greyheron/Luxembourg/21243177/2021	"Aurélie Sausy, Chantal Snoeck"	Luxembourg Institute Of Health
+A/Canadagoose/Luxembourg/21239614/2021	"Aurélie Sausy, Chantal Snoeck"	Luxembourg Institute Of Health
+A/Canadagoose/Luxembourg/21217776/2021	"Aurélie Sausy, Chantal Snoeck"	Luxembourg Institute Of Health
+A/Canadagoose/Luxembourg/22012198/2022	"Aurélie Sausy, Chantal Snoeck"	Luxembourg Institute Of Health
+A/Greylaggoose/Luxembourg/21217773/2021	"Aurélie Sausy, Chantal Snoeck"	Luxembourg Institute Of Health
+A/Barnaclegoose/Luxembourg/22033922/2022	"Aurélie Sausy, Chantal Snoeck"	Luxembourg Institute Of Health
+A/turkey/Italy/21VIR115862/2021	"Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/turkey/Italy/21VIR112511/2021	"Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Pastori, A.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/broiler/Italy/22VIR2783/2022	"Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Pastori, A.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/hawk/Italy/22VIR4285/2022	"Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Pastori, A.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/Italy/21VIR92196/2021	"Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Pastori, A.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/turkey/Italy/21VIR10929/2021	"Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Pastori, A.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/Italy/21VIR104631/2021	"Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Pastori, A.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/Italy/21VIR109991/2021	"Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Pastori, A.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/Italy/22VIR2341/2022	"Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Pastori, A.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/broiler/Italy/21VIR11800/2021	"Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Pastori, A.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/layinghen/Italy/22VIR15212/2022	"Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Pastori, A.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/Italy/22VIR19534/2022	"Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Pastori, A.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/turkey/Italy/21VIR11164/2021	"Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Pastori, A.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/Italy/21VIR11485/2021	"Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Pastori, A.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/turkey/Italy/21VIR10930/2021	"Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Pastori, A.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/Goose/Italy/22VIR96733/2022	"Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Pastori, A.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/teal/Italy/22VIR991719/2022	"Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Pastori, A.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/teal/Italy/22VIR1039633/2022	"Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Pastori, A.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/turkey/Italy/22VIR110564/2022	"Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Pastori, A.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/turkey/Italy/22VIR106274/2022	"Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Pastori, A.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/layinghen/Romania/1134322VIR41061/2022	"Barbuceanu, F; Onita, I.; Neicut, A.; Motiu, R.; Burlacu, R.; Zecchin, B.; Barbierato, G.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/layinghen/Romania/1156222VIR41064/2022	"Barbuceanu, F; Onita, I.; Neicut, A.; Motiu, R.; Burlacu, R.; Zecchin, B.; Barbierato, G.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/pelican/Romania/1133422VIR41063/2022	"Barbuceanu, F; Onita, I.; Neicut, A.; Motiu, R.; Burlacu, R.; Zecchin, B.; Barbierato, G.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/pelican/Romania/1133522VIR41062/2022	"Barbuceanu, F; Onita, I.; Neicut, A.; Motiu, R.; Burlacu, R.; Zecchin, B.; Barbierato, G.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/swan/Romania/1690522VIR27491/2021	"Barbuceanu, F.; Onita, I.; Neicut, A.; Motiu, R.; Burlacu, R.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/swan/Romania/1065622VIR27496/2022	"Barbuceanu, F.; Onita, I.; Neicut, A.; Motiu, R.; Burlacu, R.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/swan/Romania/1067822VIR27497/2022	"Barbuceanu, F.; Onita, I.; Neicut, A.; Motiu, R.; Burlacu, R.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/swan/Romania/1039422VIR27493/2022	"Barbuceanu, F.; Onita, I.; Neicut, A.; Motiu, R.; Burlacu, R.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/swan/Romania/1098622VIR27498/2022	"Barbuceanu, F.; Onita, I.; Neicut, A.; Motiu, R.; Burlacu, R.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/cygnuscygnus/Romania/1016423VIR11458/2023	"Barbuceanu, F.; Onita, I.; Neicut, A.; Motiu, R.; Burlacu, R.; Pastori, A.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/cygnuscygnus/Romania/1000823VIR11453/2023	"Barbuceanu, F.; Onita, I.; Neicut, A.; Motiu, R.; Burlacu, R.; Pastori, A.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/turkey/Romania/1027123VIR114513/2023	"Barbuceanu, F.; Onita, I.; Neicut, A.; Motiu, R.; Burlacu, R.; Pastori, A.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/anasplatyrhynchos/Romania/1036823VIR13682/2023	"Barbuceanu, F.; Onita, I.; Neicut, A.; Motiu, R.; Burlacu, R.; Pastori, A.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/turkey/Romania/1028123VIR114510/2023	"Barbuceanu, F.; Onita, I.; Neicut, A.; Motiu, R.; Burlacu, R.; Pastori, A.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/turkey/Romania/1028123VIR114511/2023	"Barbuceanu, F.; Onita, I.; Neicut, A.; Motiu, R.; Burlacu, R.; Pastori, A.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/cygnuscygnus/Romania/1719823VIR11452/2022	"Barbuceanu, F.; Onita, I.; Neicut, A.; Motiu, R.; Burlacu, R.; Pastori, A.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/cygnusolor/Romania/1714223VIR11451/2022	"Barbuceanu, F.; Onita, I.; Neicut, A.; Motiu, R.; Burlacu, R.; Pastori, A.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/cygnuscygnus/Romania/1017123VIR11459/2023	"Barbuceanu, F.; Onita, I.; Neicut, A.; Motiu, R.; Burlacu, R.; Pastori, A.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/cygnusolor/Romania/1010323VIR11457/2023	"Barbuceanu, F.; Onita, I.; Neicut, A.; Motiu, R.; Burlacu, R.; Pastori, A.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/cygnusolor/Romania/1010123VIR11455/2023	"Barbuceanu, F.; Onita, I.; Neicut, A.; Motiu, R.; Burlacu, R.; Pastori, A.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/cygnusolor/Romania/1003923VIR11454/2023	"Barbuceanu, F.; Onita, I.; Neicut, A.; Motiu, R.; Burlacu, R.; Pastori, A.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/duck/Bangladesh/25887/2015	"Barman,S.; Marinova-Petkova,A.; Hasan,M.K.; Akhtar,S.; Turner,J.C.; Franks,J.; Walker,D.; Seiler,P.; Friedman,K.; Kercher,L.; Kayali,G.; Jones-Engel,L.; McKenzie,P.; Krauss,S.; Webby,R.J.; Feeroz,M.M.; Webster,R.G."	
+A/duck/Bangladesh/25683/2015	"Barman,S.; Marinova-Petkova,A.; Hasan,M.K.; Akhtar,S.; Turner,J.C.; Franks,J.; Walker,D.; Seiler,P.; Friedman,K.; Kercher,L.; Kayali,G.; Jones-Engel,L.; McKenzie,P.; Krauss,S.; Webby,R.J.; Feeroz,M.M.; Webster,R.G."	
+A/environment/Bangladesh/26170/2015	"Barman,S.; Marinova-Petkova,A.; Hasan,M.K.; Akhtar,S.; Turner,J.C.; Franks,J.; Walker,D.; Seiler,P.; Friedman,K.; Kercher,L.; Kayali,G.; Jones-Engel,L.; McKenzie,P.; Krauss,S.; Webby,R.J.; Feeroz,M.M.; Webster,R.G."	
+A/duck/Bangladesh/26182/2015	"Barman,S.; Marinova-Petkova,A.; Hasan,M.K.; Akhtar,S.; Turner,J.C.; Franks,J.; Walker,D.; Seiler,P.; Friedman,K.; Kercher,L.; Kayali,G.; Jones-Engel,L.; McKenzie,P.; Krauss,S.; Webby,R.J.; Feeroz,M.M.; Webster,R.G."	
+A/duck/Bangladesh/27892/2015	"Barman,S.; Marinova-Petkova,A.; Hasan,M.K.; Akhtar,S.; Turner,J.C.; Franks,J.; Walker,D.; Seiler,P.; Friedman,K.; Kercher,L.; Kayali,G.; Jones-Engel,L.; McKenzie,P.; Krauss,S.; Webby,R.J.; Feeroz,M.M.; Webster,R.G."	
+A/duck/Bangladesh/35723/2018	"Barman,S.; Turner,J.C.; Hasan,M.; Akhtar,S.; Franks,J.; El-Shesheny,R.; Walker,D.; Seiler,P.; Friedman,K.; Kercher,L.; McKenzie,P.; Webby,R.J.; Feeroz,M.; Webster,R.G."	
+A/duck/Bangladesh/35439/2018	"Barman,S.; Turner,J.C.; Hasan,M.; Akhtar,S.; Franks,J.; El-Shesheny,R.; Walker,D.; Seiler,P.; Friedman,K.; Kercher,L.; McKenzie,P.; Webby,R.J.; Feeroz,M.; Webster,R.G."	
+A/duck/Bangladesh/35600/2018	"Barman,S.; Turner,J.C.; Hasan,M.; Akhtar,S.; Franks,J.; El-Shesheny,R.; Walker,D.; Seiler,P.; Friedman,K.; Kercher,L.; McKenzie,P.; Webby,R.J.; Feeroz,M.; Webster,R.G."	
+A/duck/Bangladesh/35829/2018	"Barman,S.; Turner,J.C.; Hasan,M.; Akhtar,S.; Franks,J.; El-Shesheny,R.; Walker,D.; Seiler,P.; Friedman,K.; Kercher,L.; McKenzie,P.; Webby,R.J.; Feeroz,M.; Webster,R.G."	
+A/duck/Bangladesh/35924/2018	"Barman,S.; Turner,J.C.; Hasan,M.; Akhtar,S.; Franks,J.; El-Shesheny,R.; Walker,D.; Seiler,P.; Friedman,K.; Kercher,L.; McKenzie,P.; Webby,R.J.; Feeroz,M.; Webster,R.G."	
+A/duck/Bangladesh/35437/2018	"Barman,S.; Turner,J.C.; Hasan,M.; Akhtar,S.; Franks,J.; El-Shesheny,R.; Walker,D.; Seiler,P.; Friedman,K.; Kercher,L.; McKenzie,P.; Webby,R.J.; Feeroz,M.; Webster,R.G."	
+A/duck/Bangladesh/40416/2019	"Barman,S.; Turner,J.C.; Hasan,M.; Akhtar,S.; Franks,J.; El-Shesheny,R.; Walker,D.; Seiler,P.; Mukherjee,N.; Kercher,L.; McKenzie,P.; Feeroz,M.; Webby,R.J."	
+A/duck/Bangladesh/40638/2019	"Barman,S.; Turner,J.C.; Hasan,M.; Akhtar,S.; Franks,J.; El-Shesheny,R.; Walker,D.; Seiler,P.; Mukherjee,N.; Kercher,L.; McKenzie,P.; Feeroz,M.; Webby,R.J."	
+A/duck/Bangladesh/49780/2021	"Barman,S.; Turner,J.C.; Hasan,M.; Akhtar,S.; Franks,J.; El-Shesheny,R.; Walker,D.; Seiler,P.; Mukherjee,N.; Kercher,L.; McKenzie,P.; Feeroz,M.; Webby,R.J."	
+A/chicken/Bangladesh/50585/2021	"Barman,S.; Turner,J.C.; Hasan,M.; Akhtar,S.; Franks,J.; El-Shesheny,R.; Walker,D.; Seiler,P.; Mukherjee,N.; Kercher,L.; McKenzie,P.; Feeroz,M.; Webby,R.J."	
+A/duck/Bangladesh/49735/2021	"Barman,S.; Turner,J.C.; Hasan,M.; Akhtar,S.; Franks,J.; El-Shesheny,R.; Walker,D.; Seiler,P.; Mukherjee,N.; Kercher,L.; McKenzie,P.; Feeroz,M.; Webby,R.J."	
+A/duck/Bangladesh/50550/2021	"Barman,S.; Turner,J.C.; Hasan,M.; Akhtar,S.; Franks,J.; El-Shesheny,R.; Walker,D.; Seiler,P.; Mukherjee,N.; Kercher,L.; McKenzie,P.; Feeroz,M.; Webby,R.J."	
+A/duck/Bangladesh/49671/2021	"Barman,S.; Turner,J.C.; Hasan,M.; Akhtar,S.; Franks,J.; El-Shesheny,R.; Walker,D.; Seiler,P.; Mukherjee,N.; Kercher,L.; McKenzie,P.; Feeroz,M.; Webby,R.J."	
+A/duck/Bangladesh/50661/2021	"Barman,S.; Turner,J.C.; Hasan,M.; Akhtar,S.; Franks,J.; El-Shesheny,R.; Walker,D.; Seiler,P.; Mukherjee,N.; Kercher,L.; McKenzie,P.; Feeroz,M.; Webby,R.J."	
+A/duck/Bangladesh/50549/2021	"Barman,S.; Turner,J.C.; Hasan,M.; Akhtar,S.; Franks,J.; El-Shesheny,R.; Walker,D.; Seiler,P.; Mukherjee,N.; Kercher,L.; McKenzie,P.; Feeroz,M.; Webby,R.J."	
+A/duck/Bangladesh/50053/2021	"Barman,S.; Turner,J.C.; Hasan,M.; Akhtar,S.; Franks,J.; El-Shesheny,R.; Walker,D.; Seiler,P.; Mukherjee,N.; Kercher,L.; McKenzie,P.; Feeroz,M.; Webby,R.J."	
+A/duck/Bangladesh/50002/2021	"Barman,S.; Turner,J.C.; Hasan,M.; Akhtar,S.; Franks,J.; El-Shesheny,R.; Walker,D.; Seiler,P.; Mukherjee,N.; Kercher,L.; McKenzie,P.; Feeroz,M.; Webby,R.J."	
+A/duck/Bangladesh/40532/2019	"Barman,S.; Turner,J.C.; Hasan,M.; Akhtar,S.; Franks,J.; El-Shesheny,R.; Walker,D.; Seiler,P.; Mukherjee,N.; Kercher,L.; McKenzie,P.; Feeroz,M.; Webby,R.J."	
+A/duck/Bangladesh/38175/2019	"Barman,S.; Turner,J.C.; Hasan,M.; Akhtar,S.; Franks,J.; El-Shesheny,R.; Walker,D.; Seiler,P.; Mukherjee,N.; Kercher,L.; McKenzie,P.; Feeroz,M.; Webby,R.J."	
+A/duck/Bangladesh/40524/2019	"Barman,S.; Turner,J.C.; Hasan,M.; Akhtar,S.; Franks,J.; El-Shesheny,R.; Walker,D.; Seiler,P.; Mukherjee,N.; Kercher,L.; McKenzie,P.; Feeroz,M.; Webby,R.J."	
+A/duck/Bangladesh/40528/2019	"Barman,S.; Turner,J.C.; Hasan,M.; Akhtar,S.; Franks,J.; El-Shesheny,R.; Walker,D.; Seiler,P.; Mukherjee,N.; Kercher,L.; McKenzie,P.; Feeroz,M.; Webby,R.J."	
+A/duck/Bangladesh/33772/2017	"Barman,S.; Turner,J.C.; Hasan,M.K.; Akhtar,S.; Franks,J.; El-Shesheny,R.; Walker,D.; Seiler,P.; Friedman,K.; Kercher,L.; Kayali,G.; Jones-Engel,L.; McKenzie,P.; Krauss,S.; Webby,R.J.; Feeroz,M.; Webster,R.G."	
+A/chicken/Bangladesh/32806/2017	"Barman,S.; Turner,J.C.; Hasan,M.K.; Akhtar,S.; Franks,J.; El-Shesheny,R.; Walker,D.; Seiler,P.; Friedman,K.; Kercher,L.; Kayali,G.; Jones-Engel,L.; McKenzie,P.; Krauss,S.; Webby,R.J.; Feeroz,M.; Webster,R.G."	
+A/chicken/Bangladesh/32747/2017	"Barman,S.; Turner,J.C.; Hasan,M.K.; Akhtar,S.; Franks,J.; El-Shesheny,R.; Walker,D.; Seiler,P.; Friedman,K.; Kercher,L.; Kayali,G.; Jones-Engel,L.; McKenzie,P.; Krauss,S.; Webby,R.J.; Feeroz,M.; Webster,R.G."	
+A/duck/Bangladesh/30815/2016	"Barman,S.; Turner,J.C.; Hasan,M.K.; Akhtar,S.; Franks,J.; El-Shesheny,R.; Walker,D.; Seiler,P.; Friedman,K.; Kercher,L.; Kayali,G.; Jones-Engel,L.; McKenzie,P.; Krauss,S.; Webby,R.J.; Feeroz,M.M.; Webster,R.G."	
+A/duck/Bangladesh/30818/2016	"Barman,S.; Turner,J.C.; Hasan,M.K.; Akhtar,S.; Franks,J.; El-Shesheny,R.; Walker,D.; Seiler,P.; Friedman,K.; Kercher,L.; Kayali,G.; Jones-Engel,L.; McKenzie,P.; Krauss,S.; Webby,R.J.; Feeroz,M.M.; Webster,R.G."	
+A/duck/Bangladesh/31097/2016	"Barman,S.; Turner,J.C.; Hasan,M.K.; Akhtar,S.; Franks,J.; El-Shesheny,R.; Walker,D.; Seiler,P.; Friedman,K.; Kercher,L.; Kayali,G.; Jones-Engel,L.; McKenzie,P.; Krauss,S.; Webby,R.J.; Feeroz,M.M.; Webster,R.G."	
+A/duck/Bangladesh/31093/2016	"Barman,S.; Turner,J.C.; Hasan,M.K.; Akhtar,S.; Franks,J.; El-Shesheny,R.; Walker,D.; Seiler,P.; Friedman,K.; Kercher,L.; Kayali,G.; Jones-Engel,L.; McKenzie,P.; Krauss,S.; Webby,R.J.; Feeroz,M.M.; Webster,R.G."	
+A/duck/Bangladesh/31022/2016	"Barman,S.; Turner,J.C.; Hasan,M.K.; Akhtar,S.; Franks,J.; El-Shesheny,R.; Walker,D.; Seiler,P.; Friedman,K.; Kercher,L.; Kayali,G.; Jones-Engel,L.; McKenzie,P.; Krauss,S.; Webby,R.J.; Feeroz,M.M.; Webster,R.G."	
+A/duck/Bangladesh/30682/2016	"Barman,S.; Turner,J.C.; Hasan,M.K.; Akhtar,S.; Franks,J.; El-Shesheny,R.; Walker,D.; Seiler,P.; Friedman,K.; Kercher,L.; Kayali,G.; Jones-Engel,L.; McKenzie,P.; Krauss,S.; Webby,R.J.; Feeroz,M.M.; Webster,R.G."	
+A/duck/Bangladesh/30817/2016	"Barman,S.; Turner,J.C.; Hasan,M.K.; Akhtar,S.; Franks,J.; El-Shesheny,R.; Walker,D.; Seiler,P.; Friedman,K.; Kercher,L.; Kayali,G.; Jones-Engel,L.; McKenzie,P.; Krauss,S.; Webby,R.J.; Feeroz,M.M.; Webster,R.G."	
+A/duck/Bangladesh/32247/2017	"Barman,S.; Turner,J.C.; Hasan,M.K.; Akhtar,S.; Franks,J.; El-Shesheny,R.; Walker,D.; Seiler,P.; Friedman,K.; Kercher,L.; Kayali,G.; Jones-Engel,L.; McKenzie,P.; Krauss,S.; Webby,R.J.; Feeroz,M.M.; Webster,R.G."	
+A/duck/Bangladesh/32003/2017	"Barman,S.; Turner,J.C.; Hasan,M.K.; Akhtar,S.; Franks,J.; El-Shesheny,R.; Walker,D.; Seiler,P.; Friedman,K.; Kercher,L.; Kayali,G.; Jones-Engel,L.; McKenzie,P.; Krauss,S.; Webby,R.J.; Feeroz,M.M.; Webster,R.G."	
+A/duck/Bangladesh/30884/2016	"Barman,S.; Turner,J.C.; Hasan,M.K.; Akhtar,S.; Franks,J.; El-Shesheny,R.; Walker,D.; Seiler,P.; Friedman,K.; Kercher,L.; Kayali,G.; Jones-Engel,L.; McKenzie,P.; Krauss,S.; Webby,R.J.; Feeroz,M.M.; Webster,R.G."	
+A/duck/Bangladesh/34744/2018	"Barman,S.; Turner,J.C.; Hasan,M.K.; Akhtar,S.; Franks,J.; El-Shesheny,R.; Walker,D.; Seiler,P.; Friedman,K.; Kercher,L.; Kayali,G.; Jones-Engel,L.; McKenzie,P.; Krauss,S.; Webby,R.J.; Feeroz,M.M.; Webster,R.G."	
+A/duck/Bangladesh/34751/2018	"Barman,S.; Turner,J.C.; Hasan,M.K.; Akhtar,S.; Franks,J.; El-Shesheny,R.; Walker,D.; Seiler,P.; Friedman,K.; Kercher,L.; Kayali,G.; Jones-Engel,L.; McKenzie,P.; Krauss,S.; Webby,R.J.; Feeroz,M.M.; Webster,R.G."	
+A/duck/Bangladesh/34745/2018	"Barman,S.; Turner,J.C.; Hasan,M.K.; Akhtar,S.; Franks,J.; El-Shesheny,R.; Walker,D.; Seiler,P.; Friedman,K.; Kercher,L.; Kayali,G.; Jones-Engel,L.; McKenzie,P.; Krauss,S.; Webby,R.J.; Feeroz,M.M.; Webster,R.G."	
+A/duck/Bangladesh/34743/2018	"Barman,S.; Turner,J.C.; Hasan,M.K.; Akhtar,S.; Franks,J.; El-Shesheny,R.; Walker,D.; Seiler,P.; Friedman,K.; Kercher,L.; Kayali,G.; Jones-Engel,L.; McKenzie,P.; Krauss,S.; Webby,R.J.; Feeroz,M.M.; Webster,R.G."	
+A/chicken/Bangladesh/34265/2017	"Barman,S.; Turner,J.C.; Hasan,M.K.; Akhtar,S.; Franks,J.; El-Shesheny,R.; Walker,D.; Seiler,P.; Friedman,K.; Kercher,L.; Kayali,G.; Jones-Engel,L.; McKenzie,P.; Krauss,S.; Webby,R.J.; Feeroz,M.M.; Webster,R.G."	
+A/duck/Bangladesh/34032/2017	"Barman,S.; Turner,J.C.; Hasan,M.K.; Akhtar,S.; Franks,J.; El-Shesheny,R.; Walker,D.; Seiler,P.; Friedman,K.; Kercher,L.; Kayali,G.; Jones-Engel,L.; McKenzie,P.; Krauss,S.; Webby,R.J.; Feeroz,M.M.; Webster,R.G."	
+A/chicken/Netherlands/20019879001005/2020	"Beerens, Nancy; Harders, Frank; Pritz-Verschuren, Sylvia; Roose, Marit; Germeraad, Evelien; Engelsma, Marc; Bossers, Alex; Heutink, Rene"	Wageningen Bioveterinary Research
+A/chicken/Netherlands/21037233001/2021	"Beerens, Nancy; Harders, Frank; Pritz-Verschuren, Sylvia; Roose, Marit; Germeraad, Evelien; Engelsma, Marc; Heutink, Rene"	Wageningen Bioveterinary Research
+A/Muteswan/Netherlands/21037283002/2021	"Beerens, Nancy; Harders, Frank; Pritz-Verschuren, Sylvia; Roose, Marit; Germeraad, Evelien; Engelsma, Marc; Heutink, Rene"	Wageningen Bioveterinary Research
+A/chicken/Netherlands/21037287006010/2021	"Beerens, Nancy; Harders, Frank; Pritz-Verschuren, Sylvia; Roose, Marit; Germeraad, Evelien; Engelsma, Marc; Heutink, Rene"	Wageningen Bioveterinary Research
+A/greylaggoose/Netherlands/20016582004/2020	"Beerens, Nancy; Harders, Frank; Verschuren-Pritz, Sylvia; Roose, Marit; Germeraad, Evelien; Engelsma, Marc; Bossers, Alex; Heutink, Rene"	Wageningen Bioveterinary Research
+A/eurasianteal/Netherlands/20016896013/2020	"Beerens, Nancy; Harders, Frank; Verschuren-Pritz, Sylvia; Roose, Marit; Germeraad, Evelien; Engelsma, Marc; Bossers, Alex; Heutink, Rene"	Wageningen Bioveterinary Research
+A/chicken/BritishColumbia/FAV2/2015	"Berhane,Y.; Kobasa,D.; Embury-Hyatt,C.; Pickering,B.; Babiuk,S.; Joseph,T.; Bowes,V.; Suderman,M.; Leung,A.; Cottam-Birt,C.; Hisanaga,T.; Pasick,J.; Xu,W.; Alexandersen,S."	
+A/falcon/CostaRica/INC001377/2023	"Bernal,Leon; Olga,Aguilar; Idania,Chacon; Guisella,Chaves; Hebleen,Brenes; Claudio,Soto-Garita; Dihala,Picado; Isabel,Abarca; Estela,Cordero; Adriana,Godinez; Melany,Calderon; Francisco,Duarte"	"Inciensa, Investigación Y Enseñanza En Nutrición Y Salud"
+A/duck/Hunan/0307YYGK1L3OC/2018	"Bi,Y.; Li,J.; Li,S.; Fu,G.; Jin,T.; Zhang,C.; Yang,Y.; Ma,Z.; Tian,W.; Xiao,S.; Li,L.; Yin,R.; Zhang,Y.; Wang,L.; Qin,Y.; Yao,Z.; Meng,F.; Hu,D.; Li,D.; Wong,G.; Liu,F.; Lv,N.; Fu,L.; Peng,Y.; Ma,J.; Sharshov,K.; Shestopalov,A.; Gulyaeva,M.; Gao,G.F.; Chen,J.; Shi,Y.; Liu,W.J.; Chu,D.; Huang,Y.; Liu,Y.; Liu,L.; Chen,Q.; Shi,W."	
+A/duck/Hunan/412YYGK34L3OC/2018	"Bi,Y.; Li,J.; Li,S.; Fu,G.; Jin,T.; Zhang,C.; Yang,Y.; Ma,Z.; Tian,W.; Xiao,S.; Li,L.; Yin,R.; Zhang,Y.; Wang,L.; Qin,Y.; Yao,Z.; Meng,F.; Hu,D.; Li,D.; Wong,G.; Liu,F.; Lv,N.; Fu,L.; Peng,Y.; Ma,J.; Sharshov,K.; Shestopalov,A.; Gulyaeva,M.; Gao,G.F.; Chen,J.; Shi,Y.; Liu,W.J.; Chu,D.; Huang,Y.; Liu,Y.; Liu,L.; Chen,Q.; Shi,W."	
+A/Cygnusolor/Romania/1638121VIR10306/2021	"Burlacu, R.; Neicut, A.; Onita, I.; Motiu, R.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Milani, A.; Giussani, E.; Pastori, A.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/muteswan/Romania/1679021VIR11355/2021	"Burlacu, R.; Neicut, A.; Onita, I.; Motiu, R.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Milani, A.; Giussani, E.; Pastori, A.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/Chicken/Lao/Xaythiani26/2006	"Butler,J.; Middleton,D.; Klippel,J.; Rockman,S.; Brown,L.; Sapats,S."	
+A/peregrinefalcon/Ireland/00019122VIR132515/2022	"Byrne, C.; Garcia, K.; Cuartero, L.G.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/whitetailedeagle/Ireland/03203422VIR132523/2021	"Byrne, C.; Garcia, K.; Cuartero, L.G.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/turkey/Ireland/03542522VIR132517/2021	"Byrne, C.; Garcia, K.; Cuartero, L.G.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/greylaggoose/Ireland/03296922VIR13256/2021	"Byrne, C.; Garcia, K.; Cuartero, L.G.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/duck/Ireland/03664622VIR132518/2021	"Byrne, C.; Garcia, K.; Cuartero, L.G.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/duck/Ireland/03610522VIR132522/2021	"Byrne, C.; Garcia, K.; Cuartero, L.G.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/greylaggoose/Ireland/03306222VIR13257/2021	"Byrne, C.; Garcia, K.; Cuartero, L.G.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/muteswan/Ireland/03236322VIR13251/2021	"Byrne, C.; Garcia, K.; Cuartero, L.G.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/herringgull/Ireland/03353322VIR132510/2021	"Byrne, C.; Garcia, K.; Cuartero, L.G.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/goose/Ireland/386922VIR20642/2022	"Byrne, C.; Garcia, K.; Cuartero, L.G.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/fox/Ireland/386622VIR20641/2022	"Byrne, C.; Garcia, K.; Cuartero, L.G.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/buzzard/Ireland/00065622VIR132512/2022	"Byrne, C.; Garcia, K.; Cuartero, L.G.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/whooperswan/Ireland/03296022VIR13254/2021	"Byrne, C.; Garcia, K.; Cuartero, L.G.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/brentgoose/Ireland/03325722VIR13259/2021	"Byrne, C.; Garcia, K.; Cuartero, L.G.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/duck/CaMau/0237/2015	"Cao,B.V.; Le Ha,T.D.; Mai,V.N.; Dang Trinh,M.A.; Le Phan,K.N.; Vo Tran,N.T.; Hoang,T."	
+A/chicken/Luxembourg/23023602/2023	"Chantal Snoeck, Aurélie Sausy"	Luxembourg Institute Of Health
+A/goose/Luxembourg/22253283/2022	"Chantal Snoeck, Aurélie Sausy"	Luxembourg Institute Of Health
+A/greategret/Luxembourg/23040216/2023	"Chantal Snoeck, Aurélie Sausy"	Luxembourg Institute Of Health
+A/Europeanherringgull/Denmark/19968102/20210514	"Charlotte Hjulsager, Yuan Liang"	Statens Serum Institute
+A/barnaclegoose/Denmark/24342102/20211030	"Charlotte Hjulsager, Yuan Liang"	Statens Serum Institute
+A/turkey/Denmark/2432525/20211030	"Charlotte Hjulsager, Yuan Liang"	Statens Serum Institute
+A/chicken/Denmark/2435711/20211102	"Charlotte Hjulsager, Yuan Liang"	Statens Serum Institute
+A/commonbuzzard/Denmark/24271102/20211025	"Charlotte Hjulsager, Yuan Liang"	Statens Serum Institute
+A/greylaggoose/Denmark/24343102/20211101	"Charlotte Hjulsager, Yuan Liang"	Statens Serum Institute
+A/greylaggoose/Denmark/24309101/20211027	"Charlotte Hjulsager, Yuan Liang"	Statens Serum Institute
+A/Eurasianwigeon/Denmark/240669/20211013	"Charlotte Hjulsager, Yuan Liang"	Statens Serum Institute
+A/Eurasianteal/Denmark/241152/20211016	"Charlotte Hjulsager, Yuan Liang"	Statens Serum Institute
+A/duck/Hubei/ZYSYF25/2016	"Chen,L.J.; Tian,J.H.; Lin,X.D.; Liao,Y.; Shi,M.; Zhang,Y.Z."	
+A/duck/Hubei/ZYSYF2/2016	"Chen,L.J.; Tian,J.H.; Lin,X.D.; Liao,Y.; Shi,M.; Zhang,Y.Z."	
+A/Cambodia/NPH2300322/2023	"Chhorvann,CHHEA;Darapheak,CHAU;Sitha,PRUM;Visal,CHHE;Sokha,DUL;Sengly,MANH; Phally,VY; Borann,SAR; Chanthap,LON; Jessica E,Manning;Sophana,Chea; Savuth,CHIN"	National Institute Of Public Health
+A/Americanwigeon/SouthCarolina/AH0195145/2021	"Chinh,Thanh; Love, Emily; Franzen,Kerrie; Killian,Mary; Koster,Leo; Bevins,Sarah; Dilione,Krista; Lenoch,Julianna; Linder,Timothy"	National Veterinary Services Laboratories   Usda
+A/turkey/Minnesota/22010652001original/2022	"Chinh,Thanh;Franzen,Kerrie;Love, Emily;Killian,Mary;Koster,Leo;Lantz,Kristina;Stuber,Tod;Hicks,Jessica"	National Veterinary Services Laboratories   Usda
+A/Americanbluewingedteal/SouthCarolina/AH0195150/2021	"Chinh,Thanh;Love, Emily;Franzen,Kerrie;Killian,Mary;Koster,Leo;Bevins,Sarah;Dilione,Krista;Lenoch,Julianna;Linder,Timothy"	National Veterinary Services Laboratories   Usda
+A/fox/Michigan/22014536004original/2022	"Chinh,Thanh;Love, Emily;Franzen,Kerrie;Killian,Mary;Koster,Leo;Lantz,Kristina;Stuber,Tod;Hicks,Jessica"	National Veterinary Services Laboratories   Usda
+A/chicken/Pennsylvania/22012742002original/2022	"Chinh,Thanh;Love, Emily;Franzen,Kerrie;Killian,Mary;Koster,Leo;Lantz,Kristina;Stuber,Tod;Hicks,Jessica"	National Veterinary Services Laboratories   Usda
+A/turkey/Kentucky/22004546001/2022	"Chinh,Thanh;Love, Emily;Franzen,Kerrie;Killian,Mary;Koster,Leo;Lantz,Kristina;Stuber,Tod;Hicks,Jessica"	National Veterinary Services Laboratories   Usda
+A/turkey/Kentucky/22004546002/2022	"Chinh,Thanh;Love, Emily;Franzen,Kerrie;Killian,Mary;Koster,Leo;Lantz,Kristina;Stuber,Tod;Hicks,Jessica"	National Veterinary Services Laboratories   Usda
+A/LadyAmherstspheasant/Wisconsin/22013061005original/2022	"Chinh,Thanh;Love, Emily;Franzen,Kerrie;Killian,Mary;Koster,Leo;Lantz,Kristina;Stuber,Tod;Hicks,Jessica"	National Veterinary Services Laboratories   Usda
+A/turkey/Iowa/22006795002original/2022	"Chinh,Thanh;Love, Emily;Franzen,Kerrie;Killian,Mary;Koster,Leo;Lantz,Kristina;Stuber,Tod;Hicks,Jessica"	National Veterinary Services Laboratories   Usda
+A/Eurasianeagleowl/Korea/23/2010	"Choi,J.G.; Kang,H.M.; Jeon,W.J.; Choi,K.S.; Kim,K.I.; Song,B.M.; Lee,H.S.; Kim,J.H.; Lee,Y.J."	
+A/goose/China/E43/2012	"Cui,J.; Qu,N.; Guo,Y.; Cao,L.; Wu,S.; Mei,K.; Sun,H.; Lu,Y.; Qin,Z.; Jiao,P.; Liao,M."	
+A/duck/China/E53/2012	"Cui,J.; Qu,N.; Guo,Y.; Cao,L.; Wu,S.; Mei,K.; Sun,H.; Lu,Y.; Qin,Z.; Jiao,P.; Liao,M."	
+A/duck/TienGiang/16/2013	"Cuong,N.V.; Carrique-Mas,J.; Hoa,N.T.; Truc,V.N.T."	
+A/duck/TienGiang/5/2013	"Cuong,N.V.; Carrique-Mas,J.; Hoa,N.T.; Truc,V.N.T."	
+A/crow/India/01TR01/2012	"Das,B.R.; Tosh,C.; Kumar,M.; Nagarajan,S.; Murugkar,H.V.; Shukla,S.; Tripathi,S.; Mishra,A.; Kulkarni,D.D."	
+A/duck/Hunan/S4030/2011	"Deng,G.; Tan,D.; Shi,J.; Cui,P.; Jiang,Y.; Liu,L.; Tian,G.; Kawaoka,Y.; Li,C.; Chen,H."	
+A/chicken/Mali/T117722VIR61041/2022	"DIAKITÉ, A.; DIAKITÉ, M.A.; NIANGALY, F.; SAMAKÉ, K.; DEMBELÉ, C.; TRAORÉ, C.; SIDIBE, C.A.K.; MAIGA, B.M.ditA.; DIALL, M.; OUATTARA, L.; SALLA, A.; NIANG, M.; COULIBALY, D.; KANOUTÉ, B.; Zecchin, B.; Barbierato, G.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/Mali/T217822VIR61043/2022	"DIAKITÉ, A.; DIAKITÉ, M.A.; NIANGALY, F.; SAMAKÉ, K.; DEMBELÉ, C.; TRAORÉ, C.; SIDIBE, C.A.K.; MAIGA, B.M.ditA.; DIALL, M.; OUATTARA, L.; SALLA, A.; NIANG, M.; COULIBALY, D.; KANOUTÉ, B.; Zecchin, B.; Barbierato, G.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/Mali/T418022VIR61047/2022	"DIAKITÉ, A.; DIAKITÉ, M.A.; NIANGALY, F.; SAMAKÉ, K.; DEMBELÉ, C.; TRAORÉ, C.; SIDIBE, C.A.K.; MAIGA, B.M.ditA.; DIALL, M.; OUATTARA, L.; SALLA, A.; NIANG, M.; COULIBALY, D.; KANOUTÉ, B.; Zecchin, B.; Barbierato, G.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/Mali/S317922VIR61045/2022	"DIAKITÉ, A.; DIAKITÉ, M.A.; NIANGALY, F.; SAMAKÉ, K.; DEMBELÉ, C.; TRAORÉ, C.; SIDIBE, C.A.K.; MAIGA, B.M.ditA.; DIALL, M.; OUATTARA, L.; SALLA, A.; NIANG, M.; COULIBALY, D.; KANOUTÉ, B.; Zecchin, B.; Barbierato, G.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/duck/Nanchang/9789/2013	"Ding,L.F.; Qin,Z.Q.; Qu,X.; Wu,L.; Pan,Z.S."	
+A/Spotbilledduck/Korea/K227301/2022	"Dong-Hun Lee, Chang-Seon Song"	Konkuk University
+A/Wildbird/Korea/K22742/2022	"Dong-Hun Lee, Chang-Seon Song"	Konkuk University
+A/chicken/Jiangxi/25/2011	"Dong,G.; Yan,H.; Xie,Y."	
+A/chicken/HongKong/AP156/2008	"Ducatez,M.F.; Sonnberg,S.; Phommachanh,P.; Douangngeun,B.; Peiris,M.; Guan,Y.; Webster,R.; Webby,R."	
+A/barnswallow/HongKong/1161/2010	"Ducatez,M.F.; Sonnberg,S.; Phommachanh,P.; Douangngeun,B.; Peiris,M.; Guan,Y.; Webster,R.; Webby,R."	
+A/muteswan/Poland/MB490L1/2021	"E. Swieton, K. Smietanka"	"National Veterinary Research Institut Poland, Piwet Pib"
+A/domesticgoose/Poland/H1931T1/2021	"E. Swieton, K. Smietanka"	"National Veterinary Research Institut Poland, Piwet Pib"
+A/domesticduck/Poland/H1942N/2021	"E. Swieton, K. Smietanka"	"National Veterinary Research Institut Poland, Piwet Pib"
+A/chicken/Poland/H1940N/2021	"E. Swieton, K. Smietanka"	"National Veterinary Research Institut Poland, Piwet Pib"
+A/turkey/Poland/H1911N/2021	"E. Swieton, K. Smietanka"	"National Veterinary Research Institut Poland, Piwet Pib"
+A/turkey/Poland/H1910T3/2021	"E. Swieton, K. Smietanka"	"National Veterinary Research Institut Poland, Piwet Pib"
+A/turkey/Poland/H1913T1/2021	"E. Swieton, K. Smietanka"	"National Veterinary Research Institut Poland, Piwet Pib"
+A/turkey/Poland/H1924T1/2021	"E. Swieton, K. Smietanka"	"National Veterinary Research Institut Poland, Piwet Pib"
+A/turkey/Poland/H1944N/2021	"E. Swieton, K. Smietanka"	"National Veterinary Research Institut Poland, Piwet Pib"
+A/whitestork/Poland/MB391/2021	"Edyta, Swieton; Kamila, Dziadek; Krzysztof, Smietanka"	"National Veterinary Research Institut Poland, Piwet Pib"
+A/chicken/Wuxi/WX32/2013	"Fan,S.; Gao,X.; Wang,T.; Sun,W.; Ying,Y.; Li,X.; Zhao,Y.; Yang,S.; Gao,Y.; Xia,X."	
+A/duck/Bangladesh/19097/2013	"Feeroz,M.M.; Alam,R.S.; Hasan,K.M.; McKenzie,P.; Marinova-Petkova,A.; Webster,R.G."	
+A/chicken/Guangxi/S2039/2009	"Feng,X.; Wang,Z.; Shi,J.; Deng,G.; Kong,H.; Tao,S.; Li,C.; Liu,L.; Guan,Y.; Chen,H."	
+A/Pelecanus/Peru/VFAR140/2022	"Fernandez-Diaz,M.; Villanueva-Perez,D.; Tataje-Lavanda,L.; Montalvan-Avalos,A.; Isasi-Rivas,G.; Lulo,M.; Fernandez-Sanchez,M."	Universidad Privada San Juan Bautista
+A/chicken/Bhutan/331/2012	"Franks,J.S.; Tenzin,S.; Tshering,D.; Rai,P.; Lhamo,K.; Dahal,N.; Dukpa,K."	
+A/wildbird/Bhutan/328/2012	"Franks,J.S.; Tenzin,S.; Tshering,D.; Rai,P.; Lhamo,K.; Dahal,N.; Dukpa,K."	
+A/wildbird/Bhutan/326/2012	"Franks,J.S.; Tenzin,S.; Tshering,D.; Rai,P.; Lhamo,K.; Dahal,N.; Dukpa,K."	
+A/chicken/Bhutan/507/2012	"Franks,J.S.; Tenzin,S.; Tshering,D.; Rai,P.; Lhamo,K.; Dahal,N.; Dukpa,K."	
+A/chicken/Bhutan/347/2012	"Franks,J.S.; Tenzin,S.; Tshering,D.; Rai,P.; Lhamo,K.; Dahal,N.; Dukpa,K."	
+A/chicken/Bhutan/349/2012	"Franks,J.S.; Tenzin,S.; Tshering,D.; Rai,P.; Lhamo,K.; Dahal,N.; Dukpa,K."	
+A/chicken/Bhutan/346/2012	"Franks,J.S.; Tenzin,S.; Tshering,D.; Rai,P.; Lhamo,K.; Dahal,N.; Dukpa,K."	
+A/chicken/Bhutan/935/2012	"Franks,J.S.; Tenzin,S.; Tshering,D.; Rai,P.; Lhamo,K.; Dahal,N.; Dukpa,K."	
+A/duck/China/0935/2017	"Ge,Z.; Cai,T.; Gu,M.; Liu,X."	
+A/pelican/Greece/72CL22VIR312611/2022	"Georgiades, G.; Ragias, B.; Gkolia, A.; Anthopoulou, E.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/pelican/Greece/41AL222VIR31263/2022	"Georgiades, G.; Ragias, B.; Gkolia, A.; Anthopoulou, E.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/pelican/Greece/41TR31322VIR31261/2022	"Georgiades, G.; Ragias, B.; Gkolia, A.; Anthopoulou, E.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/pelican/Greece/69CL22VIR312610/2022	"Georgiades, G.; Ragias, B.; Gkolia, A.; Anthopoulou, E.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/pelican/Greece/41AL122VIR31262/2022	"Georgiades, G.; Ragias, B.; Gkolia, A.; Anthopoulou, E.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/pelican/Greece/64SP22VIR31267/2022	"Georgiades, G.; Ragias, B.; Gkolia, A.; Anthopoulou, E.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/pelican/Greece/64KI22VIR31266/2022	"Georgiades, G.; Ragias, B.; Gkolia, A.; Anthopoulou, E.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/pelican/Greece/64LI22VIR31268/2022	"Georgiades, G.; Ragias, B.; Gkolia, A.; Anthopoulou, E.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/pelican/Greece/64TR22VIR31269/2022	"Georgiades, G.; Ragias, B.; Gkolia, A.; Anthopoulou, E.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/duck/Bangladesh/4120T/2011	"Gerloff, Nancy; Simpson, Natosha; Poh, Mee;Davis, Todd"	Centers For Disease Control And Prevention
+A/duck/Bangladesh/32077/2012	"Gerloff, Nancy; Simpson, Natosha; Poh, Mee;Davis, Todd"	Centers For Disease Control And Prevention
+A/crow/Bangladesh/1056/2011	"Gerloff, Nancy; Simpson, Natosha; Poh, Mee;Davis, Todd"	Centers For Disease Control And Prevention
+A/crow/Bangladesh/1061/2011	"Gerloff, Nancy; Simpson, Natosha; Poh, Mee;Davis, Todd"	Centers For Disease Control And Prevention
+A/crow/Bangladesh/316T/2011	"Gerloff, Nancy; Simpson, Natosha; Poh, Mee;Davis, Todd"	Centers For Disease Control And Prevention
+A/hen/Bulgaria/854122VIR77810/2021	"Goujgoulova, G.; Slavcheva, I.; Oreshkova, L.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/duck/Bulgaria/756422VIR7786/2021	"Goujgoulova, G.; Slavcheva, I.; Oreshkova, L.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/partridge/Bulgaria/74522VIR7783/2021	"Goujgoulova, G.; Slavcheva, I.; Oreshkova, L.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/hen/Bulgaria/722122VIR7781/2021	"Goujgoulova, G.; Slavcheva, I.; Oreshkova, L.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/hen/Bulgaria/757622VIR7787/2021	"Goujgoulova, G.; Slavcheva, I.; Oreshkova, L.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/turkey/Bulgaria/755122VIR7784/2021	"Goujgoulova, G.; Slavcheva, I.; Oreshkova, L.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/duck/EasternChina/108/2008	"Gu,M.; Liu,W.; Zhao,G.; Xu,Q.; Zhang,W.; Zhang,X.; Cao,Y.; Li,Y.; Peng,D.; Liu,X."	
+A/chicken/China/AH/2012	"Gu,M.; Zhao,G.; Zhao,K.; Zhong,L.; Huang,J.; Wan,H.; Wang,X.; Liu,W.; Liu,H.; Peng,D.; Liu,X."	
+A/duck/Vietnam/HN3590/2017	"Guan,L.; Zhong,G.; Fan,S.; Plisch,E.M.; Presler,R.; Gu,C.; Babujee,L.; Pattinson,D.; Hang,N.L.K.; Phuong,H.V.M.; Le,M.Q.; van Bakel,H.; Neumann,G.; Kawaoka,Y."	
+A/duck/Vietnam/HN3656/2017	"Guan,L.; Zhong,G.; Fan,S.; Plisch,E.M.; Presler,R.; Gu,C.; Babujee,L.; Pattinson,D.; Hang,N.L.K.; Phuong,H.V.M.; Le,M.Q.; van Bakel,H.; Neumann,G.; Kawaoka,Y."	
+A/duck/Vietnam/HN3801/2017	"Guan,L.; Zhong,G.; Fan,S.; Plisch,E.M.; Presler,R.; Gu,C.; Babujee,L.; Pattinson,D.; Hang,N.L.K.; Phuong,H.V.M.; Le,M.Q.; van Bakel,H.; Neumann,G.; Kawaoka,Y."	
+A/Indonesia/NIHRD17109/2017	"HA,Pawestri;AA,Nugraha;E,Pratiwi;V,Setiawaty"	National Institute Of Health Research And Development
+A/chicken/Vietnam/27262/2009	"Hanna,A.; To,T.L.; Tong,H.; Shell,W.; Coward,V.J.; Banks,J.; Brown,I.H.; Slomka,M.J."	
+A/hoodedcrane/Kagoshima/4612J001/2010	"Hashimoto,Y.; Ito,H.; Nagai,Y.; Soda,K.; Ito,T."	
+A/hoodedcrane/Kagoshima/4612J003/2010	"Hashimoto,Y.; Ito,H.; Nagai,Y.; Soda,K.; Ito,T."	
+A/hoodedcrane/Kagoshima/2/2010	"Hashimoto,Y.; Ito,H.; Nagai,Y.; Soda,K.; Ito,T."	
+A/hoodedcrane/Kagoshima/4612J004/2010	"Hashimoto,Y.; Ito,H.; Nagai,Y.; Soda,K.; Ito,T."	
+A/duck/Fukushima/16/2011	"Hatamachi,J.; Kida,H.; Sakoda,Y.; Okamatsu,M."	
+A/greathornedowl/BritishColumbia/AIVPHL361/2023	"Himsworth, Chelsea; Prystajecky,Natalie; Tyson,John; Jassem,Agatha; Kuchinski,Kevin; Coombe, Michelle; Lee,Tracy; Azana,Rob; Fung,Janet; Chan,Michael; Cheung,Branco; Caleta,Jessica; Tsang,Frankie; Russell,Shannon; Zlosnik,James; Hoang,Linda"	British Columbia Centre For Disease Control
+A/chicken/BritishColumbia/AIVPHL68/2022	"Himsworth, Chelsea; Prystajecky,Natalie; Tyson,John; Jassem,Agatha; Kuchinski,Kevin; Coombe, Michelle; Lee,Tracy; Azana,Rob; Fung,Janet; Chan,Michael; Cheung,Branco; Caleta,Jessica; Tsang,Frankie; Russell,Shannon; Zlosnik,James; Hoang,Linda"	British Columbia Centre For Disease Control
+A/redtailedhawk/BritishColumbia/AIVPHL362/2023	"Himsworth, Chelsea; Prystajecky,Natalie; Tyson,John; Jassem,Agatha; Kuchinski,Kevin; Coombe, Michelle; Lee,Tracy; Azana,Rob; Fung,Janet; Chan,Michael; Cheung,Branco; Caleta,Jessica; Tsang,Frankie; Russell,Shannon; Zlosnik,James; Hoang,Linda"	British Columbia Centre For Disease Control
+A/glaucouswingedgull/BritishColumbia/AIVPHL356/2023	"Himsworth, Chelsea; Prystajecky,Natalie; Tyson,John; Jassem,Agatha; Kuchinski,Kevin; Coombe, Michelle; Lee,Tracy; Azana,Rob; Fung,Janet; Chan,Michael; Cheung,Branco; Caleta,Jessica; Tsang,Frankie; Russell,Shannon; Zlosnik,James; Hoang,Linda"	British Columbia Centre For Disease Control
+A/baldeagle/BritishColumbia/AIVPHL15/2022	"Himsworth, Chelsea; Prystajecky,Natalie; Tyson,John; Jassem,Agatha; Kuchinski,Kevin; Coombe, Michelle; Lee,Tracy; Azana,Rob; Fung,Janet; Chan,Michael; Cheung,Branco; Caleta,Jessica; Tsang,Frankie; Russell,Shannon; Zlosnik,James; Hoang,Linda"	British Columbia Centre For Disease Control
+A/baldeagle/BritishColumbia/AIVPHL357/2023	"Himsworth, Chelsea; Prystajecky,Natalie; Tyson,John; Jassem,Agatha; Kuchinski,Kevin; Coombe, Michelle; Lee,Tracy; Azana,Rob; Fung,Janet; Chan,Michael; Cheung,Branco; Caleta,Jessica; Tsang,Frankie; Russell,Shannon; Zlosnik,James; Hoang,Linda"	British Columbia Centre For Disease Control
+A/chicken/BritishColumbia/AIVPHL40/2022	"Himsworth, Chelsea; Prystajecky,Natalie; Tyson,John; Jassem,Agatha; Kuchinski,Kevin; Coombe, Michelle; Lee,Tracy; Azana,Rob; Fung,Janet; Chan,Michael; Cheung,Branco; Caleta,Jessica; Tsang,Frankie; Russell,Shannon; Zlosnik,James; Hoang,Linda"	British Columbia Centre For Disease Control
+A/chicken/BritishColumbia/AIVPHL22/2022	"Himsworth, Chelsea; Prystajecky,Natalie; Tyson,John; Jassem,Agatha; Kuchinski,Kevin; Coombe, Michelle; Lee,Tracy; Azana,Rob; Fung,Janet; Chan,Michael; Cheung,Branco; Caleta,Jessica; Tsang,Frankie; Russell,Shannon; Zlosnik,James; Hoang,Linda"	British Columbia Centre For Disease Control
+A/greenwingedteal/BritishColumbia/AIVPHL334/2022	"Himsworth, Chelsea; Prystajecky,Natalie; Tyson,John; Jassem,Agatha; Kuchinski,Kevin; Coombe, Michelle; Lee,Tracy; Azana,Rob; Fung,Janet; Chan,Michael; Cheung,Branco; Caleta,Jessica; Tsang,Frankie; Russell,Shannon; Zlosnik,James; Hoang,Linda"	British Columbia Centre For Disease Control
+A/mallard/BritishColumbia/AIVPHL355/2023	"Himsworth, Chelsea; Prystajecky,Natalie; Tyson,John; Jassem,Agatha; Kuchinski,Kevin; Coombe, Michelle; Lee,Tracy; Azana,Rob; Fung,Janet; Chan,Michael; Cheung,Branco; Caleta,Jessica; Tsang,Frankie; Russell,Shannon; Zlosnik,James; Hoang,Linda"	British Columbia Centre For Disease Control
+A/coopershawk/BritishColumbia/AIVPHL231/2022	"Himsworth, Chelsea; Prystajecky,Natalie; Tyson,John; Jassem,Agatha; Kuchinski,Kevin; Coombe, Michelle; Lee,Tracy; Azana,Rob; Fung,Janet; Chan,Michael; Cheung,Branco; Caleta,Jessica; Tsang,Frankie; Russell,Shannon; Zlosnik,James; Hoang,Linda"	British Columbia Centre For Disease Control
+A/turkey/BritishColumbia/AIVPHL98/2022	"Himsworth, Chelsea; Prystajecky,Natalie; Tyson,John; Jassem,Agatha; Kuchinski,Kevin; Coombe, Michelle; Lee,Tracy; Azana,Rob; Fung,Janet; Chan,Michael; Cheung,Branco; Caleta,Jessica; Tsang,Frankie; Russell,Shannon; Zlosnik,James; Hoang,Linda"	British Columbia Centre For Disease Control
+A/turkey/BritishColumbia/AIVPHL132/2022	"Himsworth, Chelsea; Prystajecky,Natalie; Tyson,John; Jassem,Agatha; Kuchinski,Kevin; Coombe, Michelle; Lee,Tracy; Azana,Rob; Fung,Janet; Chan,Michael; Cheung,Branco; Caleta,Jessica; Tsang,Frankie; Russell,Shannon; Zlosnik,James; Hoang,Linda"	British Columbia Centre For Disease Control
+A/turkey/BritishColumbia/AIVPHL92/2022	"Himsworth, Chelsea; Prystajecky,Natalie; Tyson,John; Jassem,Agatha; Kuchinski,Kevin; Coombe, Michelle; Lee,Tracy; Azana,Rob; Fung,Janet; Chan,Michael; Cheung,Branco; Caleta,Jessica; Tsang,Frankie; Russell,Shannon; Zlosnik,James; Hoang,Linda"	British Columbia Centre For Disease Control
+A/greatblueheron/BritishColumbia/AIVPHL196/2022	"Himsworth, Chelsea; Prystajecky,Natalie; Tyson,John; Jassem,Agatha; Kuchinski,Kevin; Coombe, Michelle; Lee,Tracy; Azana,Rob; Fung,Janet; Chan,Michael; Cheung,Branco; Caleta,Jessica; Tsang,Frankie; Russell,Shannon; Zlosnik,James; Hoang,Linda"	British Columbia Centre For Disease Control
+A/greathornedowl/BritishColumbia/AIVPHL353/2023	"Himsworth, Chelsea; Prystajecky,Natalie; Tyson,John; Jassem,Agatha; Kuchinski,Kevin; Coombe, Michelle; Lee,Tracy; Azana,Rob; Fung,Janet; Chan,Michael; Cheung,Branco; Caleta,Jessica; Tsang,Frankie; Russell,Shannon; Zlosnik,James; Hoang,Linda"	British Columbia Centre For Disease Control
+A/greathornedowl/BritishColumbia/AIVPHL372/2023	"Himsworth, Chelsea; Prystajecky,Natalie; Tyson,John; Jassem,Agatha; Kuchinski,Kevin; Coombe, Michelle; Lee,Tracy; Azana,Rob; Fung,Janet; Chan,Michael; Cheung,Branco; Caleta,Jessica; Tsang,Frankie; Russell,Shannon; Zlosnik,James; Hoang,Linda"	British Columbia Centre For Disease Control
+A/cacklinggoose/BritishColumbia/AIVPHL367/2023	"Himsworth, Chelsea; Prystajecky,Natalie; Tyson,John; Jassem,Agatha; Kuchinski,Kevin; Coombe, Michelle; Lee,Tracy; Azana,Rob; Fung,Janet; Chan,Michael; Cheung,Branco; Caleta,Jessica; Tsang,Frankie; Russell,Shannon; Zlosnik,James; Hoang,Linda"	British Columbia Centre For Disease Control
+A/trumpeterswan/BritishColumbia/AIVPHL364/2023	"Himsworth, Chelsea; Prystajecky,Natalie; Tyson,John; Jassem,Agatha; Kuchinski,Kevin; Coombe, Michelle; Lee,Tracy; Azana,Rob; Fung,Janet; Chan,Michael; Cheung,Branco; Caleta,Jessica; Tsang,Frankie; Russell,Shannon; Zlosnik,James; Hoang,Linda"	British Columbia Centre For Disease Control
+A/canadagoose/BritishColumbia/AIVPHL371/2023	"Himsworth, Chelsea; Prystajecky,Natalie; Tyson,John; Jassem,Agatha; Kuchinski,Kevin; Coombe, Michelle; Lee,Tracy; Azana,Rob; Fung,Janet; Chan,Michael; Cheung,Branco; Caleta,Jessica; Tsang,Frankie; Russell,Shannon; Zlosnik,James; Hoang,Linda"	British Columbia Centre For Disease Control
+A/emu/NL/FAV003512/2021	"Hisanaga,Tamiko; Fisher,Mathew; Lung,Oliver; Alkie,Tamiru; Xu,Wanhong; Suderman,Matthew; Koziuk,Janice; Berhane,Yohannes"	Canadian Food Inspection Agency
+A/domesticgoose/NL/FAV003517/2021	"Hisanaga,Tamiko; Fisher,Mathew; Lung,Oliver; Alkie,Tamiru; Xu,Wanhong; Suderman,Matthew; Koziuk,Janice; Berhane,Yohannes"	Canadian Food Inspection Agency
+A/Fancychicken/NL/FAV0035/2021	"Hisanaga,Tamiko; Fisher,Mathew; Lung,Oliver; Alkie,Tamiru; Xu,Wanhong; Suderman,Matthew; Koziuk,Janice; Berhane,Yohannes"	Canadian Food Inspection Agency
+A/chicken/NL/FAV0033/2021	"Hisanaga,Tamiko; Fisher,Mathew; Lung,Oliver; Alkie,Tamiru; Xu,Wanhong; Suderman,Matthew; Koziuk,Janice; Berhane,Yohannes"	Canadian Food Inspection Agency
+A/sandwichtern/Denmark/05712102/2022	"Hjulsager, Charlotte; Liang,Yuan"	Statens Serum Institute
+A/commonbuzzard/Denmark/08287101/2022	"Hjulsager,Charlotte; Liang,Yuan"	Statens Serum Institute
+A/peregrinefalcon/Denmark/06880102/2022	"Hjulsager,Charlotte; Liang,Yuan"	Statens Serum Institute
+A/sandwichtern/Denmark/05802101/2022	"Hjulsager,Charlotte; Liang,Yuan"	Statens Serum Institute
+A/sandwichtern/Denmark/05806101/2022	"Hjulsager,Charlotte; Liang,Yuan"	Statens Serum Institute
+A/Arctictern/Denmark/05803101/2022	"Hjulsager,Charlotte; Liang,Yuan"	Statens Serum Institute
+A/tawnyowl/Denmark/05372101/2022	"Hjulsager,Charlotte; Liang,Yuan"	Statens Serum Institute
+A/tawnyowl/Denmark/05373101/2022	"Hjulsager,Charlotte; Liang,Yuan"	Statens Serum Institute
+A/whitetailedeagle/Denmark/05716104/2022	"Hjulsager,Charlotte; Liang,Yuan"	Statens Serum Institute
+A/barnaclegoose/Denmark/03332102/2022	"Hjulsager,Charlotte; Liang,Yuan"	Statens Serum Institute
+A/Duck/Cambodia/Y0224304/2014	"Horm, S-V; Dussart,P"	Institut Pasteur Du Cambodia
+A/Duck/Cambodia/Y0224302/2014	"Horm, S-V; Dussart,P"	Institut Pasteur Du Cambodia
+A/Duck/Cambodia/Y0224303/2014	"Horm, S-V; Dussart,P"	Institut Pasteur Du Cambodia
+A/Cambodia/Y0219302/2014	"Horm, S-V; Dussart,P"	Institut Pasteur Du Cambodia
+A/Duck/Cambodia/Y0210303/2014	"Horm, S-V; Dussart,P"	Institut Pasteur Du Cambodia
+A/duck/Cambodia/Z1120508/2015	"Horm, S-V; Dussart,P"	Institut Pasteur Du Cambodia
+A/duck/Cambodia/Z1120504/2015	"Horm, S-V; Dussart,P"	Institut Pasteur Du Cambodia
+A/duck/Cambodia/Z1120503/2015	"Horm, S-V; Dussart,P"	Institut Pasteur Du Cambodia
+A/chicken/Cambodia/a0511502/2016	"Horm, S-V; Dussart,P"	Institut Pasteur Du Cambodia
+A/chicken/Cambodia/a0511504/2016	"Horm, S-V; Dussart,P"	Institut Pasteur Du Cambodia
+A/chicken/Cambodia/a0511503/2016	"Horm, S-V; Dussart,P"	Institut Pasteur Du Cambodia
+A/duck/Bangladesh/19D1771/2021	"Hossain, M.E.; Miah, M.; Alam, S.; Hasan, R.; Davis, C.T.; Mott, A.J.; Davis, W.; Chowdhury, S.; Rahman, M.Z"	"International Centre For Diarrhoeal Disease Research (icddr,b)"
+A/chicken/Bangladesh/19D1836/2022	"Hossain, M.E.; Miah, M.; Alam, S.; Hasan, R.; Davis, C.T.; Mott, A.J.; Davis, W.; Chowdhury, S.; Rahman, M.Z"	"International Centre For Diarrhoeal Disease Research (icddr,b)"
+A/duck/Bangladesh/17D1854/2022	"Hossain, M.E.; Miah, M.; Puspo, JA.; Hasan, R.; Davis, C.T.; Mott, A.J.; Davis, W.; Chowdhury, S.; Rahman, M.Z"	"International Centre For Diarrhoeal Disease Research (icddr,b)"
+A/duck/Bangladesh/19D1859/2022	"Hossain, M.E.; Miah, M.; Puspo, JA.; Hasan, R.; Davis, C.T.; Mott, A.J.; Davis, W.; Chowdhury, S.; Rahman, M.Z"	"International Centre For Diarrhoeal Disease Research (icddr,b)"
+A/chicken/Bangladesh/18B557/2022	"Hossain, M.E.; Miah, M.; Puspo, JA.; Hasan, R.; Davis, C.T.; Mott, A.J.; Davis, W.; Chowdhury, S.; Rahman, M.Z"	"International Centre For Diarrhoeal Disease Research (icddr,b)"
+A/duck/Bangladesh/17D1844/2022	"Hossain, M.E.; Miah, M.; Puspo, JA.; Hasan, R.; Davis, C.T.; Mott, A.J.; Davis, W.; Chowdhury, S.; Rahman, M.Z"	"International Centre For Diarrhoeal Disease Research (icddr,b)"
+A/duck/Bangladesh/19D1850/2022	"Hossain, M.E.; Miah, M.; Puspo, JA.; Hasan, R.; Davis, C.T.; Mott, A.J.; Davis, W.; Chowdhury, S.; Rahman, M.Z"	"International Centre For Diarrhoeal Disease Research (icddr,b)"
+A/duck/Bangladesh/19D1890/2022	"Hossain, M.E.; Miah, M.; Puspo, JA.; Hasan, R.; Davis, C.T.; Mott, A.J.; Davis, W.; Chowdhury, S.; Rahman, M.Z"	"International Centre For Diarrhoeal Disease Research (icddr,b)"
+A/duck/Bangladesh/17D1873/2022	"Hossain, M.E.; Miah, M.; Puspo, JA.; Hasan, R.; Davis, C.T.; Mott, A.J.; Davis, W.; Chowdhury, S.; Rahman, M.Z"	"International Centre For Diarrhoeal Disease Research (icddr,b)"
+A/duck/Bangladesh/17D1869/2022	"Hossain, M.E.; Miah, M.; Puspo, JA.; Hasan, R.; Davis, C.T.; Mott, A.J.; Davis, W.; Chowdhury, S.; Rahman, M.Z"	"International Centre For Diarrhoeal Disease Research (icddr,b)"
+A/duck/Bangladesh/17D1868/2022	"Hossain, M.E.; Miah, M.; Puspo, JA.; Hasan, R.; Davis, C.T.; Mott, A.J.; Davis, W.; Chowdhury, S.; Rahman, M.Z"	"International Centre For Diarrhoeal Disease Research (icddr,b)"
+A/goose/Jiangsu/k0403/2010	"Hu,J.; Zhao,K.; Liu,X.; Wang,X.; Chen,Z."	
+A/chicken/Tonghai/802/2014	"Hu,T.; Song,J.; Zhang,W.; Zhao,H.; Duan,B.; Liu,Q.; Zeng,W.; Qiu,W.; Chen,G.; Zhang,Y.; Fan,Q.; Zhang,F."	
+A/tiger/Yunnan/tig1404/2014	"Hu,T.; Zhao,H.; Zhang,Y.; Zhang,W.; Kong,Q.; Zhang,Z.; Cui,Q.; Qiu,W.; Deng,B.; Fan,Q.; Zhang,F."	
+A/peacock/Yunnan/3/2015	"Hu,T.; Zhao,H.; Zhang,Y.; Zhang,W.; Kong,Q.; Zhang,Z.; Cui,Q.; Qiu,W.; Deng,B.; Fan,Q.; Zhang,F."	
+A/chicken/Shanxi/0302/2012	"Huang,J.; Mo,Y.; Chen,H.; Gu,M.; Wang,X.; Liu,X."	
+A/chicken/Lebanon/157/2016	"Ibrahim,E.; Sirawan,A.; El-Bazzal,B.; Kandeil,A.; Ali,M.; Kayali,G."	
+A/Duck/Bangladesh/BDADAI3230/2019	"Islam,A.; Islam,S.; Flora,M.S.; Hassan,M.M.; Ducatez,M.F.; Woodard,K.; Webb,A.; Webby,R.; El Zowalaty,M.E."	
+A/Duck/Bangladesh/BDADAI3093/2019	"Islam,A.; Islam,S.; Flora,M.S.; Rahman,M.; Ziaur,R.M.; Epstein,J.H.; Hassan,M.; Klassen,M.; Woodard,K.; Webb,A.; Webby,R.J.; El Zowalaty,M.E."	
+A/rook/Sartlan/42/2015	"Ivan,Susloparov; Vasily,Marchenko; Natalya,Goncharova; Andrey,Shipovalov; Alexander,Durymanov; Tatyana,Ilyicheva; Alexander,Ryzhikov"	State Research Center Of Virology And Biotechnology (vector)
+A/rook/Chany/32/2015	"Ivan,Susloparov; Vasily,Marchenko; Natalya,Goncharova; Andrey,Shipovalov; Alexander,Durymanov; Tatyana,Ilyicheva; Alexander,Ryzhikov"	State Research Center Of Virology And Biotechnology (vector)
+A/rook/Dovolnoe/50/2015	"Ivan,Susloparov; Vasily,Marchenko; Natalya,Goncharova; Andrey,Shipovalov; Alexander,Durymanov; Tatyana,Ilyicheva; Alexander,Ryzhikov"	State Research Center Of Virology And Biotechnology (vector)
+A/wildbird/Jiangsu/H102/2015	"Jiang,W.; Hou,G.; Li,J.; Peng,C.; Wang,S.; Chen,J."	
+A/wildbird/Jiangsu/H59/2015	"Jiang,W.; Hou,G.; Li,J.; Peng,C.; Wang,S.; Chen,J."	
+A/chicken/Hubei/RA18/2010	"Jiang,W.; Liu,S.; Chen,J."	
+A/peregrinefalcon/HongKong/810/2009	"Jizou,M.; Kida,H.; Sakoda,Y.; Okamatsu,M."	
+A/crestedmyna/HongKong/1178/2009	"Jizou,M.; Kida,H.; Sakoda,Y.; Okamatsu,M."	
+A/largebilledcrow/HongKong/885/2009	"Jizou,M.; Kida,H.; Sakoda,Y.; Okamatsu,M."	
+A/greyheron/HongKong/779/2009	"Jizou,M.; Kida,H.; Sakoda,Y.; Okamatsu,M."	
+A/feralpigeon/HongKong/3409/2009	"Jizou,M.; Kida,H.; Sakoda,Y.; Okamatsu,M."	
+A/orientalmagpierobin/HongKong/9298/2009	"Jizou,M.; Kida,H.; Sakoda,Y.; Okamatsu,M."	
+A/commongoldeneye/Mongolia/X60/2009	"Jizou,M.; Kida,H.; Sakoda,Y.; Okamatsu,M."	
+A/whooperswan/Mongolia/7/2010	"Jizou,M.; Kida,H.; Sakoda,Y.; Okamatsu,M."	
+A/whooperswan/Mongolia/1/2010	"Jizou,M.; Kida,H.; Sakoda,Y.; Okamatsu,M."	
+A/whooperswan/Mongolia/2/2009	"Jizou,M.; Kida,H.; Sakoda,Y.; Okamatsu,M."	
+A/whooperswan/Mongolia/11/2010	"Jizou,M.; Kida,H.; Sakoda,Y.; Okamatsu,M."	
+A/whooperswan/Mongolia/21/2010	"Jizou,M.; Kida,H.; Sakoda,Y.; Okamatsu,M."	
+A/whooperswan/Mongolia/6/2009	"Jizou,M.; Kida,H.; Sakoda,Y.; Okamatsu,M.; Kang,H.M.; Batchuluun,D.; Kim,M.C.; Choi,J.G.; Erdene-Ochir,T.O.; Paek,M.R.; Sugir,T.; Sodnomdarjaa,R.; Kwon,J.H.; Lee,Y.J.; Kang,H.-M.; Kim,M.-C.; Choi,J.-G.; Erdene-Ochir,T.-O.; Paek,M.-R.; Kwon,J.-H."	
+A/duck/Hokkaido/WZ101/2010	"Kajihara,M.; Matsuno,K.; Simulundu,E.; Muramatsu,M.; Noyori,O.; Manzoor,R.; Nakayama,E.; Igarashi,M.; Tomabechi,D.; Takada,A."	
+A/duck/Choco/ICA3501/2022	"Kariithi,H.M.; Sierra,E.U.; Calderon,P.C.; Suarez,D.L."	
+A/chicken/Choco/ICA3502/2022	"Kariithi,H.M.; Sierra,E.U.; Calderon,P.C.; Suarez,D.L."	
+A/chicken/Choco/ICA3504/2022	"Kariithi,H.M.; Sierra,E.U.; Calderon,P.C.; Suarez,D.L."	
+A/chicken/Magdalena/ICA3503/2022	"Kariithi,H.M.; Sierra,E.U.; Calderon,P.C.; Suarez,D.L."	
+A/chicken/Bolivar/ICA3500/2022	"Kariithi,H.M.; Sierra,E.U.; Calderon,P.C.; Suarez,D.L."	
+A/chicken/Cordoba/ICA3499/2022	"Kariithi,H.M.; Sierra,E.U.; Calderon,P.C.; Suarez,D.L."	
+A/Dk/Cimahi/C1/2016	"Karo-karo,D; Bodewes,R; Muljono,D; Sriyani,I.Y; Artika,IM; Wibawa,H; Pribadi,ES;Pratomo,W; Diyantoro,D; Sugama,A; Hendrayani,N; Hidayat,A; Daju,D; Kustiawan,I;Citra,A; Stegeman,JA; Koch, G"	Eijkman Institute For Molecular Biology
+A/MusDk/Indramayu/S31/2016	"Karo-karo,D; Bodewes,R; Muljono,D; Sriyani,I.Y; Artika,IM; Wibawa,H; Pribadi,ES;Pratomo,W; Diyantoro,D; Sugama,A; Hendrayani,N; Hidayat,A; Daju,D; Kustiawan,I;Citra,A; Stegeman,JA; Koch, G"	Utrecht University Central Veterinary Institute
+A/Qu/Subang/S62/2016	"Karo-karo,D; Bodewes,R; Muljono,D; Sriyani,I.Y; Artika,IM; Wibawa,H; Pribadi,ES;Pratomo,W; Diyantoro,D; Sugama,A; Hendrayani,N; Hidayat,A; Daju,D; Kustiawan,I;Citra,A; Stegeman,JA; Koch, G"	Utrecht University Central Veterinary Institute
+A/Qu/Indramayu/S28/2016	"Karo-karo,D; Bodewes,R; Muljono,D; Sriyani,I.Y; Artika,IM; Wibawa,H; Pribadi,ES;Pratomo,W; Diyantoro,D; Sugama,A; Hendrayani,N; Hidayat,A; Daju,D; Kustiawan,I;Citra,A; Stegeman,JA; Koch, G"	Utrecht University Central Veterinary Institute
+A/Ch/Subang/S8/2015	"Karo-karo,D; Bodewes,R; Muljono,D; Sriyani,I.Y; Artika,IM; Wibawa,H; Pribadi,ES;Pratomo,W; Diyantoro,D; Sugama,A; Hendrayani,N; Hidayat,A; Daju,D; Kustiawan,I;Citra,A; Stegeman,JA; Koch, G"	Utrecht University Central Veterinary Institute
+A/Ch/Subang/S4/2016	"Karo-karo,D; Bodewes,R; Muljono,D; Sriyani,I.Y; Artika,IM; Wibawa,H; Pribadi,ES;Pratomo,W; Diyantoro,D; Sugama,A; Hendrayani,N; Hidayat,A; Daju,D; Kustiawan,I;Citra,A; Stegeman,JA; Koch, G"	Utrecht University Central Veterinary Institute
+A/Ch/Subang/S41c/2016	"Karo-karo,D; Bodewes,R; Muljono,D; Sriyani,I.Y; Artika,IM; Wibawa,H; Pribadi,ES;Pratomo,W; Diyantoro,D; Sugama,A; Hendrayani,N; Hidayat,A; Daju,D; Kustiawan,I;Citra,A; Stegeman,JA; Koch, G"	Utrecht University Central Veterinary Institute
+A/Ch/Subang/S42c/2016	"Karo-karo,D; Bodewes,R; Muljono,D; Sriyani,I.Y; Artika,IM; Wibawa,H; Pribadi,ES;Pratomo,W; Diyantoro,D; Sugama,A; Hendrayani,N; Hidayat,A; Daju,D; Kustiawan,I;Citra,A; Stegeman,JA; Koch, G"	Utrecht University Central Veterinary Institute
+A/Ch/Subang/S15/2016	"Karo-karo,D; Bodewes,R; Muljono,D; Sriyani,I.Y; Artika,IM; Wibawa,H; Pribadi,ES;Pratomo,W; Diyantoro,D; Sugama,A; Hendrayani,N; Hidayat,A; Daju,D; Kustiawan,I;Citra,A; Stegeman,JA; Koch, G"	Utrecht University Central Veterinary Institute
+A/Ch/Subang/S18/2016	"Karo-karo,D; Bodewes,R; Muljono,D; Sriyani,I.Y; Artika,IM; Wibawa,H; Pribadi,ES;Pratomo,W; Diyantoro,D; Sugama,A; Hendrayani,N; Hidayat,A; Daju,D; Kustiawan,I;Citra,A; Stegeman,JA; Koch, G"	Utrecht University Central Veterinary Institute
+A/MusDk/Indramayu/S60/2016	"Karo-karo,D; Bodewes,R; Muljono,D; Sriyani,I.Y; Artika,IM; Wibawa,H; Pribadi,ES;Pratomo,W; Diyantoro,D; Sugama,A; Hendrayani,N; Hidayat,A; Daju,D; Kustiawan,I;Citra,A; Stegeman,JA; Koch, G"	Utrecht University Central Veterinary Institute
+A/Ch/Subang/S7/2016	"Karo-karo,D; Bodewes,R; Muljono,D; Sriyani,I.Y; Artika,IM; Wibawa,H; Pribadi,ES;Pratomo,W; Diyantoro,D; Sugama,A; Hendrayani,N; Hidayat,A; Daju,D; Kustiawan,I;Citra,A; Stegeman,JA; Koch, G"	Utrecht University Central Veterinary Institute
+A/Ch/Indramayu/S25/2016	"Karo-karo,D; Bodewes,R; Muljono,D; Sriyani,I.Y; Artika,IM; Wibawa,H; Pribadi,ES;Pratomo,W; Diyantoro,D; Sugama,A; Hendrayani,N; Hidayat,A; Daju,D; Kustiawan,I;Citra,A; Stegeman,JA; Koch, G"	Utrecht University Central Veterinary Institute
+A/Ch/Subang/S19/2016	"Karo-karo,D; Bodewes,R; Muljono,D; Sriyani,I.Y; Artika,IM; Wibawa,H; Pribadi,ES;Pratomo,W; Diyantoro,D; Sugama,A; Hendrayani,N; Hidayat,A; Daju,D; Kustiawan,I;Citra,A; Stegeman,JA; Koch, G"	Utrecht University Central Veterinary Institute
+A/Ch/Subang/S3/2016	"Karo-karo,D; Bodewes,R; Muljono,D; Sriyani,I.Y; Artika,IM; Wibawa,H; Pribadi,ES;Pratomo,W; Diyantoro,D; Sugama,A; Hendrayani,N; Hidayat,A; Daju,D; Kustiawan,I;Citra,A; Stegeman,JA; Koch, G"	Utrecht University Central Veterinary Institute
+A/Ch/Subang/S9/2016	"Karo-karo,D; Bodewes,R; Muljono,D; Sriyani,I.Y; Artika,IM; Wibawa,H; Pribadi,ES;Pratomo,W; Diyantoro,D; Sugama,A; Hendrayani,N; Hidayat,A; Daju,D; Kustiawan,I;Citra,A; Stegeman,JA; Koch, G"	Utrecht University Central Veterinary Institute
+A/Dk/Subang/S57/2016	"Karo-karo,D; Bodewes,R; Muljono,D; Sriyani,I.Y; Artika,IM; Wibawa,H; Pribadi,ES;Pratomo,W; Diyantoro,D; Sugama,A; Hendrayani,N; Hidayat,A; Daju,D; Kustiawan,I;Citra,A; Stegeman,JA; Koch, G"	Utrecht University Central Veterinary Institute
+A/Dk/Subang/S10/2015	"Karo-karo,D; Bodewes,R; Muljono,D; Sriyani,I.Y; Artika,IM; Wibawa,H; Pribadi,ES;Pratomo,W; Diyantoro,D; Sugama,A; Hendrayani,N; Hidayat,A; Daju,D; Kustiawan,I;Citra,A; Stegeman,JA; Koch, G"	Utrecht University Central Veterinary Institute
+A/Qu/Indramayu/S53/2016	"Karo-karo,D; Bodewes,R; Muljono,D; Sriyani,I.Y; Artika,IM; Wibawa,H; Pribadi,ES;Pratomo,W; Diyantoro,D; Sugama,A; Hendrayani,N; Hidayat,A; Daju,D; Kustiawan,I;Citra,A; Stegeman,JA; Koch, G"	Utrecht University Central Veterinary Institute
+A/Ch/Indramayu/S54/2016	"Karo-karo,D; Bodewes,R; Muljono,D; Sriyani,I.Y; Artika,IM; Wibawa,H; Pribadi,ES;Pratomo,W; Diyantoro,D; Sugama,A; Hendrayani,N; Hidayat,A; Daju,D; Kustiawan,I;Citra,A; Stegeman,JA; Koch, G"	Utrecht University Central Veterinary Institute
+A/Turkey/Hungary/16603/2021	"Katalin,Szentpáli-Gavallér;Ádám,Bálint;Krisztina,Ursu;Péter,Malik"	"National Food Chain Safety Office, Hungary"
+A/Americanwigeon/Washington/196340/2015	"Killian,M.L.; Ip,H.S.; Griffin,K.; Messer,J.; McMullen,K.; Dusek,R.; Bodenstein,B."	
+A/Americanwigeon/Washington/196336/2015	"Killian,M.L.; Ip,H.S.; Griffin,K.; Messer,J.; McMullen,K.; Dusek,R.; Bodenstein,B."	
+A/mallard/Korea/1195/2010	"Kim,H.R.; Kim,B.S.; Bae,Y.C.; Oem,J.G.; Moon,O.K.; Lee,O.S.; Lee,Y.J."	
+A/eurasianeagleowl/Korea/Q196/2011	"Kim,H.R.; Lee,Y.J.; Park,C.K.; Oem,J.K.; Lee,O.S.; Kang,H.M.; Choi,J.G.; Bae,Y.C."	
+A/chicken/Korea/YS171/2011	"Kim,H.R.; Lee,Y.J.; Park,C.K.; Oem,J.K.; Lee,O.S.; Kang,H.M.; Choi,J.G.; Bae,Y.C."	
+A/duck/Korea/Cheonan/2010	"Kim,H.R.; Lee,Y.J.; Park,C.K.; Oem,J.K.; Lee,O.S.; Kang,H.M.; Choi,J.G.; Bae,Y.C."	
+A/chicken/Korea/Asan90/2011	"Kim,H.R.; Lee,Y.J.; Park,C.K.; Oem,J.K.; Lee,O.S.; Kang,H.M.; Choi,J.G.; Bae,Y.C."	
+A/baikalteal/Korea/Q34/2011	"Kim,H.R.; Lee,Y.J.; Park,C.K.; Oem,J.K.; Lee,O.S.; Kang,H.M.; Choi,J.G.; Bae,Y.C."	
+A/eurasianeagleowl/Korea/Q133/2011	"Kim,H.R.; Lee,Y.J.; Park,C.K.; Oem,J.K.; Lee,O.S.; Kang,H.M.; Choi,J.G.; Bae,Y.C."	
+A/duck/Korea/AS117/2011	"Kim,H.R.; Lee,Y.J.; Park,C.K.; Oem,J.K.; Lee,O.S.; Kang,H.M.; Choi,J.G.; Bae,Y.C."	
+A/pheasant/Korea/PT411/2011	"Kim,H.R.; Lee,Y.J.; Park,C.K.; Oem,J.K.; Lee,O.S.; Kang,H.M.; Choi,J.G.; Bae,Y.C."	
+A/chicken/Korea/PT412/2011	"Kim,H.R.; Lee,Y.J.; Park,C.K.; Oem,J.K.; Lee,O.S.; Kang,H.M.; Choi,J.G.; Bae,Y.C."	
+A/commonKetrel/Korea/Q197/2011	"Kim,H.R.; Lee,Y.J.; Park,C.K.; Oem,J.K.; Lee,O.S.; Kang,H.M.; Choi,J.G.; Bae,Y.C."	
+A/chicken/Korea/Iksan/2010	"Kim,H.R.; Lee,Y.J.; Park,C.K.; Oem,J.K.; Lee,O.S.; Kang,H.M.; Choi,J.G.; Bae,Y.C."	
+A/eurasianeagleowl/Korea/Q178/2011	"Kim,H.R.; Lee,Y.J.; Park,C.K.; Oem,J.K.; Lee,O.S.; Kang,H.M.; Choi,J.G.; Bae,Y.C."	
+A/baikalteal/Korea/Q524/2010	"Kim,H.R.; Lee,Y.J.; Park,C.K.; Oem,J.K.; Lee,O.S.; Kang,H.M.; Choi,J.G.; Bae,Y.C."	
+A/chicken/Korea/Gimje/2008	"Kim,H.R.; Park,C.K.; Lee,Y.J.; Woo,G.H.; Lee,G.G.; Oem,J.G.; Kim,S.H.; Jean,Y.H.; Bae,Y.C.; Yoon,S.S.; Roh,I.S.; Kim,H.Y.; Byun,J.W.; Song,Y.K.; Jeong,O.M.; Kwon,J.H.; Joo,Y.S."	
+A/duck/Korea/NSQ263/2008	"Kim,H.R.; Park,C.K.; Lee,Y.J.; Woo,G.H.; Lee,G.G.; Oem,J.G.; Kim,S.H.; Jean,Y.H.; Bae,Y.C.; Yoon,S.S.; Roh,I.S.; Kim,H.Y.; Byun,J.W.; Song,Y.K.; Jeong,O.M.; Kwon,J.H.; Joo,Y.S."	
+A/duck/Korea/JEQ149/2008	"Kim,H.R.; Park,C.K.; Lee,Y.J.; Woo,G.H.; Lee,G.G.; Oem,J.G.; Kim,S.H.; Jean,Y.H.; Bae,Y.C.; Yoon,S.S.; Roh,I.S.; Kim,H.Y.; Byun,J.W.; Song,Y.K.; Jeong,O.M.; Kwon,J.H.; Joo,Y.S."	
+A/chicken/Korea/ISQ250/2008	"Kim,H.R.; Park,C.K.; Lee,Y.J.; Woo,G.H.; Lee,G.G.; Oem,J.G.; Kim,S.H.; Jean,Y.H.; Bae,Y.C.; Yoon,S.S.; Roh,I.S.; Kim,H.Y.; Byun,J.W.; Song,Y.K.; Jeong,O.M.; Kwon,J.H.; Joo,Y.S."	
+A/chicken/Korea/USQ284/2008	"Kim,H.R.; Park,C.K.; Lee,Y.J.; Woo,G.H.; Lee,G.G.; Oem,J.G.; Kim,S.H.; Jean,Y.H.; Bae,Y.C.; Yoon,S.S.; Roh,I.S.; Kim,H.Y.; Byun,J.W.; Song,Y.K.; Jeong,O.M.; Kwon,J.H.; Joo,Y.S."	
+A/chicken/Korea/YAQ173/2008	"Kim,H.R.; Park,C.K.; Lee,Y.J.; Woo,G.H.; Lee,G.G.; Oem,J.G.; Kim,S.H.; Jean,Y.H.; Bae,Y.C.; Yoon,S.S.; Roh,I.S.; Kim,H.Y.; Byun,J.W.; Song,Y.K.; Jeong,O.M.; Kwon,J.H.; Joo,Y.S."	
+A/avian/HongKong/0719/2007	"Kim,L.M.; Scott,M.A.; Suarez,D.L.; Spackman,E.; Swayne,D.E.; Afonso,C.L."	
+A/avian/HongKong/2372/2007	"Kim,L.M.; Scott,M.A.; Suarez,D.L.; Spackman,E.; Swayne,D.E.; Afonso,C.L."	
+A/duck/HaiPhong/208/2006	"Kim,L.M.; Scott,M.A.; Suarez,D.L.; Spackman,E.; Swayne,D.E.; Afonso,C.L."	
+A/chicken/Bangladesh/NRLAI2109/2017	"Kwon,J.; Criado,M.F.; Killmaster,L.; Swayne,D.E."	
+A/crow/Bangladesh/NRLAI689/2016	"Kwon,J.; Criado,M.F.; Killmaster,L.; Swayne,D.E."	
+A/crow/Bangladesh/NRLAI8471/2017	"Kwon,J.; Criado,M.F.; Killmaster,L.; Swayne,D.E."	
+A/chicken/Nigeria/16VIR584070/2015	"Laleye,A.; Joannis,T.; Shittu,I.; Meseko,C.; Zamperin,G.; Milani,A.; Zecchin,B.; Fusaro,A.; Monne,I.; Abolnik,C.; Gado,D.; Olawuyi,K.; Chinyere,C.; Salviato,A.; Schivo,A.; Marciano,S.; Ormelli,S.; Terregino,C."	
+A/chicken/Nigeria/16VIR584058/2015	"Laleye,A.; Joannis,T.; Shittu,I.; Meseko,C.; Zamperin,G.; Milani,A.; Zecchin,B.; Fusaro,A.; Monne,I.; Abolnik,C.; Gado,D.; Olawuyi,K.; Chinyere,C.; Salviato,A.; Schivo,A.; Marciano,S.; Ormelli,S.; Terregino,C."	
+A/chicken/Nigeria/16VIR584077/2016	"Laleye,A.; Joannis,T.; Shittu,I.; Meseko,C.; Zamperin,G.; Milani,A.; Zecchin,B.; Fusaro,A.; Monne,I.; Abolnik,C.; Gado,D.; Olawuyi,K.; Chinyere,C.; Salviato,A.; Schivo,A.; Marciano,S.; Ormelli,S.; Terregino,C."	
+A/chicken/Nigeria/16VIR584029/2015	"Laleye,A.; Joannis,T.; Shittu,I.; Meseko,C.; Zamperin,G.; Milani,A.; Zecchin,B.; Fusaro,A.; Monne,I.; Abolnik,C.; Gado,D.; Olawuyi,K.; Chinyere,C.; Salviato,A.; Schivo,A.; Marciano,S.; Ormelli,S.; Terregino,C."	
+A/chicken/Nigeria/16VIR584017/2015	"Laleye,A.; Joannis,T.; Shittu,I.; Meseko,C.; Zamperin,G.; Milani,A.; Zecchin,B.; Fusaro,A.; Monne,I.; Abolnik,C.; Gado,D.; Olawuyi,K.; Chinyere,C.; Salviato,A.; Schivo,A.; Marciano,S.; Ormelli,S.; Terregino,C."	
+A/chicken/Nigeria/16VIR584010/2015	"Laleye,A.; Joannis,T.; Shittu,I.; Meseko,C.; Zamperin,G.; Milani,A.; Zecchin,B.; Fusaro,A.; Monne,I.; Abolnik,C.; Gado,D.; Olawuyi,K.; Chinyere,C.; Salviato,A.; Schivo,A.; Marciano,S.; Ormelli,S.; Terregino,C."	
+A/chicken/Nigeria/16VIR584082/2016	"Laleye,A.; Joannis,T.; Shittu,I.; Meseko,C.; Zamperin,G.; Milani,A.; Zecchin,B.; Fusaro,A.; Monne,I.; Abolnik,C.; Gado,D.; Olawuyi,K.; Chinyere,C.; Salviato,A.; Schivo,A.; Marciano,S.; Ormelli,S.; Terregino,C."	
+A/chicken/Nigeria/16VIR584086/2016	"Laleye,A.; Joannis,T.; Shittu,I.; Meseko,C.; Zamperin,G.; Milani,A.; Zecchin,B.; Fusaro,A.; Monne,I.; Abolnik,C.; Gado,D.; Olawuyi,K.; Chinyere,C.; Salviato,A.; Schivo,A.; Marciano,S.; Ormelli,S.; Terregino,C."	
+A/chicken/Nigeria/16VIR584078/2016	"Laleye,A.; Joannis,T.; Shittu,I.; Meseko,C.; Zamperin,G.; Milani,A.; Zecchin,B.; Fusaro,A.; Monne,I.; Abolnik,C.; Gado,D.; Olawuyi,K.; Chinyere,C.; Salviato,A.; Schivo,A.; Marciano,S.; Ormelli,S.; Terregino,C."	
+A/chicken/Guizhou/1153/2016	"Lam,T.T.-Y.; Zhu,H.; Peiris,J.S.M.; Guan,Y."	
+A/duckfeces/Hebei/5/2009	"Lan,Yu,Dong,Libo,Li,Zi,Li,Xiyan,Zhao,Xiang,Cheng,Yanhui,Tan,minju,Yang,Lei,Zou,Shumei,Wen,Leying,Wang,Dayan,Li,Dexin,Shu,Yuelong"	Who Chinese National Influenza Center
+A/Hunan/1/2006	"Lan,Yu,Dong,Libo,Li,Zi,Li,Xiyan,Zhao,Xiang,Cheng,Yanhui,Tan,minju,Yang,Lei,Zou,Shumei,Wen,Leying,Wang,Dayan,Li,Dexin,Shu,Yuelong"	Who Chinese National Influenza Center
+A/chicken/Vietnam/RTD1302/2014	"Le,P.V.; Song,D.; Na,W.; Yeom,M.; Kim,H.-K."	
+A/Duck/Vietnam/HU121378/2019	"Le,T.K."	
+A/herringgull/Mongolia/834T2/2009	"Leung,C.Y.; Gilbert,M.; Chow,K.-C.; Ho,C.-K.; Tang,S.-C.; Guan,Y.; Peiris,M."	
+A/herringgull/Mongolia/833T2/2009	"Leung,C.Y.; Gilbert,M.; Chow,K.-C.; Ho,C.-K.; Tang,S.-C.; Guan,Y.; Peiris,M."	
+A/Environment/Jiangxi/20983/2013	"Li, Xiaodan; Zhang, Ye; Dong, Libo; Gao, Rongbao; Bo, Hong; Wang, dayan; Shu, Yuelong"	Who Chinese National Influenza Center
+A/Alberta/1/2014	"Li, Yan; Bastien, Nathalie; Fonseca, Kevin; Tipples, Graham; Pabbaraju, Kanti; Tellier, Raymond; Wong, Sallene; Tang, Julian W.; Drews, Steven J."	Public Health Agency Of Canada (phac)
+A/goose/Yangzhou/0403/2014	"Li,J.; Gu,M.; Sun,W.; Liu,K.; Gao,R.; Liu,D.; Hu,J.; Wang,X.; Hu,S.; Liu,X."	
+A/chicken/Tibet/6/2008	"Li,Y.; Shi,J.; Zhong,G.; Deng,G.; Tian,G.; Ge,J.; Zeng,X.; Song,J.; Zhao,D.; Liu,L.; Jiang,Y.; Guan,Y.; Bu,Z.; Chen,H."	
+A/shrike/Tibet/13/2006	"Li,Y.; Shi,J.; Zhong,G.; Deng,G.; Tian,G.; Ge,J.; Zeng,X.; Song,J.; Zhao,D.; Liu,L.; Jiang,Y.; Guan,Y.; Bu,Z.; Chen,H."	
+A/duck/Anhui/1/2006	"Li,Y.; Shi,J.; Zhong,G.; Deng,G.; Tian,G.; Ge,J.; Zeng,X.; Song,J.; Zhao,D.; Liu,L.; Jiang,Y.; Guan,Y.; Bu,Z.; Chen,H."	
+A/chicken/Fujian/1/2007	"Li,Y.; Shi,J.; Zhong,G.; Deng,G.; Tian,G.; Ge,J.; Zeng,X.; Song,J.; Zhao,D.; Liu,L.; Jiang,Y.; Guan,Y.; Bu,Z.; Chen,H."	
+A/pelecanuscrispus/Albania/D3832222VIR31252/2022	"Lika, A.; Boci, J.; Shkodra, E.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/treesparrow/Jiangsu/1/2008	"Liu,Q.; Kou,Z.; Ma,J.; Pu,J.; Lei,F.; Li,T.; Liu,J."	
+A/wildduck/Fujian/1/2011	"Liu,Y.; Liu,M.; Liu,C."	
+A/wildduck/Fujian/2/2011	"Liu,Y.; Liu,M.; Liu,C."	
+A/wildduck/Shandong/2/2011	"Liu,Y.; Liu,M.; Liu,C."	
+A/Pelican/Venezuela/Pel4/2022	"Loureiro, Carmen Luisa; Jaspe, Rossana C; Sulbaran, Yoneira F; Garzaro, Domingo J; Alarcon, Victor; Brett, Mariela; Rodríguez, Lieska; D´Angelo, Pierina; Hernández, Carlos; Rodríguez, Nardraka; Alcazar, Wilmer; Borges, Gilberto; Ytriago, Ernys; Rangel, Hector R; Pujol, Flor H"	Instituto Venezolano De Investigaciones Científicas
+A/Pelican/Venezuela/Inf9/2022	"Loureiro, Carmen Luisa; Jaspe, Rossana C; Sulbaran, Yoneira F; Garzaro, Domingo J; Alarcon, Victor; Brett, Mariela; Rodríguez, Lieska; D´Angelo, Pierina; Hernández, Carlos; Rodríguez, Nardraka; Alcazar, Wilmer; Borges, Gilberto; Ytriago, Ernys; Rangel, Hector R; Pujol, Flor H"	Instituto Venezolano De Investigaciones Científicas
+A/Pelican/Venezuela/Pel3/2022	"Loureiro, Carmen Luisa; Jaspe, Rossana C; Sulbaran, Yoneira F; Garzaro, Domingo J; Alarcon, Victor; Brett, Mariela; Rodríguez, Lieska; D´Angelo, Pierina; Hernández, Carlos; Rodríguez, Nardraka; Alcazar, Wilmer; Borges, Gilberto; Ytriago, Ernys; Rangel, Hector R; Pujol, Flor H"	Instituto Venezolano De Investigaciones Científicas
+A/chicken/Jiangsu/927/2013	"Ma,M.-J.; Lu,B.; Yang,X.-X.; Zhao,T.; Zhou,J.-J.; Chen,W.-J.; Gray,G.C.; Qian,Y.-H.; Chen,S.-H.; Ma,G.-Y.; Cao,W.-C."	
+A/HongKong/5923/2012	"Mak,G.C.; Cheng,P.K.C.; Lo,J.Y.C."	Hong Kong Department Of Health
+A/slatybackedgull/Hokkaido/0111M114/2022	"Manabu, Onuma; Kei, Nabeshima; Atsushi, Haga; Hisako, Honjo; Misako, Yokoyama; Yoshihiro, Sakoda; Norikazu, Isoda; Takahiro, Hiono; Hew, Yik Lim"	"Graduate School Of Veterinary Medicine, Hokkaido University"
+A/redcrownedcrane/Hokkaido/20221120001/2022	"Manabu, Onuma; Kei, Nabeshima; Atsushi, Haga; Hisako, Honjo; Misako, Yokoyama; Yoshihiro, Sakoda; Norikazu, Isoda; Takahiro, Hiono; Hew, Yik Lim"	"Graduate School Of Veterinary Medicine, Hokkaido University"
+A/peregrinefalcon/Iwate/0301K004/2023	"Manabu, Onuma; Kei, Nabeshima; Atsushi, Haga; Hisako, Honjo; Misako, Yokoyama; Yoshihiro, Sakoda; Norikazu, Isoda; Takahiro, Hiono; Hew, Yik Lim; Mayumi, Endo"	"Graduate School Of Veterinary Medicine, Hokkaido University"
+A/easternbuzzard/Tochigi/0901B015/2023	"Manabu, Onuma; Kei, Nabeshima; Atsushi, Haga; Hisako, Honjo; Misako, Yokoyama; Yoshihiro, Sakoda; Norikazu, Isoda; Takahiro, Hiono; Hew, Yik Lim; Mayumi, Endo"	"Graduate School Of Veterinary Medicine, Hokkaido University"
+A/largebilledcrow/Yamagata/0601A009/2023	"Manabu, Onuma; Kei, Nabeshima; Atsushi, Haga; Hisako, Honjo; Misako, Yokoyama; Yoshihiro, Sakoda; Norikazu, Isoda; Takahiro, Hiono; Hew, Yik Lim; Mayumi, Endo"	"Graduate School Of Veterinary Medicine, Hokkaido University"
+A/largebilledcrow/Fukuoka/4001A004/2023	"Manabu, Onuma; Kei, Nabeshima; Atsushi, Haga; Hisako, Honjo; Misako, Yokoyama; Yoshihiro, Sakoda; Norikazu, Isoda; Takahiro, Hiono; Hew, Yik Lim; Mayumi, Endo"	"Graduate School Of Veterinary Medicine, Hokkaido University"
+A/muteswan/Chiba/1212001/2022	"Manabu, Onuma; Kei, Nabeshima; Atsushi, Haga; Hisako, Honjo; Misako, Yokoyama; Yoshihiro, Sakoda; Norikazu, Isoda; Takahiro, Hiono; Mayumi, Endo"	"Graduate School Of Veterinary Medicine, Hokkaido University"
+A/largebilledcrow/Hokkaido/0112P0832/2022	"Manabu, Onuma; Kei, Nabeshima; Atsushi, Haga; Hisako, Honjo; Misako, Yokoyama; Yoshihiro, Sakoda; Norikazu, Isoda; Takahiro, Hiono; Mayumi, Endo"	"Graduate School Of Veterinary Medicine, Hokkaido University"
+A/largebilledcrow/Hokkaido/0111E084/2022	"Manabu, Onuma; Kei, Nabeshima; Atsushi, Haga; Hisako, Honjo; Misako, Yokoyama; Yoshihiro, Sakoda; Norikazu, Isoda; Takahiro, Hiono; Mayumi, Endo"	"Graduate School Of Veterinary Medicine, Hokkaido University"
+A/duck/Bangladesh/24483/2015	"Marinova-Petkova,A.; Barman,S.; Hasan,M.K.; Akhtar,S.; Turner,J.C.; Franks,J.; Walker,D.; Seiler,P.; Friedman,K.; Kercher,L.; Kayali,G.; Jones-Engel,L.; McKenzie,P.; Krauss,S.; Webby,R.J.; Feeroz,M.M.; Webster,R.G."	
+A/duck/Bangladesh/24482/2015	"Marinova-Petkova,A.; Barman,S.; Hasan,M.K.; Akhtar,S.; Turner,J.C.; Franks,J.; Walker,D.; Seiler,P.; Friedman,K.; Kercher,L.; Kayali,G.; Jones-Engel,L.; McKenzie,P.; Krauss,S.; Webby,R.J.; Feeroz,M.M.; Webster,R.G."	
+A/chicken/Bangladesh/24944/2015	"Marinova-Petkova,A.; Barman,S.; Hasan,M.K.; Akhtar,S.; Turner,J.C.; Franks,J.; Walker,D.; Seiler,P.; Friedman,K.; Kercher,L.; Kayali,G.; Jones-Engel,L.; McKenzie,P.; Krauss,S.; Webby,R.J.; Feeroz,M.M.; Webster,R.G."	
+A/duck/Bangladesh/25893/2015	"Marinova-Petkova,A.; Barman,S.; Hasan,M.K.; Akhtar,S.; Turner,J.C.; Franks,J.; Walker,D.; Seiler,P.; Friedman,K.; Kercher,L.; Kayali,G.; Jones-Engel,L.; McKenzie,P.; Krauss,S.; Webby,R.J.; Feeroz,M.M.; Webster,R.G."	
+A/duck/Bangladesh/25890/2015	"Marinova-Petkova,A.; Barman,S.; Hasan,M.K.; Akhtar,S.; Turner,J.C.; Franks,J.; Walker,D.; Seiler,P.; Friedman,K.; Kercher,L.; Kayali,G.; Jones-Engel,L.; McKenzie,P.; Krauss,S.; Webby,R.J.; Feeroz,M.M.; Webster,R.G."	
+A/chicken/Bangladesh/15210/2012	"Marinova-Petkova,A.; Feeroz,M.M.; Alam,S.M.R.; Hasan,M.K.; Akhtar,S.; Jones-Engel,L.; Walker,D.; McClenaghan,L.; Rubrum,A.; Franks,J.; Seiler,P.; Jeevan,T.; McKenzie,P.; Krauss,S.; Webby,R.J.; Webster,R.G."	
+A/duck/Bangladesh/18949/2013	"Marinova-Petkova,A.; Feeroz,M.M.; Alam,S.M.R.; Hasan,M.K.; Akhtar,S.; Jones-Engel,L.; Walker,D.; McClenaghan,L.; Rubrum,A.; Franks,J.; Seiler,P.; Jeevan,T.; McKenzie,P.; Krauss,S.; Webby,R.J.; Webster,R.G."	
+A/environment/Bangladesh/19338/2013	"Marinova-Petkova,A.; Feeroz,M.M.; Alam,S.M.R.; Hasan,M.K.; Akhtar,S.; Jones-Engel,L.; Walker,D.; McClenaghan,L.; Rubrum,A.; Franks,J.; Seiler,P.; Jeevan,T.; McKenzie,P.; Krauss,S.; Webby,R.J.; Webster,R.G."	
+A/chicken/Bangladesh/18061/2012	"Marinova-Petkova,A.; Feeroz,M.M.; Alam,S.M.R.; Hasan,M.K.; Akhtar,S.; Jones-Engel,L.; Walker,D.; McClenaghan,L.; Rubrum,A.; Franks,J.; Seiler,P.; Jeevan,T.; McKenzie,P.; Krauss,S.; Webby,R.J.; Webster,R.G."	
+A/environment/Bangladesh/18989/2013	"Marinova-Petkova,A.; Feeroz,M.M.; Alam,S.M.R.; Hasan,M.K.; Akhtar,S.; Jones-Engel,L.; Walker,D.; McClenaghan,L.; Rubrum,A.; Franks,J.; Seiler,P.; Jeevan,T.; McKenzie,P.; Krauss,S.; Webby,R.J.; Webster,R.G."	
+A/duck/Bangladesh/19099/2013	"Marinova-Petkova,A.; Feeroz,M.M.; Alam,S.M.R.; Hasan,M.K.; Akhtar,S.; Jones-Engel,L.; Walker,D.; McClenaghan,L.; Rubrum,A.; Franks,J.; Seiler,P.; Jeevan,T.; McKenzie,P.; Krauss,S.; Webby,R.J.; Webster,R.G."	
+A/duck/Bangladesh/17753/2012	"Marinova-Petkova,A.; Feeroz,M.M.; Alam,S.M.R.; Hasan,M.K.; Akhtar,S.; Jones-Engel,L.; Walker,D.; McClenaghan,L.; Rubrum,A.; Franks,J.; Seiler,P.; Jeevan,T.; McKenzie,P.; Krauss,S.; Webby,R.J.; Webster,R.G."	
+A/quail/Bangladesh/19250/2013	"Marinova-Petkova,A.; Feeroz,M.M.; Alam,S.M.R.; Hasan,M.K.; Akhtar,S.; Jones-Engel,L.; Walker,D.; McClenaghan,L.; Rubrum,A.; Franks,J.; Seiler,P.; Jeevan,T.; McKenzie,P.; Krauss,S.; Webby,R.J.; Webster,R.G."	
+A/quail/Bangladesh/19254/2013	"Marinova-Petkova,A.; Feeroz,M.M.; Alam,S.M.R.; Hasan,M.K.; Akhtar,S.; Jones-Engel,L.; Walker,D.; McClenaghan,L.; Rubrum,A.; Franks,J.; Seiler,P.; Jeevan,T.; McKenzie,P.; Krauss,S.; Webby,R.J.; Webster,R.G."	
+A/environment/Bangladesh/18948/2013	"Marinova-Petkova,A.; Feeroz,M.M.; Alam,S.M.R.; Hasan,M.K.; Akhtar,S.; Jones-Engel,L.; Walker,D.; McClenaghan,L.; Rubrum,A.; Franks,J.; Seiler,P.; Jeevan,T.; McKenzie,P.; Krauss,S.; Webby,R.J.; Webster,R.G."	
+A/chicken/Bangladesh/15083/2012	"Marinova-Petkova,A.; Feeroz,M.M.; Alam,S.M.R.; Hasan,M.K.; Akhtar,S.; Jones-Engel,L.; Walker,D.; McClenaghan,L.; Rubrum,A.; Franks,J.; Seiler,P.; Jeevan,T.; McKenzie,P.; Krauss,S.; Webby,R.J.; Webster,R.G."	
+A/commonbuzzard/Bulgaria/38WB/2010	"Marinova-Petkova,A.; Franks,J.S.; Darnell,D.; Webster,R.G."	
+A/duck/Bangladesh/22229/2014	"Marinova-Petkova,A.; Shanmuganatham,K.; Feeroz,M.M.; Jones-Engel,L.; Hasan,M.K.; Akhtar,S.; Turner,J.; Walker,D.; Seiler,P.; Franks,J.; McKenzie,P.; Krauss,S.; Webby,R.J.; Webster,R.G.; Hasan,K.; Seiler,J."	
+A/chicken/Bangladesh/22482/2014	"Marinova-Petkova,A.; Shanmuganatham,K.; Feeroz,M.M.; Jones-Engel,L.; Hasan,M.K.; Akhtar,S.; Turner,J.; Walker,D.; Seiler,P.; Franks,J.; McKenzie,P.; Krauss,S.; Webby,R.J.; Webster,R.G.; Hasan,K.; Seiler,J."	
+A/duck/Bangladesh/23656/2014	"Marinova-Petkova,A.; Shanmuganatham,K.; Feeroz,M.M.; Jones-Engel,L.; Hasan,M.K.; Akhtar,S.; Turner,J.; Walker,D.; Seiler,P.; Franks,J.; McKenzie,P.; Krauss,S.; Webby,R.J.; Webster,R.G.; Hasan,K.; Seiler,J."	
+A/duck/Bangladesh/23660/2014	"Marinova-Petkova,A.; Shanmuganatham,K.; Feeroz,M.M.; Jones-Engel,L.; Hasan,M.K.; Akhtar,S.; Turner,J.; Walker,D.; Seiler,P.; Franks,J.; McKenzie,P.; Krauss,S.; Webby,R.J.; Webster,R.G.; Hasan,K.; Seiler,J."	
+A/duck/Bangladesh/23659/2014	"Marinova-Petkova,A.; Shanmuganatham,K.; Feeroz,M.M.; Jones-Engel,L.; Hasan,M.K.; Akhtar,S.; Turner,J.; Walker,D.; Seiler,P.; Franks,J.; McKenzie,P.; Krauss,S.; Webby,R.J.; Webster,R.G.; Hasan,K.; Seiler,J."	
+A/chicken/Bangladesh/23974/2014	"Marinova-Petkova,A.; Shanmuganatham,K.; Feeroz,M.M.; Jones-Engel,L.; Hasan,M.K.; Akhtar,S.; Turner,J.; Walker,D.; Seiler,P.; Franks,J.; McKenzie,P.; Krauss,S.; Webby,R.J.; Webster,R.G.; Hasan,K.; Seiler,J."	
+A/duck/Bangladesh/22991/2014	"Marinova-Petkova,A.; Shanmuganatham,K.; Feeroz,M.M.; Jones-Engel,L.; Hasan,M.K.; Akhtar,S.; Turner,J.; Walker,D.; Seiler,P.; Franks,J.; McKenzie,P.; Krauss,S.; Webby,R.J.; Webster,R.G.; Hasan,K.; Seiler,J."	
+A/duck/Bangladesh/22399/2014	"Marinova-Petkova,A.; Shanmuganatham,K.; Feeroz,M.M.; Jones-Engel,L.; Hasan,M.K.; Akhtar,S.; Turner,J.; Walker,D.; Seiler,P.; Franks,J.; McKenzie,P.; Krauss,S.; Webby,R.J.; Webster,R.G.; Hasan,K.; Seiler,J."	
+A/duck/Bangladesh/22996/2014	"Marinova-Petkova,A.; Shanmuganatham,K.; Feeroz,M.M.; Jones-Engel,L.; Hasan,M.K.; Akhtar,S.; Turner,J.; Walker,D.; Seiler,P.; Franks,J.; McKenzie,P.; Krauss,S.; Webby,R.J.; Webster,R.G.; Hasan,K.; Seiler,J."	
+A/domesticduck/England/152473/2022	"Maskell,Daniel"	Animal And Plant Health Agency (apha)
+A/chicken/Yinmarbin/A295/2010	"MaungMaung,Kyin; Vicky,Stevens; Kelly,Davies; Songhua,Shan; Daglas,Susie; Kerri,Bruce; Paul,Selleck; Frank,Wong; Chris,Morrissy"	Csiro Australian Animal Health Laboratory
+A/hoodedcrane/Kagoshima/4612J008/2010	"Mimura,W.; Soda,K.; Usui,T.; Ito,H.; Ito,T."	
+A/chicken/Yangon/1023/2007	"Mon,P.P.; Lapkuntod,J.; Maw,M.T.; Nuansrichay,B.; Parchariyanon,S.; Tiensin,T.; Htun,T.; Padungtod,P.; Kalpravidh,W.; Sunn,K.; Maclean,M.; Amonsin,A."	
+A/guineafowl/Yangon/834/2007	"Mon,P.P.; Lapkuntod,J.; Maw,M.T.; Nuansrichay,B.; Parchariyanon,S.; Tiensin,T.; Htun,T.; Padungtod,P.; Kalpravidh,W.; Sunn,K.; Maclean,M.; Amonsin,A."	
+A/chicken/Shan/2626/2007	"Mon,P.P.; Lapkuntod,J.; Maw,M.T.; Nuansrichay,B.; Parchariyanon,S.; Tiensin,T.; Htun,T.; Padungtod,P.; Kalpravidh,W.; Sunn,K.; Maclean,M.; Amonsin,A."	
+A/chicken/Yangon/182/2010	"Mon,P.P.; Lapkuntod,J.; Maw,M.T.; Nuansrichay,B.; Parchariyanon,S.; Tiensin,T.; Htun,T.; Padungtod,P.; Kalpravidh,W.; Sunn,K.; Maclean,M.; Amonsin,A."	
+A/chicken/Yangon/254/2010	"Mon,P.P.; Lapkuntod,J.; Maw,M.T.; Nuansrichay,B.; Parchariyanon,S.; Tiensin,T.; Htun,T.; Padungtod,P.; Kalpravidh,W.; Sunn,K.; Maclean,M.; Amonsin,A."	
+A/chicken/Sagaing/295/2010	"Mon,P.P.; Lapkuntod,J.; Maw,M.T.; Nuansrichay,B.; Parchariyanon,S.; Tiensin,T.; Htun,T.; Padungtod,P.; Kalpravidh,W.; Sunn,K.; Maclean,M.; Amonsin,A."	
+A/chicken/Cameroon/16V04357/2016	"Monamele,C.M.; Y,P.; Karlsson,E.A.; Vernet,M.-A.; Wade,A.; Okomo,M.-C.A.; Abah,A.S.; Yann,S.; Etoundi,G.A.; Mohamadou,N.R.; Feussom,J.M.; Horm,V.S.; Horwood,P.F.; Ly,S.; Njouom,R.; Dussart,P."	
+A/chicken/Cameroon/16V04338/2016	"Monamele,C.M.; Y,P.; Karlsson,E.A.; Vernet,M.-A.; Wade,A.; Okomo,M.-C.A.; Abah,A.S.; Yann,S.; Etoundi,G.A.; Mohamadou,N.R.; Feussom,J.M.; Horm,V.S.; Horwood,P.F.; Ly,S.; Njouom,R.; Dussart,P."	
+A/falcon/Japan/NIES231b/2022	"Nabeshima,K.; Onuma,M.; Uchida,Y.; Miyazawa,K.; Mine,J.; Takadate,Y."	
+A/duck/Vietnam/LBM136/2012	"Nagai,Y.; Soda,K.; Hotta,K.; Ito,T."	
+A/chicken/India/03CA03/2012	"Nagarajan,S.; Jain,R.; Tosh,C.; Murugkar,H.V.; Kumar,M.; Kulkarni,D.D."	
+A/crow/India/11TI16/2011	"Nagarajan,S.; Jain,R.; Tosh,C.; Murugkar,H.V.; Kumar,M.; Kulkarni,D.D."	
+A/crow/India/02CA07/2012	"Nagarajan,S.; Jain,R.; Tosh,C.; Murugkar,H.V.; Kumar,M.; Kulkarni,D.D."	
+A/crow/India/11TI11/2011	"Nagarajan,S.; Jain,R.; Tosh,C.; Murugkar,H.V.; Kumar,M.; Kulkarni,D.D."	
+A/chicken/Bhutan/01TI02/2013	"Nagarajan,S.; Mishra,A.; Vaid,N.; Shukla,S.; Tripati,S.; Syed,Z.; Tosh,C.; Murugkar,H.V.; Kumar,M.; Kataria,J.M.; Kulkarni,D.D."	
+A/chicken/India/01CA09/2012	"Nagarajan,S.; Mishra,A.; Vaid,N.; Shukla,S.; Tripati,S.; Syed,Z.; Tosh,C.; Murugkar,H.V.; Kumar,M.; Kataria,J.M.; Kulkarni,D.D."	
+A/chicken/India/CA0302/2011	"Nagarajan,S.; Pandey,M.; Tosh,C.; Jain,R.; Syed,Z.; Murugkar,H.V.; Dubey,S.C."	
+A/crow/India/01CA10/2012	"Nagarajan,S.; Senthil Kumar,D.; Tosh,C.; Murugkar,H.V.; Kumar,M.; Kulkarni,D.D."	
+A/crow/India/01CA08/2012	"Nagarajan,S.; Senthil Kumar,D.; Tosh,C.; Murugkar,H.V.; Kumar,M.; Kulkarni,D.D."	
+A/chicken/India/CA0303/2011	"Nagarajan,S.; Syed,Z.; Tosh,C.; Jain,R.; Pandey,M.; Murugkar,H.V.; Dubey,S.C."	
+A/crow/India/01CA16/2012	"Nagarajan,S.; Tripathi,S.; Tosh,C.; Murugkar,H.V.; Kumar,M.; Kulkarni,D.D."	
+A/chicken/India/12CA01/2013	"Nagarajan,S.; Tripathi,S.; Tosh,C.; Murugkar,H.V.; Kumar,M.; Kulkarni,D.D."	
+A/chicken/India/12CL2168/2013	"Nagarajan,S.; Tripathi,S.; Tosh,C.; Murugkar,H.V.; Kumar,M.; Kulkarni,D.D."	
+A/chicken/Bhutan/02CL505/2013	"Nagarajan,S.; Tripathi,S.; Tosh,C.; Murugkar,H.V.; Kumar,M.; Kulkarni,D.D."	
+A/chicken/Bhutan/01TR338/2013	"Nagarajan,S.; Tripathi,S.; Tosh,C.; Murugkar,H.V.; Kumar,M.; Kulkarni,D.D."	
+A/duck/Bhutan/01TR03/2013	"Nagarajan,S.; Tripathi,S.; Tosh,C.; Murugkar,H.V.; Kumar,M.; Kulkarni,D.D."	
+A/chicken/Bhutan/01TR340/2013	"Nagarajan,S.; Tripathi,S.; Tosh,C.; Murugkar,H.V.; Kumar,M.; Kulkarni,D.D."	
+A/chicken/Bhutan/01TI06/2013	"Nagarajan,S.; Tripathi,S.; Tosh,C.; Murugkar,H.V.; Kumar,M.; Kulkarni,D.D."	
+A/duck/Bhutan/01CL03/2013	"Nagarajan,S.; Tripathi,S.; Tosh,C.; Murugkar,H.V.; Kumar,M.; Kulkarni,D.D."	
+A/chicken/India/01CL1196/2012	"Nagarajan,S.; Tripathi,S.; Tosh,C.; Murugkar,H.V.; Kumar,M.; Kulkarni,D.D."	
+A/crow/India/01CA12/2012	"Nagarajan,S.; Tripathi,S.; Tosh,C.; Murugkar,H.V.; Kumar,M.; Kulkarni,D.D."	
+A/northernpintail/India/03OR320/2013	"Nagarajan,S.; Tripathi,S.; Tosh,C.; Murugkar,H.V.; Kumar,M.; Kulkarni,D.D."	
+A/duck/CzechRepublic/33061/2022	"Nagy,Alexander;Cernikova,Lenka;Stara,Martina"	State Veterinary Institute Prague
+A/chicken/Tyumen/2739/2021	"Natalia,Goncharova;Ivan,Susloparov;Natalia,Kolosova;Alexey,Danilenko;Juliya,Bulanovich;Vasiliy,Marchenko;Alexander,Ryzhikov"	State Research Center Of Virology And Biotechnology (vector)
+A/chicken/Bangladesh/C4/2017	"Nooruzzaman,M.; Mumu,T.T.; Hasnat,A.; Akter,M.N.; Rasel,M.S.U.; Rahman,M.M.; Parvin,R.; Chowdhury,E.H.; Islam,M.R."	
+A/whitetailedeagle/Estonia/TA2111864221VIR75126/2021	"Nurmoja, I.; Vilem, A.; Juurik, T.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Milani, A.; Giussani, E.; Pastori, A.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/gull/Estonia/TA2113284421VIR75128/2021	"Nurmoja, I.; Vilem, A.; Juurik, T.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Milani, A.; Giussani, E.; Pastori, A.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/Redfox/Estonia/TA212682021VIR1043313/2021	"Nurmoja, I.; Vilem, A.; Juurik, T.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Milani, A.; Giussani, E.; Pastori, A.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/Withetiledeagle/Estonia/TA2124126121VIR1043311/2021	"Nurmoja, I.; Vilem, A.; Juurik, T.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Milani, A.; Giussani, E.; Pastori, A.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/Ghana/AVL76321VIR705039/2021	"Odoom, T.; Ababio, P.T.; Danso, F.; Abakeh, P.; Youri, G.M.; Fia, G.E.; Yingar, D.T.; Daniel, B.; Arthur, D.; Kutame, M.S.;  Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Pastori, A.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/Avian/Vietnam/Egg/2017	"Oh,S.; Song,D.; Na,W.; Yeom,M.; Le,P.V."	
+A/Peru/LIM003/2022	"Padilla-Rojas, Carlos; Sevilla-Castañeda, Luren; Hurtado-Vela, Carmen; Silva-Molina, Juana; Bárcena-Flores, Luis; Lizarraga-Olivares, Wendy; Jimenez-Vasquez, Victor; Nuñez-Llanos, Alicia; Conza-Blanco, Lidia; Perez-Janampa, David; Marcelo-Tantamango, Oscar; Yarleque-Javier, Graciela; Rojas-Serrano, Nancy."	Instituto Nacional De Salud Peru
+A/Peru/LAM002/2022	"Padilla-Rojas, Carlos; Sevilla-Castañeda, Luren; Hurtado-Vela, Carmen; Silva-Molina, Juana; Bárcena-Flores, Luis; Lizarraga-Olivares, Wendy; Jimenez-Vasquez, Victor; Nuñez-Llanos, Alicia; Conza-Blanco, Lidia; Perez-Janampa, David; Marcelo-Tantamango, Oscar; Yarleque-Javier, Graciela; Rojas-Serrano, Nancy."	Instituto Nacional De Salud Peru
+A/chicken/Dongtai/601/2011	"Pan,J.; Liu,X.; Chen,S.; Peng,D."	
+A/chicken/Yangzhou/06/2011	"Pan,J.; Liu,X.; Chen,S.; Peng,D."	
+A/Pelican/Chile/70871/2022	"Pardo-Roa,C.; Johow,M.; Aguayo,C.; Ariyama,N.; Munoz,G.; Avila,C.; Almonacid,L.I.; Neira,V.; Medina,R."	
+A/Gull/Chile/70232/2022	"Pardo-Roa,C.; Johow,M.; Aguayo,C.; Ariyama,N.; Munoz,G.; Avila,C.; Almonacid,L.I.; Neira,V.; Medina,R."	
+A/Gull/Chile/70233/2022	"Pardo-Roa,C.; Johow,M.; Aguayo,C.; Ariyama,N.; Munoz,G.; Avila,C.; Almonacid,L.I.; Neira,V.; Medina,R."	
+A/Pelican/Chile/69581/2022	"Pardo-Roa,C.; Johow,M.; Aguayo,C.; Ariyama,N.; Munoz,G.; Avila,C.; Almonacid,L.I.; Neira,V.; Medina,R."	
+A/Pelican/Chile/69553/2022	"Pardo-Roa,C.; Johow,M.; Aguayo,C.; Ariyama,N.; Munoz,G.; Avila,C.; Almonacid,L.I.; Neira,V.; Medina,R."	
+A/Pelican/Chile/66181/2022	"Pardo-Roa,C.; Johow,M.; Aguayo,C.; Ariyama,N.; Munoz,G.; Avila,C.; Almonacid,L.I.; Neira,V.; Medina,R."	
+A/Pelican/Chile/66182/2022	"Pardo-Roa,C.; Johow,M.; Aguayo,C.; Ariyama,N.; Munoz,G.; Avila,C.; Almonacid,L.I.; Neira,V.; Medina,R."	
+A/Pelican/Chile/69241/2022	"Pardo-Roa,C.; Johow,M.; Aguayo,C.; Ariyama,N.; Munoz,G.; Avila,C.; Almonacid,L.I.; Neira,V.; Medina,R."	
+A/duck/Bangladesh/AR13218D1/2016	"Parvin, Rokshana; Harder, Timm"	Friedrich Loeffler Institut
+A/migratorybird/Bangladesh/P18/2010	"Parvin,R.; Kamal,A.H.M.; Haque,M.E.; Chowdhury,E.H.; Giasuddin,M.; Islam,M.R.; Vahlenkamp,T.W."	
+A/chicken/Lao/NL1621312/2016	"Phommachanh, P.;Theppangna, W.;Khanthamaly, V"	Centers For Disease Control And Prevention
+A/duck/Lao/Xiengkhouang02/2019	"Phommachanh, P.;Theppangna, W.;Khanthamaly, V"	Centers For Disease Control And Prevention
+A/duck/Lao/Xiengkhouang03/2019	"Phommachanh, P.;Theppangna, W.;Khanthamaly, V"	Centers For Disease Control And Prevention
+A/duck/Lao/Xiengkhouang01/2019	"Phommachanh, P.;Theppangna, W.;Khanthamaly, V"	Centers For Disease Control And Prevention
+A/duck/Lao/NL2072070/2020	"Phommachanh, P.;Theppangna, W.;Khanthamaly, V"	Centers For Disease Control And Prevention
+A/duck/Lao/NL2072072/2020	"Phommachanh, P.;Theppangna, W.;Khanthamaly, V"	Centers For Disease Control And Prevention
+A/duck/Lao/NL2072071/2020	"Phommachanh, P.;Theppangna, W.;Khanthamaly, V"	Centers For Disease Control And Prevention
+A/duck/Lao/NL2072066/2020	"Phommachanh, P.;Theppangna, W.;Khanthamaly, V"	Centers For Disease Control And Prevention
+A/duck/Lao/NL2072063/2020	"Phommachanh, P.;Theppangna, W.;Khanthamaly, V"	Centers For Disease Control And Prevention
+A/duck/Lao/NL2072061/2020	"Phommachanh, P.;Theppangna, W.;Khanthamaly, V"	Centers For Disease Control And Prevention
+A/duck/Lao/NL2072062/2020	"Phommachanh, P.;Theppangna, W.;Khanthamaly, V"	Centers For Disease Control And Prevention
+A/duck/Lao/NL2072069/2020	"Phommachanh, P.;Theppangna, W.;Khanthamaly, V"	Centers For Disease Control And Prevention
+A/duck/Lao/NL2072064/2020	"Phommachanh, P.;Theppangna, W.;Khanthamaly, V"	Centers For Disease Control And Prevention
+A/swan/Lithuania/1220PG122VIR72551/2022	"Pileviciene, S.; Janeliunas, Z.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Pastori, A.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/stork/Lithuania/4371PG122VIR72553/2022	"Pileviciene, S.; Janeliunas, Z.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Pastori, A.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/blackvulture/Georgia/W22749C/2022	"Poulson,R.; Stallknecht,D.; Rubrum,A.; Jeevan,T.; Walker,D.; Webby,R."	
+A/hawk/Kansas/W221155/2022	"Poulson,R.; Stallknecht,D.; Rubrum,A.; Jeevan,T.; Walker,D.; Webby,R."	
+A/baldeagle/Florida/W22191/2022	"Poulson,R.; Stallknecht,D.; Rubrum,A.; Jeevan,T.; Walker,D.; Webby,R."	
+A/chicken/Nepal/225/2013	"Puranik, A; Hanna, A; Essen, S; Focosi-Snyman, R; Manvell, R; Manandhar, P; Reid, S"	Animal And Plant Health Agency (apha)
+A/chicken/Nepal/223/2013	"Puranik, A; Hanna, A; Essen, S; Focosi-Snyman, R; Manvell, R; Manandhar, P; Reid, S"	Animal And Plant Health Agency (apha)
+A/chicken/Nepal/231/2013	"Puranik, A; Hanna, A; Essen, S; Focosi-Snyman, R; Manvell, R; Manandhar, P; Reid, S"	Animal And Plant Health Agency (apha)
+A/duck/Nepal/5TZoo/2011	"Puranik, A; Hanna, A; Essen, S; Focosi-Snyman, R; Manvell, R.J; Sedai, D; Chapagain, S; Manandhar, S; Koirala, P; Karki, K.B; Pandey, K.R; Air, T.B; Reid, S"	Animal And Plant Health Agency (apha)
+A/crow/Nepal/CT1/2012	"Puranik, A; Hanna, A; Essen, S; Focosi-Snyman, R; Manvell, R.J; Sedai, D; Chapagain, S; Manandhar, S; Koirala, P; Karki, K.B; Pandey, K.R; Air, T.B; Reid, S"	Animal And Plant Health Agency (apha)
+A/chicken/Nepal/T1P/2012	"Puranik, A; Hanna, A; Essen, S; Focosi-Snyman, R; Manvell, R.J; Sedai, D; Chapagain, S; Manandhar, S; Koirala, P; Karki, K.B; Pandey, K.R; Air, T.B; Reid, S"	Animal And Plant Health Agency (apha)
+A/commontern/ME/COTE202206121/2022	"Puryear, Wendy; Sawatzki, Kaitlin; Lyons, Donald; Shannon, Paula; Foss, Alexa; Runstadler, Jonathan van de Guchte,Adriana; Silvia Gonzalez-Reiche,Ana ; Khalil,Zain ; van Bakel,Harm"	Icahn School Of Medicine At Mount Sinai
+A/mink/China/CY/2017	"Qin,X."	
+A/chicken/India/03CL488/2011	"Qureshi,M.; Tosh,C.; Nagarajan,S.; Murugkar,H.V.; Jain,R.; Kulkarni,D.D."	
+A/peafowl/Kirkuk/1/2015	"Rashid,P.M.; Saeed,N.M.; Dyary,H.O.; Rashid,P.M.A."	
+A/peafowl/Kirkuk/2/2015	"Rashid,P.M.; Saeed,N.M.; Dyary,H.O.; Rashid,P.M.A."	
+A/chicken/Austria/25142022VIR113822/2022	"Revilla-Fernandez, S.; Bag, Z.; Pastori, A.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/Austria/25141922VIR113821/2022	"Revilla-Fernandez, S.; Bag, Z.; Pastori, A.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/swan/Spain/4087122VIR21421/2021	"Ruano, M.J.; Rocha, A.; Sanchez, A.; Aguero, M; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/Gypaetusbarbatus/Spain/1878922VIR631218/2022	"Ruano, M.J.; Rocha, A.; Sanchez, A.; Aguero, M; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/goose/Spain/65322VIR21422/2022	"Ruano, M.J.; Rocha, A.; Sanchez, A.; Aguero, M; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/stork/Spain/729122VIR214218/2022	"Ruano, M.J.; Rocha, A.; Sanchez, A.; Aguero, M; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/goose/Spain/141922VIR21426/2022	"Ruano, M.J.; Rocha, A.; Sanchez, A.; Aguero, M; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/duck/Spain/2095222VIR86325/2022	"Ruano, M.J.; Rocha, A.; Sanchez, A.; Aguero, M; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Pastori, A.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/Anseranser/Spain/2753322VIR863212/2022	"Ruano, M.J.; Rocha, A.; Sanchez, A.; Aguero, M; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Pastori, A.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/turkey/Spain/29964222VIR863222/2022	"Ruano, M.J.; Rocha, A.; Sanchez, A.; Aguero, M; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Pastori, A.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/turkey/Spain/29964322VIR863221/2022	"Ruano, M.J.; Rocha, A.; Sanchez, A.; Aguero, M; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Pastori, A.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/Anseranser/Spain/22VIR127744138034/2022	"Ruano,M.J.; Rocha,A.; Sanchez,A.; Aguero,M.; Pastori, A.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/swan/Spain/22VIR127744543822/2022	"Ruano,M.J.; Rocha,A.; Sanchez,A.; Aguero,M.; Pastori, A.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/Togo/510/2018	"Rubrum,A.; Jeevan,T.; McKenzie,P.; Webby,R.; Fusade-Boyer,M.; Ducatez,M.; Batawui,D.; Go-Maro,E.; Komlan,M.; Dogno,K.; Pato,P.S."	
+A/chicken/Togo/511/2018	"Rubrum,A.; Jeevan,T.; McKenzie,P.; Webby,R.; Fusade-Boyer,M.; Ducatez,M.; Batawui,D.; Go-Maro,E.; Komlan,M.; Dogno,K.; Pato,P.S."	
+A/chicken/Togo/515/2018	"Rubrum,A.; Jeevan,T.; McKenzie,P.; Webby,R.; Fusade-Boyer,M.; Ducatez,M.; Batawui,D.; Go-Maro,E.; Komlan,M.; Dogno,K.; Pato,P.S."	
+A/chicken/Togo/513/2018	"Rubrum,A.; Jeevan,T.; McKenzie,P.; Webby,R.; Fusade-Boyer,M.; Ducatez,M.; Batawui,D.; Go-Maro,E.; Komlan,M.; Dogno,K.; Pato,P.S."	
+A/chicken/Togo/516/2018	"Rubrum,A.; Jeevan,T.; McKenzie,P.; Webby,R.; Fusade-Boyer,M.; Ducatez,M.; Batawui,D.; Go-Maro,E.; Komlan,M.; Dogno,K.; Pato,P.S."	
+A/chicken/Togo/517/2018	"Rubrum,A.; Jeevan,T.; McKenzie,P.; Webby,R.; Fusade-Boyer,M.; Ducatez,M.; Batawui,D.; Go-Maro,E.; Komlan,M.; Dogno,K.; Pato,P.S."	
+A/chicken/Togo/507/2018	"Rubrum,A.; Jeevan,T.; McKenzie,P.; Webby,R.; Fusade-Boyer,M.; Ducatez,M.; Batawui,D.; Go-Maro,E.; Komlan,M.; Dogno,K.; Pato,P.S."	
+A/chicken/Togo/509/2018	"Rubrum,A.; Jeevan,T.; McKenzie,P.; Webby,R.; Fusade-Boyer,M.; Ducatez,M.; Batawui,D.; Go-Maro,E.; Komlan,M.; Dogno,K.; Pato,P.S."	
+A/chicken/Togo/514/2018	"Rubrum,A.; Jeevan,T.; McKenzie,P.; Webby,R.; Fusade-Boyer,M.; Ducatez,M.; Batawui,D.; Go-Maro,E.; Komlan,M.; Dogno,K.; Pato,P.S."	
+A/chicken/Togo/506/2018	"Rubrum,A.; Jeevan,T.; McKenzie,P.; Webby,R.; Fusade-Boyer,M.; Ducatez,M.; Batawui,D.; Go-Maro,E.; Komlan,M.; Dogno,K.; Pato,P.S."	
+A/chicken/CoteDIvoire/Viro26395/2015	"Rubrum,A.; Jeevan,T.; McKenzie,P.; Webby,R.; Fusade-Boyer,M.; Ducatez,M.; Couacy-Hymann,E."	
+A/chicken/CoteDIvoire/Viro15280/2015	"Rubrum,A.; Jeevan,T.; McKenzie,P.; Webby,R.; Fusade-Boyer,M.; Ducatez,M.; Couacy-Hymann,E."	
+A/chicken/CoteDIvoire/Viro18874/2015	"Rubrum,A.; Jeevan,T.; McKenzie,P.; Webby,R.; Fusade-Boyer,M.; Ducatez,M.; Couacy-Hymann,E."	
+A/chicken/CoteDIvoire/Viro30120/2015	"Rubrum,A.; Jeevan,T.; McKenzie,P.; Webby,R.; Fusade-Boyer,M.; Ducatez,M.; Couacy-Hymann,E."	
+A/chicken/CoteDIvoire/Viro27511/2015	"Rubrum,A.; Jeevan,T.; McKenzie,P.; Webby,R.; Fusade-Boyer,M.; Ducatez,M.; Couacy-Hymann,E."	
+A/chicken/CoteDIvoire/Viro26198/2015	"Rubrum,A.; Jeevan,T.; McKenzie,P.; Webby,R.; Fusade-Boyer,M.; Ducatez,M.; Couacy-Hymann,E."	
+A/chicken/CoteDIvoire/Viro2072/2015	"Rubrum,A.; Jeevan,T.; McKenzie,P.; Webby,R.; Fusade-Boyer,M.; Ducatez,M.; Couacy-Hymann,E."	
+A/chicken/CoteDIvoire/Viro001100/2016	"Rubrum,A.; Jeevan,T.; McKenzie,P.; Webby,R.; Fusade-Boyer,M.; Ducatez,M.; Couacy-Hymann,E."	
+A/chicken/CoteDIvoire/Viro00814/2016	"Rubrum,A.; Jeevan,T.; McKenzie,P.; Webby,R.; Fusade-Boyer,M.; Ducatez,M.; Couacy-Hymann,E."	
+A/chicken/CoteDIvoire/Viro20192/2015	"Rubrum,A.; Jeevan,T.; McKenzie,P.; Webby,R.; Fusade-Boyer,M.; Ducatez,M.; Couacy-Hymann,E."	
+A/chicken/EastJava/Av1955/2022	"S,Rehman;FA,Rantam;J,Rahmahani;AM,Witaningrum;RR,Prasetya;K,Rahardjo;AM,Nastri;JR,Dewantari;Y,Mori;K,Shimizu;MH,Effendi"	"Institute Of Tropical Disease, Universitas Airlangga"
+A/chicken/Hmawbi/517/2007	"Saito,T.; Watanabe,C.; Hayashi,T.; Uchida,Y.; Myint,W.W.; Thein,W.Z.; Takemae,N.; Mase,M.; Okamatsu,M.; Mar,A.; Mon,C.C.; Gawng,L.T.; Sann,K.; Kyi,T.A.; Yamaguchi,S."	
+A/quail/Thanatpin/2283/2007	"Saito,T.; Watanabe,C.; Hayashi,T.; Uchida,Y.; Myint,W.W.; Thein,W.Z.; Takemae,N.; Mase,M.; Okamatsu,M.; Mar,A.; Mon,C.C.; Gawng,L.T.; Sann,K.; Kyi,T.A.; Yamaguchi,S."	
+A/villagechicken/KyaingTong/2433/2007	"Saito,T.; Watanabe,C.; Hayashi,T.; Uchida,Y.; Myint,W.W.; Thein,W.Z.; Takemae,N.; Mase,M.; Okamatsu,M.; Mar,A.; Mon,C.C.; Gawng,L.T.; Sann,K.; Kyi,T.A.; Yamaguchi,S."	
+A/whooperswan/Hokkaido/6/2011	"Sakoda,Y.; Ito,H.; Uchida,Y.; Okamatsu,M.; Yamamoto,N.; Soda,K.; Nomura,N.; Kuribayashi,S.; Shichinohe,S.; Sunden,Y.; Umemura,T.; Usui,T.; Ozaki,H.; Yamaguchi,T.; Murase,T.; Ito,T.; Saito,T.; Takada,A.; Kida,H.; Hatamachi,J."	
+A/chicken/Miyazaki/M6/2011	"Sakoda,Y.; Ito,H.; Uchida,Y.; Okamatsu,M.; Yamamoto,N.; Soda,K.; Nomura,N.; Kuribayashi,S.; Shichinohe,S.; Sunden,Y.; Umemura,T.; Usui,T.; Ozaki,H.; Yamaguchi,T.; Murase,T.; Ito,T.; Saito,T.; Takada,A.; Kida,H.; Takemae,N.; Hikono,H.; Uchida,Y.; Suzuki,Y.; Shirakura,M.; Kawaguchi,A.; Nobusawa,E.; Tanikawa,T.; Hikono,H.; Takemae,N.; Mase,M.; Kanehira,K.; Hayashi,T.; Tagawa,Y.; Tashiro,M.; Saito,T."	
+A/chicken/Vietnam/HU12657/2019	"Sakoda,Y.; Okamatsu,M.; Matsuno,K.; kien,L.T."	
+A/chicken/Vietnam/HU12667/2019	"Sakoda,Y.; Okamatsu,M.; Matsuno,K.; kien,L.T."	
+A/chicken/Vietnam/HU12665/2019	"Sakoda,Y.; Okamatsu,M.; Matsuno,K.; kien,L.T."	
+A/chicken/Vietnam/HU12666/2019	"Sakoda,Y.; Okamatsu,M.; Matsuno,K.; kien,L.T."	
+A/chicken/Vietnam/HU12669/2019	"Sakoda,Y.; Okamatsu,M.; Matsuno,K.; kien,L.T."	
+A/chicken/Vietnam/HU12668/2019	"Sakoda,Y.; Okamatsu,M.; Matsuno,K.; kien,L.T."	
+A/chicken/Vietnam/HU12661/2019	"Sakoda,Y.; Okamatsu,M.; Matsuno,K.; kien,L.T."	
+A/poultry/Benin/21A09031O/2021	"Sanogo,I.N.; Djegui,F.; Dupre,G.; Rubrum,A.; Jeevan,T.; McKenzie,P.; Webby,R.J.; Ducatez,M.F."	
+A/poultry/Benin/21A08009O/2021	"Sanogo,I.N.; Djegui,F.; Dupre,G.; Rubrum,A.; Jeevan,T.; McKenzie,P.; Webby,R.J.; Ducatez,M.F."	
+A/poultry/Benin/21A08034O/2021	"Sanogo,I.N.; Djegui,F.; Dupre,G.; Rubrum,A.; Jeevan,T.; McKenzie,P.; Webby,R.J.; Ducatez,M.F."	
+A/poultry/Benin/21A08033O/2021	"Sanogo,I.N.; Djegui,F.; Dupre,G.; Rubrum,A.; Jeevan,T.; McKenzie,P.; Webby,R.J.; Ducatez,M.F."	
+A/poultry/Benin/21A08035O/2021	"Sanogo,I.N.; Djegui,F.; Dupre,G.; Rubrum,A.; Jeevan,T.; McKenzie,P.; Webby,R.J.; Ducatez,M.F."	
+A/gadwall/Croatia/108/2021	"Savić, Vladimir"	Croatian Veterinary Institute
+A/muteswan/Croatia/100/2021	"Savić, Vladimir"	Croatian Veterinary Institute
+A/greyheron/Croatia/132/2021	"Savić, Vladimir"	Croatian Veterinary Institute
+A/muteswan/Croatia/146/2021	"Savić, Vladimir"	Croatian Veterinary Institute
+A/muteswan/Croatia/104/2021	"Savić, Vladimir"	Croatian Veterinary Institute
+A/chicken/Croatia/7/2022	"Savić, Vladimir"	Croatian Veterinary Institute
+A/chicken/Croatia/55/2022	"Savić, Vladimir"	Croatian Veterinary Institute
+A/muteswan/Croatia/144/2021	"Savić, Vladimir"	Croatian Veterinary Institute
+A/goose/Croatia/107/2021	"Savić, Vladimir"	Croatian Veterinary Institute
+A/muteswan/Croatia/145/2021	"Savić, Vladimir"	Croatian Veterinary Institute
+A/muteswan/Croatia/101/2021	"Savić, Vladimir"	Croatian Veterinary Institute
+A/muteswan/Croatia/6/2022	"Savić, Vladimir"	Croatian Veterinary Institute
+A/muteswan/Croatia/108/2022	"Savić, Vladimir"	Croatian Veterinary Institute
+A/peafowl/Croatia/123/2022	"Savić, Vladimir"	Croatian Veterinary Institute
+A/muteswan/Croatia/126/2022	"Savić, Vladimir"	Croatian Veterinary Institute
+A/muteswan/Croatia/125/2022	"Savić, Vladimir"	Croatian Veterinary Institute
+A/peregrinefalcon/MA/22MM00802/2022	"Sawatzki, Kaitlin; Puryear, Wendy; Murray, Maureen; Cox, Elena; Foss, Alexa; Runstadler, Jonathan van de Guchte,Adriana; Silvia Gonzalez-Reiche,Ana ; Khalil,Zain ; van Bakel,Harm"	Icahn School Of Medicine At Mount Sinai
+A/commoneider/MA/22MM00823/2022	"Sawatzki, Kaitlin; Puryear, Wendy; Murray, Maureen; Cox, Elena; Foss, Alexa; Runstadler, Jonathan van de Guchte,Adriana; Silvia Gonzalez-Reiche,Ana ; Khalil,Zain ; van Bakel,Harm"	Icahn School Of Medicine At Mount Sinai
+A/chicken/Japan/AQHE79/2015	"Shibata,A.; Hiono,T.; Okamatsu,M.; Osaka,H.; Sakoda,Y."	
+A/chicken/Nigeria/VRD882/2015	"Shittu,I.; Meseko,C.A.; Gado,D.A.; Olawuyi,A.K.; Chinyere,C.N.; Anefu,E.; Solomon,P.; Okewole,P.A.; Shamaki,D.; Joannis,T.M."	
+A/turkey/Israel/564/2021	"Shkoda,I; Lublin,A; Simanov,L; Hadas,R; Farnoushi,Y; Berkovitch,A; Bucris,E; Morad,H; Geva,M; ZilbertzanItay,O; Bar-OrI,I; S.Fratty,I; Mandelboim,M; Zuckerman, N.S"	Kimron Veterinary Institute
+A/duck/Israel/589/2021	"Shkoda,I; Lublin,A; Simanov,L; Hadas,R; Farnoushi,Y; Berkovitch,A; Bucris,E; Morad,H; Geva,M; ZilbertzanItay,O; Bar-OrI,I; S.Fratty,I; Mandelboim,M; Zuckerman, N.S"	Kimron Veterinary Institute
+A/chicken/Israel/88/2022	"Shkoda,I; Lublin,A; Simanov,L; Hadas,R; Farnoushi,Y; Berkovitch,A; Bucris,E; Morad,H; Geva,M; ZilbertzanItay,O; Bar-OrI,I; S.Fratty,I; Mandelboim,M; Zuckerman, N.S"	Kimron Veterinary Institute
+A/commoncrane/Israel/670/2021	"Shkoda,I; Lublin,A; Simanov,L; Hadas,R; Farnoushi,Y; Berkovitch,A; Bucris,E; Morad,H; Geva,M; ZilbertzanItay,O; Bar-OrI,I; S.Fratty,I; Mandelboim,M; Zuckerman, N.S"	Kimron Veterinary Institute
+A/grebe/Tyva/2/2010	"Shlyapnikova,O.V.; Prilipov,A.G.; Poglazov,A.B."	
+A/Cambodia/NPH230032/2023	"SIEGERS,Jurre; YANN,Sokhoun; KOL,Sonita; PUM,Leakhena; CHIN,Savuth; CHAU,Darapheak; CHHEA,Chhorvann; KARLSSON,Erik"	Institut Pasteur Du Cambodia
+A/Cambodia/2302009/2023	"SIEGERS,Jurre; YANN,Sokhoun; KOL,Sonita; PUM,Leakhena; CHIN,Savuth; CHAU,Darapheak; CHHEA,Chhorvann; KARLSSON,Erik"	Institut Pasteur Du Cambodia
+A/swan/Slovenia/1322VIR7778/2022	"Slavec, B.; Ra?nik, J.; Krape?, U.; ?labravec, Z.; A?ko, J.; Cociancich, V.; Paller, T.; Vidrih, ?.; Rojs, O.Z.;  Arseniev, S.; Groza, O.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/rooster/Slovenia/203922VIR7771/2021	"Slavec, B.; Ra?nik, J.; Krape?, U.; ?labravec, Z.; A?ko, J.; Cociancich, V.; Paller, T.; Vidrih, ?.; Rojs, O.Z.;  Arseniev, S.; Groza, O.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/swan/Slovenia/204122VIR7772/2021	"Slavec, B.; Ra?nik, J.; Krape?, U.; ?labravec, Z.; A?ko, J.; Cociancich, V.; Paller, T.; Vidrih, ?.; Rojs, O.Z.;  Arseniev, S.; Groza, O.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/swan/Slovenia/207322VIR7776/2021	"Slavec, B.; Ra?nik, J.; Krape?, U.; ?labravec, Z.; A?ko, J.; Cociancich, V.; Paller, T.; Vidrih, ?.; Rojs, O.Z.;  Arseniev, S.; Groza, O.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/swan/Slovenia/206022VIR7774/2021	"Slavec, B.; Ra?nik, J.; Krape?, U.; ?labravec, Z.; A?ko, J.; Cociancich, V.; Paller, T.; Vidrih, ?.; Rojs, O.Z.;  Arseniev, S.; Groza, O.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/seagull/Slovenia/207522VIR7777/2021	"Slavec, B.; Ra?nik, J.; Krape?, U.; ?labravec, Z.; A?ko, J.; Cociancich, V.; Paller, T.; Vidrih, ?.; Rojs, O.Z.;  Arseniev, S.; Groza, O.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/swan/Slovenia/204922VIR7773/2021	"Slavec, B.; Ra?nik, J.; Krape?, U.; ?labravec, Z.; A?ko, J.; Cociancich, V.; Paller, T.; Vidrih, ?.; Rojs, O.Z.;  Arseniev, S.; Groza, O.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/swan/Slovenia/207222VIR7775/2021	"Slavec, B.; Ra?nik, J.; Krape?, U.; ?labravec, Z.; A?ko, J.; Cociancich, V.; Paller, T.; Vidrih, ?.; Rojs, O.Z.;  Arseniev, S.; Groza, O.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/muscovyduck/Vietnam/LBM399/2013	"Soda,K.; Hotta,K.; Le,M.Q.; Ito,T.; Hashimoto,Y."	
+A/commonpochard/Tottori/3102S012/2011	"Soda,K.; Usui,T.; Ito,H.; Yamaguchi,T.; Ito,T.; Mimura,W."	
+A/tuftedduck/Tottori/3102S004/2011	"Soda,K.; Usui,T.; Ito,H.; Yamaguchi,T.; Ito,T.; Mimura,W."	
+A/duck/Lao/567/2010	"Sonnberg,S.; Phommachanh,P.; Naipospos,T.S.P.; McKenzie,J.; Chanthavisouk,C.; Pathammavong,S.; Darnell,D.; Meeduangchanh,P.; Rubrum,A.M.; Souriya,M.; Khambounheuang,B.; Webby,R.J.; Douangngeun,B.; Webster,R.G."	
+A/chicken/Lao/LH1B/2010	"Sonnberg,S.; Phommachanh,P.; Naipospos,T.S.P.; McKenzie,J.; Chanthavisouk,C.; Pathammavong,S.; Darnell,D.; Meeduangchanh,P.; Rubrum,A.M.; Souriya,M.; Khambounheuang,B.; Webby,R.J.; Douangngeun,B.; Webster,R.G."	
+A/chicken/Lao/LH1/2010	"Sonnberg,S.; Phommachanh,P.; Naipospos,T.S.P.; McKenzie,J.; Chanthavisouk,C.; Pathammavong,S.; Darnell,D.; Meeduangchanh,P.; Rubrum,A.M.; Souriya,M.; Khambounheuang,B.; Webby,R.J.; Douangngeun,B.; Webster,R.G."	
+A/duck/Lao/968/2010	"Sonnberg,S.; Phommachanh,P.; Naipospos,T.S.P.; McKenzie,J.; Chanthavisouk,C.; Pathammavong,S.; Darnell,D.; Meeduangchanh,P.; Rubrum,A.M.; Souriya,M.; Khambounheuang,B.; Webby,R.J.; Douangngeun,B.; Webster,R.G."	
+A/environment/Lao/977/2010	"Sonnberg,S.; Phommachanh,P.; Naipospos,T.S.P.; McKenzie,J.; Chanthavisouk,C.; Pathammavong,S.; Darnell,D.; Meeduangchanh,P.; Rubrum,A.M.; Souriya,M.; Khambounheuang,B.; Webby,R.J.; Douangngeun,B.; Webster,R.G."	
+A/environment/Lao/979/2010	"Sonnberg,S.; Phommachanh,P.; Naipospos,T.S.P.; McKenzie,J.; Chanthavisouk,C.; Pathammavong,S.; Darnell,D.; Meeduangchanh,P.; Rubrum,A.M.; Souriya,M.; Khambounheuang,B.; Webby,R.J.; Douangngeun,B.; Webster,R.G."	
+A/duck/Lao/7/2010	"Sonnberg,S.; Phommachanh,P.; Naipospos,T.S.P.; McKenzie,J.; Chanthavisouk,C.; Pathammavong,S.; Darnell,D.; Meeduangchanh,P.; Rubrum,A.M.; Souriya,M.; Khambounheuang,B.; Webby,R.J.; Douangngeun,B.; Webster,R.G."	
+A/duck/Lao/980/2010	"Sonnberg,S.; Phommachanh,P.; Naipospos,T.S.P.; McKenzie,J.; Chanthavisouk,C.; Pathammavong,S.; Darnell,D.; Meeduangchanh,P.; Rubrum,A.M.; Souriya,M.; Khambounheuang,B.; Webby,R.J.; Douangngeun,B.; Webster,R.G."	
+A/duck/Lao/463/2010	"Sonnberg,S.; Phommachanh,P.; Naipospos,T.S.P.; McKenzie,J.; Chanthavisouk,C.; Pathammavong,S.; Darnell,D.; Meeduangchanh,P.; Rubrum,A.M.; Souriya,M.; Khambounheuang,B.; Webby,R.J.; Douangngeun,B.; Webster,R.G."	
+A/duck/Lao/471/2010	"Sonnberg,S.; Phommachanh,P.; Naipospos,T.S.P.; McKenzie,J.; Chanthavisouk,C.; Pathammavong,S.; Darnell,D.; Meeduangchanh,P.; Rubrum,A.M.; Souriya,M.; Khambounheuang,B.; Webby,R.J.; Douangngeun,B.; Webster,R.G."	
+A/quail/Niger/22VIR140930/2022	"Souley, M.M.; Yaou, B.; Amadou, H.; Haido, A.M.; Issiako, A.; Alassane, A.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/Niger/22VIR140913/2022	"Souley, M.M.; Yaou, B.; Amadou, H.; Haido, A.M.; Issiako, A.; Alassane, A.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/quail/Niger/22VIR140928/2022	"Souley, M.M.; Yaou, B.; Amadou, H.; Haido, A.M.; Issiako, A.; Alassane, A.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/Niger/22VIR14095/2022	"Souley, M.M.; Yaou, B.; Amadou, H.; Haido, A.M.; Issiako, A.; Alassane, A.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/Niger/22VIR14099/2022	"Souley, M.M.; Yaou, B.; Amadou, H.; Haido, A.M.; Issiako, A.; Alassane, A.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/Niger/22VIR140923/2022	"Souley, M.M.; Yaou, B.; Amadou, H.; Haido, A.M.; Issiako, A.; Alassane, A.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/greatcrestedgrebe/Tyva/22/2010	"Susloparov,I.M.; Silko,N.Y.; Sharshov,K.A.; Shestopalov,A.M."	
+A/duck/Cambodia/Z564W35M1/2015	"Suttie,A.; Karlsson,E.A.; Deng,Y.M.; Horm,S.V.; Yann,S.; Tok,S.; Sorn,S.; Holl,D.; Tum,S.; Hurt,A.C.; Greenhill,A.R.; Barr,I.G.; Horwood,P.F.; Dussart,P.; Suttie,A.M.; Deng,Y.-M."	
+A/commonmurre/Poland/MB151/2022	"Swieton E., Smietanka K."	"National Veterinary Research Institut Poland, Piwet Pib"
+A/blackheadedgull/Poland/MB139/2022	"Swieton E., Smietanka K."	"National Veterinary Research Institut Poland, Piwet Pib"
+A/chicken/Poland/H15722VIR25153/2022	"Swieton, E.; Smietanka, K.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/swan/Poland/MB08322VIR25158/2022	"Swieton, E.; Smietanka, K.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/swan/Poland/MB07822VIR25157/2022	"Swieton, E.; Smietanka, K.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/duck/Poland/H18822VIR25152/2022	"Swieton, E.; Smietanka, K.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/Poland/H07122VIR25156/2022	"Swieton, E.; Smietanka, K.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/goose/Poland/H12422VIR25155/2022	"Swieton, E.; Smietanka, K.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/duck/Poland/H12622VIR25154/2022	"Swieton, E.; Smietanka, K.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/Vietnam/UT31412II/2008	"Takano,R."	
+A/Vietnam/HN31432M/2008	"Takano,R."	
+A/barnaclegoose/Finland/624721VIR76896/2021	"Tammiranta, N.; Kantala, T.; Laamanen, I.; Gadd, T.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Milani, A.; Giussani, E.; Pastori, A.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/barnaclegoose/Finland/637821VIR76897/2021	"Tammiranta, N.; Kantala, T.; Laamanen, I.; Gadd, T.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Milani, A.; Giussani, E.; Pastori, A.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/Europeanherringgull/Finland/972221VIR768913/2021	"Tammiranta, N.; Kantala, T.; Laamanen, I.; Gadd, T.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Milani, A.; Giussani, E.; Pastori, A.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/Eurasianeagleowl/Finland/1061721VIR768915/2021	"Tammiranta, N.; Kantala, T.; Laamanen, I.; Gadd, T.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Milani, A.; Giussani, E.; Pastori, A.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/barnaclegoose/Finland/695521VIR76899/2021	"Tammiranta, N.; Kantala, T.; Laamanen, I.; Gadd, T.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Milani, A.; Giussani, E.; Pastori, A.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/whitetailedeagle/Finland/698421VIR768910/2021	"Tammiranta, N.; Kantala, T.; Laamanen, I.; Gadd, T.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Milani, A.; Giussani, E.; Pastori, A.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/goldeneagle/Finland/937821VIR768912/2021	"Tammiranta, N.; Kantala, T.; Laamanen, I.; Gadd, T.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Milani, A.; Giussani, E.; Pastori, A.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/blackskimmer/Chile/C61962/2022	"Tan,S.; Freiden,P.; Sharp,B.; Jimenez-Bluhm,P.; Mukherjee,N.; Hamilton-West,C.; Schultz-Cherry,S."	
+A/graygull/Chile/C61947/2022	"Tan,S.; Freiden,P.; Sharp,B.; Jimenez-Bluhm,P.; Mukherjee,N.; Hamilton-West,C.; Schultz-Cherry,S."	
+A/pelican/Romania/12449/2015	"Thomas, S; Puranik, A; Londt, B; Essen, S; Manvell, R; Onita, I; Neicut, A; Cioranu, R; Motiu, R; Banks, J; Brown, I"	Animal And Plant Health Agency (apha)
+A/dalmatianpelican/Bulgaria/4/2015	"Thomas, S; Seekings, A; Essen, S; Manvell, R; Goujgoulova, G; Oreshkova, L; Banks, J; Brown, I"	Animal And Plant Health Agency (apha)
+A/dalmatianpelican/Bulgaria/3/2015	"Thomas, S; Seekings, A; Essen, S; Manvell, R; Goujgoulova, G; Oreshkova, L; Banks, J; Brown, I"	Animal And Plant Health Agency (apha)
+A/chicken/Bulgaria/5409/2015	"Thomas, S; Seekings, A; Essen, S; Manvell, R; Goujgoulova, G; Oreshkova, L; Banks, J; Brown, I"	Animal And Plant Health Agency (apha)
+A/chicken/Bulgaria/5408/2015	"Thomas, S; Seekings, A; Essen, S; Manvell, R; Goujgoulova, G; Oreshkova, L; Banks, J; Brown, I"	Animal And Plant Health Agency (apha)
+A/chicken/Bulgaria/5407/2015	"Thomas, S; Seekings, A; Essen, S; Manvell, R; Goujgoulova, G; Oreshkova, L; Banks, J; Brown, I"	Animal And Plant Health Agency (apha)
+A/duck/India/12CA05/2014	"Tosh,C.; Agarwal,S.; Kumar,M.; Nagarajan,S.; Mishra,A.; Shukla,S.; Singh,B.; Mishra,P.; Dubey,P.; Tripathi,S.; Murugkar,H.V.; Kulkarni,D.D."	
+A/chicken/India/04CA17/2015	"Tosh,C.; Nagarajan,S.; Kumar,M.; Murugkar,H.V.; Venkatesh,G.; Shukla,S.; Mishra,A.; Mishra,P.; Agarwal,S.; Singh,B.; Dubey,P.; Tripathi,S.; Kulkarni,D.D."	
+A/duck/India/03CA01/2015	"Tosh,C.; Nagarajan,S.; Kumar,M.; Murugkar,H.V.; Venkatesh,G.; Shukla,S.; Mishra,A.; Mishra,P.; Agarwal,S.; Singh,B.; Dubey,P.; Tripathi,S.; Kulkarni,D.D."	
+A/duck/India/11CA08/2014	"Tosh,C.; Nagarajan,S.; Kumar,M.; Murugkar,H.V.; Venkatesh,G.; Shukla,S.; Mishra,A.; Mishra,P.; Agarwal,S.; Singh,B.; Dubey,P.; Tripathi,S.; Kulkarni,D.D."	
+A/duck/India/11CA02/2014	"Tosh,C.; Nagarajan,S.; Kumar,M.; Murugkar,H.V.; Venkatesh,G.; Shukla,S.; Mishra,A.; Mishra,P.; Agarwal,S.; Singh,B.; Dubey,P.; Tripathi,S.; Kulkarni,D.D."	
+A/duck/India/11TR03/2014	"Tosh,C.; Nagarajan,S.; Kumar,M.; Murugkar,H.V.; Venkatesh,G.; Shukla,S.; Mishra,A.; Mishra,P.; Agarwal,S.; Singh,B.; Dubey,P.; Tripathi,S.; Kulkarni,D.D."	
+A/turkey/India/01CA01/2015	"Tosh,C.; Nagarajan,S.; Kumar,M.; Murugkar,H.V.; Venkatesh,G.; Shukla,S.; Mishra,A.; Mishra,P.; Agarwal,S.; Singh,B.; Dubey,P.; Tripathi,S.; Kulkarni,D.D."	
+A/duck/India/12TR04/2014	"Tosh,C.; Nagarajan,S.; Kumar,M.; Murugkar,H.V.; Venkatesh,G.; Shukla,S.; Mishra,A.; Mishra,P.; Agarwal,S.; Singh,B.; Dubey,P.; Tripathi,S.; Kulkarni,D.D."	
+A/chicken/India/09CA02/2011	"Tosh,C.; Nagarajan,S.; Murugkar,H.V.; Kumar,M.; Jain,R.; Tripathi,S.; Syed,Z.; Behera,P.; C,D.S.; Kulkarni,D.D.; Dubey,S.C."	
+A/chicken/India/09CA09/2011	"Tosh,C.; Nagarajan,S.; Murugkar,H.V.; Kumar,M.; Jain,R.; Tripathi,S.; Syed,Z.; Behera,P.; C,D.S.; Kulkarni,D.D.; Dubey,S.C."	
+A/chicken/India/08CA03/2013	"Tosh,C.; Nagarajan,S.; Murugkar,H.V.; Kumar,M.; Pandey,M.; Jolhe,D.K.; Tripathi,S.; Shukla,S.; Ved,N.; Mishra,A.; Ghosh,R.C.; Kulkarni,D.D."	
+A/chicken/India/07CA02/2013	"Tosh,C.; Nagarajan,S.; Murugkar,H.V.; Kumar,M.; Pandey,M.; Jolhe,D.K.; Tripathi,S.; Shukla,S.; Ved,N.; Mishra,A.; Ghosh,R.C.; Kulkarni,D.D."	
+A/chicken/India/04MO04/2012	"Tosh,C.; Nagarajan,S.; Murugkar,H.V.; Kumar,M.; Tripathi,S.; Syed,Z.; Behera,P.; Jain,R.; Dubey,S.C.; Kulkarni,D.D."	
+A/chicken/India/03CA02/2013	"Tosh,C.; Nagarajan,S.; Murugkar,H.V.; Kumar,M.; Tripathi,S.; Syed,Z.; Behera,P.; Jain,R.; Dubey,S.C.; Kulkarni,D.D."	
+A/crow/India/11TI07/2011	"Tosh,C.; Nagarajan,S.; Murugkar,H.V.; Kumar,M.; Tripathi,S.; Syed,Z.; Behera,P.; Jain,R.; Dubey,S.C.; Kulkarni,D.D."	
+A/chicken/India/09CA01/2011	"Tosh,C.; Nagarajan,S.; Murugkar,H.V.; Tripathi,S.; Jain,R.; Behera,P.; Syed,Z.; Kulkarni,D.D.; Dubey,S.C."	
+A/chicken/India/09CA10/2011	"Tosh,C.; Nagarajan,S.; Murugkar,H.V.; Tripathi,S.; Jain,R.; Behera,P.; Syed,Z.; Kulkarni,D.D.; Dubey,S.C."	
+A/crow/India/01CA02/2014	"Tosh,C.; Shukla,S.; Nagarajan,S.; Kumar,M.; Murugkar,H.V.; Tripathi,S.; Kulkarni,D.D."	
+A/chicken/Bhutan/04TI01/2015	"Tosh,C.; Tenzin,D.; Tenzin,S.; Nagarajan,S.; Kumar,M.; Murugkar,H.V.; Tripathi,S.; Wangdi,C.; Dukpa,K.; Gurung,R.B.; Kulkarni,D.D."	
+A/muteswan/Toyama/1/2010	"Uchida,Y.; Suzuki,Y.; Shirakura,M.; Kawaguchi,A.; Nobusawa,E.; Tanikawa,T.; Hikono,H.; Takemae,N.; Mase,M.; Kanehira,K.; Hayashi,T.; Tagawa,Y.; Tashiro,M.; Saito,T."	
+A/chicken/Oita/1/2011	"Uchida,Y.; Suzuki,Y.; Shirakura,M.; Kawaguchi,A.; Nobusawa,E.; Tanikawa,T.; Hikono,H.; Takemae,N.; Mase,M.; Kanehira,K.; Hayashi,T.; Tagawa,Y.; Tashiro,M.; Saito,T."	
+A/chicken/Miyazaki/TA3/2011	"Uchida,Y.; Suzuki,Y.; Shirakura,M.; Kawaguchi,A.; Nobusawa,E.; Tanikawa,T.; Hikono,H.; Takemae,N.; Mase,M.; Kanehira,K.; Hayashi,T.; Tagawa,Y.; Tashiro,M.; Saito,T."	
+A/chicken/Aichi/2/2011	"Uchida,Y.; Suzuki,Y.; Shirakura,M.; Kawaguchi,A.; Nobusawa,E.; Tanikawa,T.; Hikono,H.; Takemae,N.; Mase,M.; Kanehira,K.; Hayashi,T.; Tagawa,Y.; Tashiro,M.; Saito,T."	
+A/England/215201407/2021	"UKHSA, Respiratory Virus Unit"	Uk Health Security Agency (ukhsa)
+A/chicken/Primorje/1/2008	"Usacheva,O.V.; Prilipov,A.G."	
+A/Gallusgallus/Belgium/123950002/2022	"Van Borm, Steven;  Roupie, Virginie; Lambrecht, Benedicte; Steensels, Mieke"	"Sciensano, Department Of Animal Infectious Diseases"
+A/Otusscops/Belgium/134630002/2022	"Van Borm, Steven; Roupie, Virginie; Hostyn, Pierre;  Lambrecht, Benedicte; Steensels, Mieke"	"Sciensano, Department Of Animal Infectious Diseases"
+A/Gallusgallus/Belgium/124850001/2022	"Van Borm, Steven; Roupie, Virginie; Hostyn, Pierre;  Lambrecht, Benedicte; Steensels, Mieke"	"Sciensano, Department Of Animal Infectious Diseases"
+A/Morusbassanus/Belgium/108110001/2022	"Van Borm, Steven; Roupie, Virginie; Hostyn, Pierre; Lambrecht, Benedicte; Steensels, Mieke"	"Sciensano, Department Of Animal Infectious Diseases"
+A/Gallusgallus/Belgium/003220002/2023	"Van Borm, Steven; Roupie, Virginie; Hostyn, Pierre; Lambrecht, Benedicte; Steensels, Mieke"	"Sciensano, Department Of Animal Infectious Diseases"
+A/Anseranser/Belgium/002860004/2023	"Van Borm, Steven; Roupie, Virginie; Hostyn, Pierre; Lambrecht, Benedicte; Steensels, Mieke"	"Sciensano, Department Of Animal Infectious Diseases"
+A/Meleagrisgallopavo/Belgium/006950001/2023	"Van Borm, Steven; Roupie, Virginie; Hostyn, Pierre; Lambrecht, Benedicte; Steensels, Mieke"	"Sciensano, Department Of Animal Infectious Diseases"
+A/Gallusgallus/Belgium/016880004/2023	"Van Borm, Steven; Roupie, Virginie; Hostyn, Pierre; Mathijs, Elisabeth; Lambrecht, Benedicte; Steensels, Mieke"	"Sciensano, Department Of Animal Infectious Diseases"
+A/Chroicocephalusridibundus/Belgium/008160001/2023	"Van Borm, Steven; Roupie, Virginie; Hostyn, Pierre; Mathijs, Elisabeth; Lambrecht, Benedicte; Steensels, Mieke"	"Sciensano, Department Of Animal Infectious Diseases"
+A/Gallusgallus/Belgium/011720001/2023	"Van Borm, Steven; Roupie, Virginie; Hostyn, Pierre; Mathijs, Elisabeth; Lambrecht, Benedicte; Steensels, Mieke"	"Sciensano, Department Of Animal Infectious Diseases"
+A/Vulpesvulpes/Belgium/017840004/2023	"Van Borm, Steven; Roupie, Virginie; Hostyn, Pierre; Mathijs, Elisabeth; Lambrecht, Benedicte; Steensels, Mieke"	"Sciensano, Department Of Animal Infectious Diseases"
+A/Vulpesvulpes/Belgium/017840008/2023	"Van Borm, Steven; Roupie, Virginie; Hostyn, Pierre; Mathijs, Elisabeth; Lambrecht, Benedicte; Steensels, Mieke"	"Sciensano, Department Of Animal Infectious Diseases"
+A/Gallusgallus/Belgium/011110002/2023	"Van Borm, Steven; Roupie, Virginie; Hostyn, Pierre; Mathijs, Elisabeth; Lambrecht, Benedicte; Steensels, Mieke"	"Sciensano, Department Of Animal Infectious Diseases"
+A/Mustelaputorius/Belgium/014210001/2023	"Van Borm, Steven; Roupie, Virginie; Hostyn, Pierre; Mathijs, Elisabeth; Lambrecht, Benedicte; Steensels, Mieke"	"Sciensano, Department Of Animal Infectious Diseases"
+A/Anseranser/Belgium/148040002/2022	"Van Borm, Steven; Roupie, Virginie; Hostyn, Pierre; Mathijs, Elisabeth; Lambrecht, Benedicte; Steensels, Mieke"	"Sciensano, Department Of Animal Infectious Diseases"
+A/Gallusgallus/Belgium/171000001/2021	"Van Borm, Steven; Roupie, Virginie; Lambrecht, Benedicte; Mathijs, Elisabeth; Steensels, Mieke"	"Sciensano, Department Of Animal Infectious Diseases"
+A/Anseralbifrons/Belgium/154650010/2021	"Van Borm, Steven; Roupie, Virginie; Lambrecht, Benedicte; Mathijs, Elisabeth; Steensels, Mieke"	"Sciensano, Department Of Animal Infectious Diseases"
+A/Gallusgallus/Belgium/16070003/2021	"Van Borm, Steven; Roupie, Virginie; Lambrecht, Benedicte; Mathijs, Elisabeth; Steensels, Mieke"	"Sciensano, Department Of Animal Infectious Diseases"
+A/Gallusgallus/Belgium/15977/2021	"Van Borm, Steven; Roupie, Virginie; Lambrecht, Benedicte; Mathijs, Elisabeth; Steensels, Mieke"	"Sciensano, Department Of Animal Infectious Diseases"
+A/Brantaleucopsis/Belgium/147350001/2021	"Van Borm, Steven; Roupie, Virginie; Lambrecht, Benedicte; Mathijs, Elisabeth; Steensels, Mieke"	"Sciensano, Department Of Animal Infectious Diseases"
+A/Thalasseussandvicensis/Belgium/74730009/2022	"Van Borm, Steven; Roupie, Virginie; Lambrecht, Benedicte; Mathijs, Elisabeth; Steensels, Mieke"	"Sciensano, Department Of Animal Infectious Diseases"
+A/Falcoperegrinus/Belgium/40550002/2022	"Van Borm, Steven; Roupie, Virginie; Lambrecht, Benedicte; Mathijs, Elisabeth; Steensels, Mieke"	"Sciensano, Department Of Animal Infectious Diseases"
+A/Tytoalba/Belgium/3340012/2021	"Van Borm, Steven; Vandenbussche, Frank; Roupie, Virginie; Lambrecht, Benedicte; Steensels, Mieke"	"Sciensano, Department Of Animal Infectious Diseases"
+A/Buteobuteo/belgium/3340013/2021	"Van Borm, Steven; Vandenbussche, Frank; Roupie, Virginie; Lambrecht, Benedicte; Steensels, Mieke"	"Sciensano, Department Of Animal Infectious Diseases"
+A/Phalacrocoraxcarbo/Belgium/17340002/2022	"Van Borm, Steven; Vandenbussche, Frank; Roupie, Virginie; Lambrecht, Benedicte; Steensels, Mieke"	"Sciensano, Department Of Animal Infectious Diseases"
+A/Buteobuteo/Belgium/26060006/2022	"Van Borm, Steven; Vandenbussche, Frank; Roupie, Virginie; Lambrecht, Benedicte; Steensels, Mieke"	"Sciensano, Department Of Animal Infectious Diseases"
+A/duck/Cyprus/752222VIR1213313/2022	"Vasiliki, C.; Pastori, A.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/duck/Cyprus/749122VIR121335/2022	"Vasiliki, C.; Pastori, A.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/goose/Cyprus/746122VIR121333/2022	"Vasiliki, C.; Pastori, A.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/goose/Cyprus/750322VIR1213311/2022	"Vasiliki, C.; Pastori, A.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/duck/Cyprus/745122VIR121331/2022	"Vasiliki, C.; Pastori, A.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/goose/Cyprus/749322VIR121337/2022	"Vasiliki, C.; Pastori, A.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/duck/Cyprus/750222VIR1213310/2022	"Vasiliki,C.;Pastori, A.; Barbierato, G.; Zecchin, B.; Fusaro, A.; Schivo, A.; Salviato, A.; Palumbo, E.; Giussani, E.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/chicken/Cameroon/16VIR379116/2016	"Wade,A.; Monne,I.; Taiga; Fouda,M.; Abari,M.; Feussom,J.M.; Zecchin,B.; Fusaro,A.; Milani,A.; Terregino,C."	
+A/chicken/Cameroon/16VIR379122/2016	"Wade,A.; Monne,I.; Taiga; Fouda,M.; Abari,M.; Feussom,J.M.; Zecchin,B.; Fusaro,A.; Milani,A.; Terregino,C."	
+A/chicken/Cameroon/16VIR379112/2016	"Wade,A.; Monne,I.; Taiga; Fouda,M.; Abari,M.; Feussom,J.M.; Zecchin,B.; Fusaro,A.; Milani,A.; Terregino,C."	
+A/duck/Cameroon/16VIR379121/2016	"Wade,A.; Monne,I.; Taiga; Fouda,M.; Abari,M.; Feussom,J.M.; Zecchin,B.; Fusaro,A.; Milani,A.; Terregino,C."	
+A/Environment/Hunan/18478/2014	"Wang,Dayan;Li,Xiaodan;Zou,Shumei;Zhang,Ye;Bo,Hong;Li,Xiyan;Chen,Wenbing;Yang,Lei;Shu,Yuelong"	Who Chinese National Influenza Center
+A/Environment/Hunan/28147/2014	"Wang,Dayan;Li,Xiaodan;Zou,Shumei;Zhang,Ye;Bo,Hong;Li,Xiyan;Chen,Wenbing;Yang,Lei;Shu,Yuelong"	Who Chinese National Influenza Center
+A/environment/Guangxi/03218/2012	"Wang,Dayan;Li,Xiaodan;Zou,Shumei;Zhang,Ye;Bo,Hong;Li,Xiyan;Chen,Wenbing;Yang,Lei;Shu,Yuelong"	Who Chinese National Influenza Center
+A/environment/Shaanxi/03243/2012	"Wang,Dayan;Li,Xiaodan;Zou,Shumei;Zhang,Ye;Bo,Hong;Li,Xiyan;Chen,Wenbing;Yang,Lei;Shu,Yuelong"	Who Chinese National Influenza Center
+A/Environment/Chongqing/28922/2014	"Wang,Dayan;Li,Xiaodan;Zou,Shumei;Zhang,Ye;Bo,Hong;Li,Xiyan;Chen,Wenbing;Yang,Lei;Shu,Yuelong"	Who Chinese National Influenza Center
+A/Environment/Chongqing/45133/2015	"Wang,Dayan;Li,Xiaodan;Zou,Shumei;Zhang,Ye;Bo,Hong;Li,Xiyan;Chen,Wenbing;Yang,Lei;Shu,Yuelong"	Who Chinese National Influenza Center
+A/Environment/Guangxi/14313/2013	"Wang,Dayan;Li,Xiaodan;Zou,Shumei;Zhang,Ye;Bo,Hong;Li,Xiyan;Chen,Wenbing;Yang,Lei;Shu,Yuelong"	Who Chinese National Influenza Center
+A/duck/Shanghai/ZXC04/2017	"Wang,f."	
+A/duck/Shanghai/ZXC03/2017	"Wang,f."	
+A/duck/HuluSungaiUtara/A05220640304/2022	"Wibawa, Hendra; Wibowo, Putut Eko; Lestari, -; Irianingsih, Sri Handayani; Supriyadi, Arif; Fiqri, Anna Januar; Fahmia, Zaza; Silaban, Jesiaman; Mulyawan, Herdiyanto"	Balai Besar Veteriner Wates
+A/duck/HuluSungaiUtara/A05220670607/2022	"Wibawa, Hendra; Wibowo, Putut Eko; Lestari, -; Irianingsih, Sri Handayani; Supriyadi, Arif; Fiqri, Anna Januar; Fahmia, Zaza; Silaban, Jesiaman; Mulyawan, Herdiyanto"	Balai Besar Veteriner Wates
+A/duck/HuluSungaiUtara/A052206406/2022	"Wibawa, Hendra; Wibowo, Putut Eko; Lestari, -; Irianingsih, Sri Handayani; Supriyadi, Arif; Fiqri, Anna Januar; Fahmia, Zaza; Silaban, Jesiaman; Mulyawan, Herdiyanto"	Balai Besar Veteriner Wates
+A/chicken/LampungUtara/03160218/2016	"Wibawa,H.; Poermadjaja,B.; Mulyawan,H.; Dharmawan,R.; Mahawan,T.; Hutagaol,N.M.; Miswati,Y.; Srihanto,E.A.; Hartawan,D.H.W.; Hendrawati,F.; Riyadi,A.; Deswarni; Tri Harsono,A.; Hartaningsih,N.; Azhar,M.; Stegemen,A.; Mc Grane,J.; Rasa,F.S.T."	
+A/chicken/Sleman/04141596/2014	"Wibawa,H.; Poermadjaja,B.; Mulyawan,H.; Dharmawan,R.; Mahawan,T.; Hutagaol,N.M.; Miswati,Y.; Srihanto,E.A.; Hartawan,D.H.W.; Hendrawati,F.; Riyadi,A.; Deswarni; Tri Harsono,A.; Hartaningsih,N.; Azhar,M.; Stegemen,A.; Mc Grane,J.; Rasa,F.S.T."	
+A/quail/Sukoharjo/04152003/2015	"Wibawa,H.; Poermadjaja,B.; Mulyawan,H.; Dharmawan,R.; Mahawan,T.; Hutagaol,N.M.; Miswati,Y.; Srihanto,E.A.; Hartawan,D.H.W.; Hendrawati,F.; Riyadi,A.; Deswarni; Tri Harsono,A.; Hartaningsih,N.; Azhar,M.; Stegemen,A.; Mc Grane,J.; Rasa,F.S.T."	
+A/chicken/Sukoharjo/04160454/2016	"Wibawa,H.; Poermadjaja,B.; Mulyawan,H.; Dharmawan,R.; Mahawan,T.; Hutagaol,N.M.; Miswati,Y.; Srihanto,E.A.; Hartawan,D.H.W.; Hendrawati,F.; Riyadi,A.; Deswarni; Tri Harsono,A.; Hartaningsih,N.; Azhar,M.; Stegemen,A.; Mc Grane,J.; Rasa,F.S.T."	
+A/chicken/PakOuDistrict/NL1942877/2016	"Wong,F.Y.; Phommachanh,P.; Chanthavisouk,C.; Kalpravidh,W.; Mileto,P.; Davies,K.R.; Stevens,V.; Khounsy,S.; Bounma,P.; Phonsavat,S.; Phiphakhavong,S.; Souriya,M.; Khambounheuang,B.; Chanphengxay,S.; Butler,J.; Shan,S.; Broz,I.; Morrissy,C.; Eagles,D.; Douangngeun,B."	
+A/chicken/LuangPrabang/NL1621315/2016	"Wong,F.Y.; Phommachanh,P.; Chanthavisouk,C.; Kalpravidh,W.; Mileto,P.; Davies,K.R.; Stevens,V.; Khounsy,S.; Bounma,P.; Phonsavat,S.; Phiphakhavong,S.; Souriya,M.; Khambounheuang,B.; Chanphengxay,S.; Butler,J.; Shan,S.; Broz,I.; Morrissy,C.; Eagles,D.; Douangngeun,B."	
+A/chicken/LuangPrabang/NL1621316/2016	"Wong,F.Y.; Phommachanh,P.; Chanthavisouk,C.; Kalpravidh,W.; Mileto,P.; Davies,K.R.; Stevens,V.; Khounsy,S.; Bounma,P.; Phonsavat,S.; Phiphakhavong,S.; Souriya,M.; Khambounheuang,B.; Chanphengxay,S.; Butler,J.; Shan,S.; Broz,I.; Morrissy,C.; Eagles,D.; Douangngeun,B."	
+A/chicken/LuangPrabang/NL1621314/2016	"Wong,F.Y.; Phommachanh,P.; Chanthavisouk,C.; Kalpravidh,W.; Mileto,P.; Davies,K.R.; Stevens,V.; Khounsy,S.; Bounma,P.; Phonsavat,S.; Phiphakhavong,S.; Souriya,M.; Khambounheuang,B.; Chanphengxay,S.; Butler,J.; Shan,S.; Broz,I.; Morrissy,C.; Eagles,D.; Douangngeun,B."	
+A/chicken/LuangPrabang/NL1621317/2016	"Wong,F.Y.; Phommachanh,P.; Chanthavisouk,C.; Kalpravidh,W.; Mileto,P.; Davies,K.R.; Stevens,V.; Khounsy,S.; Bounma,P.; Phonsavat,S.; Phiphakhavong,S.; Souriya,M.; Khambounheuang,B.; Chanphengxay,S.; Butler,J.; Shan,S.; Broz,I.; Morrissy,C.; Eagles,D.; Douangngeun,B."	
+A/chicken/LuangPrabang/NL1621312/2016	"Wong,F.Y.; Phommachanh,P.; Chanthavisouk,C.; Kalpravidh,W.; Mileto,P.; Davies,K.R.; Stevens,V.; Khounsy,S.; Bounma,P.; Phonsavat,S.; Phiphakhavong,S.; Souriya,M.; Khambounheuang,B.; Chanphengxay,S.; Butler,J.; Shan,S.; Broz,I.; Morrissy,C.; Eagles,D.; Douangngeun,B."	
+A/chicken/LuangPrabangDistrict/NL1942879/2016	"Wong,F.Y.; Phommachanh,P.; Chanthavisouk,C.; Kalpravidh,W.; Mileto,P.; Davies,K.R.; Stevens,V.; Khounsy,S.; Bounma,P.; Phonsavat,S.; Phiphakhavong,S.; Souriya,M.; Khambounheuang,B.; Chanphengxay,S.; Butler,J.; Shan,S.; Broz,I.; Morrissy,C.; Eagles,D.; Douangngeun,B."	
+A/chicken/LuangPrabang/NL1621313/2016	"Wong,F.Y.; Phommachanh,P.; Chanthavisouk,C.; Kalpravidh,W.; Mileto,P.; Davies,K.R.; Stevens,V.; Khounsy,S.; Bounma,P.; Phonsavat,S.; Phiphakhavong,S.; Souriya,M.; Khambounheuang,B.; Chanphengxay,S.; Butler,J.; Shan,S.; Broz,I.; Morrissy,C.; Eagles,D.; Douangngeun,B."	
+A/chicken/ThathomDistrict/NL1942881/2017	"Wong,F.Y.; Phommachanh,P.; Chanthavisouk,C.; Kalpravidh,W.; Mileto,P.; Davies,K.R.; Stevens,V.; Khounsy,S.; Bounma,P.; Phonsavat,S.; Phiphakhavong,S.; Souriya,M.; Khambounheuang,B.; Chanphengxay,S.; Butler,J.; Shan,S.; Broz,I.; Morrissy,C.; Eagles,D.; Douangngeun,B."	
+A/chicken/ThathomDistrict/NL1942880/2017	"Wong,F.Y.; Phommachanh,P.; Chanthavisouk,C.; Kalpravidh,W.; Mileto,P.; Davies,K.R.; Stevens,V.; Khounsy,S.; Bounma,P.; Phonsavat,S.; Phiphakhavong,S.; Souriya,M.; Khambounheuang,B.; Chanphengxay,S.; Butler,J.; Shan,S.; Broz,I.; Morrissy,C.; Eagles,D.; Douangngeun,B."	
+A/chicken/ThatengDistrict/NL1942888/2018	"Wong,F.Y.; Phommachanh,P.; Chanthavisouk,C.; Kalpravidh,W.; Mileto,P.; Davies,K.R.; Stevens,V.; Khounsy,S.; Bounma,P.; Phonsavat,S.; Phiphakhavong,S.; Souriya,M.; Khambounheuang,B.; Chanphengxay,S.; Butler,J.; Shan,S.; Broz,I.; Morrissy,C.; Eagles,D.; Douangngeun,B."	
+A/chicken/ThatengDistrict/NL1942889/2018	"Wong,F.Y.; Phommachanh,P.; Chanthavisouk,C.; Kalpravidh,W.; Mileto,P.; Davies,K.R.; Stevens,V.; Khounsy,S.; Bounma,P.; Phonsavat,S.; Phiphakhavong,S.; Souriya,M.; Khambounheuang,B.; Chanphengxay,S.; Butler,J.; Shan,S.; Broz,I.; Morrissy,C.; Eagles,D.; Douangngeun,B."	
+A/chicken/SanasombounDistrict/NL1942886/2017	"Wong,F.Y.; Phommachanh,P.; Chanthavisouk,C.; Kalpravidh,W.; Mileto,P.; Davies,K.R.; Stevens,V.; Khounsy,S.; Bounma,P.; Phonsavat,S.; Phiphakhavong,S.; Souriya,M.; Khambounheuang,B.; Chanphengxay,S.; Butler,J.; Shan,S.; Broz,I.; Morrissy,C.; Eagles,D.; Douangngeun,B."	
+A/chicken/SanasombounDistrict/NL1942883/2017	"Wong,F.Y.; Phommachanh,P.; Chanthavisouk,C.; Kalpravidh,W.; Mileto,P.; Davies,K.R.; Stevens,V.; Khounsy,S.; Bounma,P.; Phonsavat,S.; Phiphakhavong,S.; Souriya,M.; Khambounheuang,B.; Chanphengxay,S.; Butler,J.; Shan,S.; Broz,I.; Morrissy,C.; Eagles,D.; Douangngeun,B."	
+A/chicken/Lao/M05/2014	"Wong,F.Y.; Phommachanh,P.; Chanthavisouk,C.; Kalpravidh,W.; Mileto,P.; Davies,K.R.; Stevens,V.; Khounsy,S.; Bounma,P.; Phonsavat,S.; Phiphakhavong,S.; Souriya,M.; Khambounheuang,B.; Chanphengxay,S.; Butler,J.; Shan,S.; Broz,I.; Morrissy,C.; Eagles,D.; Douangngeun,B."	
+A/chicken/Lao/M06/2014	"Wong,F.Y.; Phommachanh,P.; Chanthavisouk,C.; Kalpravidh,W.; Mileto,P.; Davies,K.R.; Stevens,V.; Khounsy,S.; Bounma,P.; Phonsavat,S.; Phiphakhavong,S.; Souriya,M.; Khambounheuang,B.; Chanphengxay,S.; Butler,J.; Shan,S.; Broz,I.; Morrissy,C.; Eagles,D.; Douangngeun,B."	
+A/duck/Zhejiang/1220092/2014	"Wu,H.; Peng,X.; Cheng,L.; Lu,X.; Jin,C.; Xie,T.; Yao,H.; Wu,N."	
+A/pigeon/Zhejiang/727097/2014	"Wu,H.; Peng,X.; Cheng,L.; Lu,X.; Jin,C.; Xie,T.; Yao,H.; Wu,N."	
+A/duck/Zhejiang/2245/2011	"Wu,H.; Wu,N."	
+A/duck/Zhejiang/2248/2011	"Wu,H.; Wu,N."	
+A/swine/Zhejiang/SW57/2015	"Wu,H.; Wu,N."	
+A/Vietnam/UT36236/2010	"Yamaji,R.; Yamada,S.; Le,M.Q.; Li,C.; Chen,H.; Qurnianingsih,E.; Nidom,C.A.; Ito,M.; Sakai-Tagawa,Y.; Kawaoka,Y."	
+A/Vietnam/UT36282/2010	"Yamaji,R.; Yamada,S.; Le,M.Q.; Li,C.; Chen,H.; Qurnianingsih,E.; Nidom,C.A.; Ito,M.; Sakai-Tagawa,Y.; Kawaoka,Y."	
+A/Brownheadedgull/Tibet/1/2010	"Yanbing,Li;Yanfang,Cui;Yulei,Li;Minghui,Li;Lu,Zhao;Deli,Wang"	Harbin Veterinary Research Institute (caas)
+A/Brownheadedgull/Tibet/2/2010	"Yanbing,Li;Yanfang,Cui;Yulei,Li;Minghui,Li;Lu,Zhao;Deli,Wang"	Harbin Veterinary Research Institute (caas)
+A/Blackswan/Jiangsu/5/2015	"Yanbing,Li;Yanfang,Cui;Yulei,Li;Minghui,Li;Lu,Zhao;Deli,Wang"	Harbin Veterinary Research Institute (caas)
+A/Barheadedgoose/Tibet/5/2015	"Yanbing,Li;Yanfang,Cui;Yulei,Li;Minghui,Li;Lu,Zhao;Deli,Wang"	Harbin Veterinary Research Institute (caas)
+A/Brownheadedgull/Tibet/4/2015	"Yanbing,Li;Yanfang,Cui;Yulei,Li;Minghui,Li;Lu,Zhao;Deli,Wang"	Harbin Veterinary Research Institute (caas)
+A/Barheadedgoose/Tibet/3/2015	"Yanbing,Li;Yanfang,Cui;Yulei,Li;Minghui,Li;Lu,Zhao;Deli,Wang"	Harbin Veterinary Research Institute (caas)
+A/Chicken/Shandong/J06/2009	"yanbo,yin;dongdong,wang;linlin,liu;xiliang,wang;penghui,yang;xin,liu;keyu,wang;chengcai,lai"	Beijing Institute Of Microbiology And Epidemiology
+A/Duck/Shandong/Y02/2009	"yanbo,yin;dongdong,wang;linlin,liu;xiliang,wang;penghui,yang;xin,liu;keyu,wang;chengcai,lai"	Beijing Institute Of Microbiology And Epidemiology
+A/chicken/Cambodia/1K241C1/2017	"Yann,Sokhoun; Siegers,Jurre Y.; Aziz,Ammar; Deng,Yi-Mo; Edwards,Kimberly M.; Wei,Xiaoman; Aziz,Ammar; Tum,Sothyra; Wong,Frank; Lewis,Nicola S.; Thielen,Peter; Claes,Filip; Barr,Ian G.; Dhanasekaran,Vijaykrishna; Karlsson,Erik A."	Hong Kong University
+A/pigeon/Hubei/RP25/2012	"Yao,Y.; Chen,J."	
+A/chicken/Egypt/F71/2022	"Yehia,N.; Hagag,N.; Arafa,A.E.; Mostafa,A.; Ali,A."	
+A/Nanjing/1/2015	"Yong,W.; Shi,L.; Qiao,M."	
+A/crow/Hokkaido/0101Q061/2022	"Yoshihiro, SAKODA; Norikazu, ISODA; Takahiro, HIONO"	"Graduate School Of Veterinary Medicine, Hokkaido University"
+A/crow/Hokkaido/0102L015/2022	"Yoshihiro, SAKODA; Norikazu, ISODA; Takahiro, HIONO"	"Graduate School Of Veterinary Medicine, Hokkaido University"
+A/chicken/Hokkaido/HUE008/2022	"Yoshihiro, Sakoda; Norikazu, Isoda; Takahiro, Hiono; Hew, Yik Lim"	"Graduate School Of Veterinary Medicine, Hokkaido University"
+A/largebilledcrow/Hokkaido/B008/2023	"Yoshihiro, Sakoda; Norikazu, Isoda; Takahiro, Hiono; Yik Lim, Hew"	"Graduate School Of Veterinary Medicine, Hokkaido University"
+A/largebilledcrow/Hokkaido/B006/2023	"Yoshihiro, Sakoda; Norikazu, Isoda; Takahiro, Hiono; Yik Lim, Hew"	"Graduate School Of Veterinary Medicine, Hokkaido University"
+A/crow/Hokkaido/0102M086/2022	"Yoshihiro, Sakoda; Takahiro, Hiono; Norikazu, Isoda"	"Graduate School Of Veterinary Medicine, Hokkaido University"
+A/crow/Hokkaido/0102L010/2022	"Yoshihiro, Sakoda; Takahiro, Hiono; Norikazu, Isoda"	"Graduate School Of Veterinary Medicine, Hokkaido University"
+A/Hubei/1/2010	"Yu Lan,Wei Wang,Shumei Zou,Zi Li,Leying Wen,Xiaodan Li,Libo Dong,Dexin Li,Yuelong Shu"	Who Chinese National Influenza Center
+A/Jiangsu/NJ210/2023	"Yu,huiyan;Qi,xian;Wang,shenjiao;Deng,fei"	Jiangsu Provincial Center For Disease Control & Prevention
+A/goose/Guangdong/SH7/2013	"Yuandi,Yu;Zaoyue,Zhang;Wenbao,Qi;Ming,Liao"	South China Agricultural University
+A/greaterwhitefrontedgoose/Italy/20VIR80734/2020	"Zecchin, B.; Fusaro, A.; Milani, A.; Schivo, A.; Salviato, A.; Pastori, A.; Zamperin, G.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/Eurasianwigeon/Italy/20VIR7301206/2020	"Zecchin, B.; Fusaro, A.; Pastori, A.; Milani, A.; Salviato, A.; Schivo, A.; Monne, I.; Terregino, C."	Istituto Zooprofilattico Sperimentale Delle Venezie
+A/duck/Hunan/3/2007	"Zhang,H.; Chen,Z."	
+A/environment/Changsha/213/2014	"Zhang,R.S.; Yao,D.; Ye,W.; Chen,J.F.; Liu,X.L.; Ou,X.H."	
+A/duck/EasternChina/057/2007	"Zhao,G.; Liu,X."	
+A/chicken/NorthChina/k0604/2010	"Zhao,G.; Liu,X."	
+A/chicken/Tibet/XZ1/2012	"Zhou,S.; Ge Sang,Z.; Suo Lang,S."	
+A/Greatwhitepelican/Israel/619/2021	"Zuckerman, N.S; Mandelboim,M; Bucris,E; Morad,H; Geva,M; ZilbertzanItay,O; Bar-OrI,I; S.Fratty,I; Berkovitch,A; Lublin,A; Simanov,L; Hadas,R; Farnoushi,Y; Shkoda,I"	Kimron Veterinary Institute
+A/Littleegret/Israel/172/2022	"Zuckerman, N.S; Mandelboim,M; Bucris,E; Morad,H; Geva,M; ZilbertzanItay,O; Bar-OrI,I; S.Fratty,I; Berkovitch,A; Lublin,A; Simanov,L; Hadas,R; Farnoushi,Y; Shkoda,I"	Kimron Veterinary Institute
+A/Greatwhitepelican/Israel/123/2022	"Zuckerman, N.S; Mandelboim,M; Bucris,E; Morad,H; Geva,M; ZilbertzanItay,O; Bar-OrI,I; S.Fratty,I; Berkovitch,A; Lublin,A; Simanov,L; Hadas,R; Farnoushi,Y; Shkoda,I"	Kimron Veterinary Institute
+A/commonkestel/Israel/492/2022	"Zuckerman, N.S; Mandelboim,M; Bucris,E; Morad,H; Geva,M; ZilbertzanItay,O; Bar-OrI,I; S.Fratty,I; Berkovitch,A; Lublin,A; Simanov,L; Hadas,R; Farnoushi,Y; Shkoda,I"	Kimron Veterinary Institute
+A/turkey/Israel/537/2021	"Zuckerman, N.S; Mandelboim,M; t Bucris,E;  Morad,H; Geva,M; ZilbertzanItay,O; Bar-OrI,I;  S.Fratty,I; Berkovitch,A; Lublin,A; Simanov,L; Hadas,R;  Farnoushi,Y; Shkoda,I"	Kimron Veterinary Institute
